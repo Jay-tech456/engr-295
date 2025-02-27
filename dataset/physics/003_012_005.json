@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Electromagnetism",
+    "sub_topic": "Calculation of magnetic field due to a current-carrying plane",
+    "message_1": "A rectangular loop of wire has a length of 20 cm and a width of 10 cm. The loop carries a current of 2 A. Determine the magnetic field strength at a point 5 cm away from the plane of the loop.",
+    "message_2": "To determine the magnetic field strength at a point 5 cm away from the plane of the loop, we can use the formula for the magnetic field produced by a rectangular loop:\n\nB = (μ₀ * I * a * b) / (4 * π * (a^2 + x^2)^(3/2))\n\nwhere B is the magnetic field strength, μ₀ is the permeability of free space (4π × 10^(-7) Tm/A), I is the current, a and b are the dimensions of the loop (length and width), and x is the distance from the plane of the loop.\n\nGiven the values:\nI = 2 A\na = 20 cm = 0.2 m\nb = 10 cm = 0.1 m\nx = 5 cm = 0.05 m\n\nPlugging these values into the formula:\n\nB = (4π × 10^(-7) Tm/A * 2 A * 0.2 m * 0.1 m) / (4 * π * (0.2^2 + 0.05^2)^(3/2))\n\nB = (8π × 10^(-7) Tm * 0.02 m^2) / (4 * π * (0.04 + 0.0025)^(3/2))\n\nB = (1.6 × 10^(-7) Tm) / ((0.0425)^(3/2))\n\nB ≈ 1.6 × 10^(-7) Tm / 0.0103\n\nB ≈ 1.55 × 10^(-5) T\n\nThe magnetic field strength at a point 5 cm away from the plane of the loop is approximately 1.55 × 10^(-5) T (Tesla)."
+}

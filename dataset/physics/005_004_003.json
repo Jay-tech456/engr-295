@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Special relativity",
+    "sub_topic": "Relativistic energy and momentum",
+    "message_1": "A particle with mass m moves at a velocity v. The relativistic energy of the particle is E. Find the momentum and velocity of the particle in terms of E and m.",
+    "message_2": "To find the momentum and velocity of the particle in terms of E and m, we can use the relativistic energy-momentum relation and the relativistic velocity formula.\n\nThe relativistic energy-momentum relation is given by:\n\nE² = (mc²)² + (pc)²\n\nwhere E is the relativistic energy, m is the mass of the particle, c is the speed of light, and p is the relativistic momentum.\n\nWe can solve for the momentum p:\n\np = sqrt(E² - (mc²)²) / c\n\nNow, let's find the velocity in terms of E and m. The relativistic velocity formula is given by:\n\nv = pc² / E\n\nSubstituting the expression for p we found earlier:\n\nv = (sqrt(E² - (mc²)²) / c) * c² / E\n\nSimplifying the expression:\n\nv = sqrt(E² - (mc²)²) / E\n\nSo, the momentum and velocity of the particle in terms of E and m are:\n\np = sqrt(E² - (mc²)²) / c\n\nv = sqrt(E² - (mc²)²) / E"
+}

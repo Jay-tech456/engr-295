@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Young's Double Slit Experiment",
+    "message_1": "What is the distance between the two slits in Young's Double Slit Experiment if the distance between the slits and the screen is 1 meter, and the fourth bright fringe is observed at an angle of 2 degrees from the center of the screen, given that the wavelength of the incident light is 500 nm?",
+    "message_2": "In Young's Double Slit Experiment, the condition for constructive interference (bright fringes) is given by:\n\nm * λ = d * sin(θ)\n\nwhere m is the order of the fringe (m = 4 for the fourth bright fringe), λ is the wavelength of the incident light (λ = 500 nm = 5 * 10^(-7) m), d is the distance between the two slits, and θ is the angle between the central maximum and the fringe (θ = 2 degrees).\n\nWe need to find the distance d between the two slits. First, we need to convert the angle θ from degrees to radians:\n\nθ = 2 degrees * (π / 180) = π / 90 radians\n\nNow, we can plug in the values into the equation and solve for d:\n\n4 * (5 * 10^(-7) m) = d * sin(π / 90)\n\nd = (4 * (5 * 10^(-7) m)) / sin(π / 90)\n\nd ≈ 5.77 * 10^(-6) m\n\nSo, the distance between the two slits in Young's Double Slit Experiment is approximately 5.77 * 10^(-6) meters or 5.77 micrometers."
+}

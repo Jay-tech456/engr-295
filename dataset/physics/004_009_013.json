@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "General relativity",
+    "sub_topic": "The Kerr metric and rotating black holes",
+    "message_1": "What is the maximum spin rate a black hole can have, according to the Kerr metric, before it becomes unstable?",
+    "message_2": "According to the Kerr metric, the maximum spin rate a black hole can have before it becomes unstable is when its dimensionless spin parameter (a*) reaches the value of 1. The dimensionless spin parameter is defined as the ratio of the black hole's angular momentum (J) to the product of its mass (M) and the gravitational constant (G) times the speed of light (c):\n\na* = J / (M * G * c)\n\nWhen a* = 1, the black hole is said to be an extremal black hole, and its event horizon and inner Cauchy horizon merge. If the spin rate were to increase beyond this point, the black hole would become unstable and the event horizon would disappear, potentially exposing the singularity. However, it is important to note that the extremal black hole is a theoretical limit, and it is not clear if such a black hole could actually exist in nature."
+}

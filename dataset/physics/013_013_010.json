@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Astrophysics",
+    "sub_topic": "Neutron stars and pulsars",
+    "message_1": "What is the minimum mass required for a neutron star to become a pulsar?",
+    "message_2": "There isn't a specific minimum mass required for a neutron star to become a pulsar. Pulsars are simply rapidly rotating neutron stars that emit beams of electromagnetic radiation out of their magnetic poles. The key factor for a neutron star to become a pulsar is its rotation rate, not its mass.\n\nHowever, the minimum mass required for a neutron star to form in the first place is around 1.1 to 1.4 solar masses (M☉). If a neutron star has a strong magnetic field and rotates rapidly, it can become a pulsar. The mass of the neutron star does not necessarily determine whether it will become a pulsar or not."
+}

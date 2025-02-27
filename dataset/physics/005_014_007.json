@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Special relativity",
+    "sub_topic": "Relativistic particle decay",
+    "message_1": "A decay of $\\pi^0$ meson produces two photons. The meson initially has a rest mass of $135\\text{ MeV}/c^2$ and moves at a speed of $0.6c$. What is the energy and momentum of each photon in the meson's rest frame?",
+    "message_2": "In the rest frame of the π0 meson, the decay process can be represented as:\n\nπ0 → γ + γ\n\nSince the π0 meson is at rest in this frame, the total initial momentum is zero. To conserve momentum, the two photons must have equal and opposite momenta. Let's denote the momentum of each photon as p.\n\nThe energy of the π0 meson in its rest frame is equal to its rest mass energy, which can be calculated using the famous Einstein's equation:\n\nE = mc^2\n\nwhere m is the rest mass of the π0 meson, c is the speed of light, and E is the energy. Plugging in the values, we get:\n\nE = (135 MeV/c^2)(c^2) = 135 MeV\n\nSince the π0 meson decays into two photons, the energy is equally divided between them. Therefore, the energy of each photon is:\n\nE_photon = E / 2 = 135 MeV / 2 = 67.5 MeV\n\nNow, we need to find the momentum of each photon. The energy-momentum relation for a photon is given by:\n\nE_photon = pc\n\nwhere p is the momentum of the photon. Solving for p, we get:\n\np = E_photon / c = (67.5 MeV) / c\n\nSo, in the meson's rest frame, each photon has an energy of 67.5 MeV and a momentum of (67.5 MeV) / c with equal and opposite directions."
+}

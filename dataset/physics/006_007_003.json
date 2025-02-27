@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Atomic physics",
+    "sub_topic": "Study of the Franck-Hertz experiment",
+    "message_1": "What is the minimum voltage required in the Franck-Hertz experiment to excite the mercury atoms to their first excited state, given that the first excited state of mercury is at an energy level of 4.9 electron volts?",
+    "message_2": "In the Franck-Hertz experiment, the minimum voltage required to excite the mercury atoms to their first excited state is equal to the energy difference between the ground state and the first excited state, which is given in electron volts (eV).\n\nThe energy level of the first excited state of mercury is given as 4.9 eV. Since 1 eV is equal to the energy gained by an electron when accelerated through a potential difference of 1 volt, the minimum voltage required to excite the mercury atoms to their first excited state is:\n\nMinimum voltage = Energy difference (in eV)\nMinimum voltage = 4.9 eV\n\nTherefore, the minimum voltage required in the Franck-Hertz experiment to excite the mercury atoms to their first excited state is 4.9 volts."
+}

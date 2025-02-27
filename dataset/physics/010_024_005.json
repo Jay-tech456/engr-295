@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Fluid mechanics",
+    "sub_topic": "Astrophysical fluid dynamics and stellar evolution",
+    "message_1": "What is the maximum mass of a white dwarf star that can be supported by electron degeneracy pressure?",
+    "message_2": "The maximum mass of a white dwarf star that can be supported by electron degeneracy pressure is known as the Chandrasekhar limit. This limit is approximately 1.4 solar masses (1.4 times the mass of our Sun). Beyond this mass, electron degeneracy pressure is insufficient to counteract the force of gravity, and the white dwarf will undergo further gravitational collapse, potentially leading to a supernova explosion or the formation of a neutron star or black hole."
+}

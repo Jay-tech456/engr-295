@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Critical Angle",
+    "message_1": "\"A ray of light travelling from an optically denser medium towards an optically rarer medium has an incident angle of 45 degrees. If the critical angle of the interface separating the two media is 60 degrees, will the ray undergo total internal reflection or refraction? Calculate the angle of refraction if refraction occurs.\"",
+    "message_2": "Since the incident angle (45 degrees) is less than the critical angle (60 degrees), the ray of light will undergo refraction and not total internal reflection.\n\nTo calculate the angle of refraction, we can use Snell's Law:\n\nn1 * sin(θ1) = n2 * sin(θ2)\n\nHere, n1 and n2 are the refractive indices of the denser and rarer media, respectively, θ1 is the angle of incidence (45 degrees), and θ2 is the angle of refraction.\n\nWe need to find the ratio of refractive indices (n1/n2) first. We can do this using the critical angle formula:\n\nsin(critical angle) = n2/n1\n\nsin(60 degrees) = n2/n1\n\nSince sin(60 degrees) = √3/2, we have:\n\nn2/n1 = √3/2\n\nNow, we can plug this into Snell's Law:\n\n(√3/2) * sin(45 degrees) = sin(θ2)\n\nSince sin(45 degrees) = 1/√2, we have:\n\n(√3/2) * (1/√2) = sin(θ2)\n\n(√3/2√2) = sin(θ2)\n\nNow, we can find the angle of refraction (θ2) by taking the inverse sine of both sides:\n\nθ2 = arcsin(√3/2√2)\n\nθ2 ≈ 35.26 degrees\n\nSo, the angle of refraction is approximately 35.26 degrees."
+}

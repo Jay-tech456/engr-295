@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Nuclear physics",
+    "sub_topic": "Nuclear reactions and cross sections",
+    "message_1": "What is the cross section for the (n,alpha) reaction in a sample of boron-10 when bombarded with thermal neutrons? Provide your answer in units of barns.",
+    "message_2": "The cross section for the (n,alpha) reaction in a sample of boron-10 when bombarded with thermal neutrons is approximately 3840 barns."
+}

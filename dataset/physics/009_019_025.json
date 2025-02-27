@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Young's Double Slit Experiment",
+    "message_1": "What is the distance between two adjacent bright fringes observed on a screen that is placed at a distance of 2 meters from a double-slit with a separation distance of 0.25 mm, when illuminated with a red light with a wavelength of 650 nm?",
+    "message_2": "To find the distance between two adjacent bright fringes, we can use the formula for the double-slit interference pattern:\n\ny = (m * λ * L) / d\n\nwhere:\ny = distance between adjacent bright fringes (m)\nm = order of the fringe (we'll use m = 1 for the first bright fringe)\nλ = wavelength of the light (650 nm = 650 * 10^(-9) m)\nL = distance between the double-slit and the screen (2 m)\nd = separation distance between the slits (0.25 mm = 0.25 * 10^(-3) m)\n\nPlugging in the values:\n\ny = (1 * 650 * 10^(-9) * 2) / (0.25 * 10^(-3))\ny = (1300 * 10^(-9)) / (0.25 * 10^(-3))\ny = 1300 * 10^(-6) / 0.25\ny = 0.0013 / 0.25\ny ≈ 0.0052 m\n\nSo, the distance between two adjacent bright fringes is approximately 0.0052 meters or 5.2 mm."
+}

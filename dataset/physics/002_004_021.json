@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of enthalpy change in a reaction",
+    "message_1": "Calculate the enthalpy change (∆H) for the combustion of methane (CH4) given that the heat released for the reaction is -890.3 kJ/mol.",
+    "message_2": "The enthalpy change (∆H) for the combustion of methane (CH4) is equal to the heat released for the reaction. Since the heat released is -890.3 kJ/mol, the enthalpy change for the combustion of methane is:\n\n∆H = -890.3 kJ/mol"
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of Carnot efficiency of a heat engine",
+    "message_1": "A heat engine operates between two heat reservoirs at temperatures of 400 K and 300 K. What is the maximum theoretical efficiency of the engine based on Carnot cycle?",
+    "message_2": "The maximum theoretical efficiency of a heat engine based on the Carnot cycle can be calculated using the following formula:\n\nEfficiency = 1 - (T_cold / T_hot)\n\nwhere T_cold is the temperature of the cold reservoir (300 K) and T_hot is the temperature of the hot reservoir (400 K).\n\nEfficiency = 1 - (300 K / 400 K)\nEfficiency = 1 - 0.75\nEfficiency = 0.25\n\nThe maximum theoretical efficiency of the engine based on the Carnot cycle is 25%."
+}

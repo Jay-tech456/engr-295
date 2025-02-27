@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Fluid mechanics",
+    "sub_topic": "Environmental fluid mechanics and pollution transport",
+    "message_1": "A chemical plant discharges a pollutant into a river, which flows downstream for 10km before joining with another river. If the pollutant has a concentration of 5mg/L at the point of discharge and the flow rate of the river is 1000L/s, determine the concentration of the pollutant at the point where the two rivers join assuming no dilution or degradation occurs along the way.",
+    "message_2": "If there is no dilution or degradation of the pollutant along the way, the concentration of the pollutant will remain the same at the point where the two rivers join. Therefore, the concentration of the pollutant at the confluence of the two rivers will be 5 mg/L."
+}

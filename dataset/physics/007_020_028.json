@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Nuclear physics",
+    "sub_topic": "Nuclear radiation detection and measurement",
+    "message_1": "A student wants to measure the activity of a radioactive source using a Geiger counter. The source emits beta particles with an average energy of 0.5 MeV. The efficiency of the counter for detecting beta particles is 20%. If the counter registers 1000 counts in 1 minute, what is the activity of the source in Becquerels?",
+    "message_2": "To calculate the activity of the radioactive source in Becquerels (Bq), we first need to determine the actual number of beta particles emitted by the source, considering the efficiency of the Geiger counter.\n\nThe Geiger counter registers 1000 counts in 1 minute, which is equivalent to 1000/60 = 16.67 counts per second. Since the efficiency of the counter is 20%, we can calculate the actual number of beta particles emitted by the source per second as follows:\n\nActual number of beta particles emitted per second = (Counts per second) / (Efficiency of the counter)\n= 16.67 / 0.20\n= 83.35 beta particles per second\n\nSince 1 Becquerel is defined as 1 radioactive decay (or emission) per second, the activity of the source is approximately 83.35 Bq."
+}

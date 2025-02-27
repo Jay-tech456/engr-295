@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Dark matter",
+    "sub_topic": "The possibility of dark matter being composed of primordial black holes",
+    "message_1": "What is the minimum mass threshold for primordial black holes to be a viable candidate for dark matter considering current observational constraints?",
+    "message_2": "The minimum mass threshold for primordial black holes (PBHs) to be a viable candidate for dark matter is a subject of ongoing research and debate. Observational constraints from various sources, such as gravitational lensing, cosmic microwave background radiation, and large-scale structure formation, have been used to place limits on the abundance and mass range of PBHs.\n\nRecent studies suggest that PBHs with masses between 10^(-16) solar masses (M☉) and 10^(-11) M☉ could still be viable dark matter candidates. However, it is important to note that these limits are subject to change as new observational data and theoretical models are developed.\n\nIn summary, the minimum mass threshold for PBHs to be considered as dark matter candidates is not yet definitively established, but current constraints suggest a range between 10^(-16) M☉ and 10^(-11) M☉."
+}

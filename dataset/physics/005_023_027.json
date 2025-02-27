@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Special relativity",
+    "sub_topic": "Relativistic black holes",
+    "message_1": "A spaceship is orbiting a black hole at a distance of 100 km. The black hole has a mass of 10 billion solar masses. What is the speed of the spaceship relative to an observer located at infinity?",
+    "message_2": "To find the speed of the spaceship relative to an observer located at infinity, we can use the formula for the orbital speed of an object in a circular orbit around a massive body:\n\nv = √(GM/r)\n\nwhere v is the orbital speed, G is the gravitational constant (6.67430 × 10^-11 m^3 kg^-1 s^-2), M is the mass of the black hole, and r is the distance from the center of the black hole to the spaceship.\n\nFirst, we need to convert the mass of the black hole from solar masses to kilograms. The mass of one solar mass is approximately 1.989 × 10^30 kg. Therefore, the mass of the black hole is:\n\nM = 10 billion solar masses × 1.989 × 10^30 kg/solar mass\nM = 1.989 × 10^40 kg\n\nNext, we need to convert the distance from the black hole to the spaceship from kilometers to meters:\n\nr = 100 km × 1000 m/km\nr = 100,000 m\n\nNow we can plug these values into the formula for orbital speed:\n\nv = √((6.67430 × 10^-11 m^3 kg^-1 s^-2) × (1.989 × 10^40 kg) / (100,000 m))\nv ≈ 1.84 × 10^7 m/s\n\nSo the speed of the spaceship relative to an observer located at infinity is approximately 1.84 × 10^7 m/s."
+}

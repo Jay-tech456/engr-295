@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Quantum mechanics",
+    "sub_topic": "The quantum gravity and black holes",
+    "message_1": "What happens to the information that falls into a black hole, according to the principles of quantum gravity?",
+    "message_2": "According to the principles of quantum gravity, the information that falls into a black hole is not lost but rather conserved. This idea is supported by the holographic principle and the concept of black hole complementarity.\n\nThe holographic principle suggests that the information about the objects that fall into a black hole is stored on the event horizon, which is the boundary of the black hole. The information is encoded in a two-dimensional form, similar to a hologram, and can be reconstructed if needed.\n\nBlack hole complementarity, proposed by Leonard Susskind, states that an observer outside the black hole sees the information stored on the event horizon, while an observer falling into the black hole experiences the information as they fall in. This concept resolves the information paradox by suggesting that the information is not lost but rather exists in two different descriptions, depending on the observer's perspective.\n\nIn summary, according to the principles of quantum gravity, the information that falls into a black hole is conserved and can be described in different ways depending on the observer's perspective. This idea is supported by the holographic principle and the concept of black hole complementarity."
+}

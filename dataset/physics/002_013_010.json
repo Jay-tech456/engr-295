@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of Carnot efficiency of a heat engine",
+    "message_1": "A Carnot engine operates between two reservoirs with temperatures of 500 K and 300 K respectively. Calculate the maximum efficiency of the engine.",
+    "message_2": "The maximum efficiency of a Carnot engine is given by the formula:\n\nEfficiency = 1 - (Tc/Th)\n\nwhere Tc is the temperature of the cold reservoir and Th is the temperature of the hot reservoir. In this case, Tc = 300 K and Th = 500 K.\n\nEfficiency = 1 - (300 K / 500 K)\nEfficiency = 1 - 0.6\nEfficiency = 0.4\n\nThe maximum efficiency of the Carnot engine operating between these two reservoirs is 40%."
+}

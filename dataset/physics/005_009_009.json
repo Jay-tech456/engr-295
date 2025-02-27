@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Special relativity",
+    "sub_topic": "Relativistic Doppler effect",
+    "message_1": "What is the observed frequency of light emitted from a source moving towards an observer with a velocity of 0.6c, if the emitted frequency is 540 THz? (Assume the speed of light in a vacuum is 3.0×10^8 m/s)",
+    "message_2": "To solve this problem, we can use the Doppler effect formula for the frequency of light:\n\nf_obs = f_src * (c + v_obs) / (c + v_src)\n\nwhere f_obs is the observed frequency, f_src is the source frequency, c is the speed of light, v_obs is the velocity of the observer, and v_src is the velocity of the source.\n\nIn this case, the source is moving towards the observer, so v_src = -0.6c (negative because it's moving towards the observer). The observer is stationary, so v_obs = 0.\n\nf_obs = f_src * (c + v_obs) / (c + v_src)\nf_obs = 540 THz * (3.0×10^8 m/s + 0) / (3.0×10^8 m/s - 0.6 * 3.0×10^8 m/s)\n\nNow, we can plug in the values and solve for f_obs:\n\nf_obs = 540 THz * (3.0×10^8 m/s) / (3.0×10^8 m/s - 1.8×10^8 m/s)\nf_obs = 540 THz * (3.0×10^8 m/s) / (1.2×10^8 m/s)\n\nf_obs = 540 THz * 2.5\n\nf_obs = 1350 THz\n\nSo, the observed frequency of light emitted from the source moving towards the observer is 1350 THz."
+}

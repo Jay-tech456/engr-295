@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Cosmology",
+    "sub_topic": "The study of black holes and their properties",
+    "message_1": "\"What is the relationship between a black hole's mass and its event horizon radius?\"",
+    "message_2": "The relationship between a black hole's mass (M) and its event horizon radius, also known as the Schwarzschild radius (Rs), is given by the Schwarzschild equation:\n\nRs = 2GM/c^2\n\nwhere G is the gravitational constant (approximately 6.674 × 10^-11 m^3 kg^-1 s^-2), M is the mass of the black hole, and c is the speed of light in a vacuum (approximately 3.0 × 10^8 m/s).\n\nThe Schwarzschild radius represents the distance from the center of the black hole to the event horizon, which is the boundary beyond which nothing can escape the black hole's gravitational pull, not even light. The larger the mass of the black hole, the larger its event horizon radius will be."
+}

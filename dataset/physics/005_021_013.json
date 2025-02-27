@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Special relativity",
+    "sub_topic": "Relativistic optics",
+    "message_1": "A train moves with a velocity of 0.9c with respect to a stationary observer. A beam of light is pointed perpendicular to the direction of motion of the train. Calculate the speed of the light beam as observed by an observer on the train.",
+    "message_2": "According to the theory of special relativity, the speed of light in a vacuum is always constant and equal to approximately 3.0 x 10^8 meters per second (m/s), regardless of the motion of the observer or the source of the light. This is a fundamental principle of special relativity, which was first proposed by Albert Einstein in 1905.\n\nSo, for an observer on the train, the speed of the light beam pointed perpendicular to the direction of motion of the train will still be the same as the speed of light in a vacuum, which is approximately 3.0 x 10^8 m/s. The relative motion of the train does not affect the observed speed of light for the observer on the train."
+}

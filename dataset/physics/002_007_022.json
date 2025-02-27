@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of heat capacity of a substance",
+    "message_1": "What is the heat capacity of a 200g piece of aluminum that absorbs 500 Joules of heat and experiences a temperature change from 25°C to 80°C?",
+    "message_2": "To find the heat capacity of the aluminum, we can use the formula:\n\nQ = mcΔT\n\nwhere Q is the heat absorbed (500 Joules), m is the mass of the aluminum (200g), c is the specific heat capacity of aluminum, and ΔT is the change in temperature (80°C - 25°C).\n\nFirst, let's find the change in temperature:\n\nΔT = 80°C - 25°C = 55°C\n\nNow, we can rearrange the formula to find the specific heat capacity (c) of aluminum:\n\nc = Q / (mΔT)\n\nWe have the values for Q, m, and ΔT:\n\nc = 500 J / (200g × 55°C)\n\nc = 500 J / 11000 g°C\n\nc ≈ 0.0455 J/g°C\n\nNow that we have the specific heat capacity of aluminum, we can find the heat capacity of the 200g piece of aluminum by multiplying the specific heat capacity by the mass:\n\nHeat Capacity = mc\n\nHeat Capacity = (200g)(0.0455 J/g°C)\n\nHeat Capacity = 9.1 J/°C\n\nSo, the heat capacity of the 200g piece of aluminum is approximately 9.1 J/°C."
+}

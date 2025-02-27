@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Electromagnetism",
+    "sub_topic": "Calculation of magnetic field due to a current-carrying motor",
+    "message_1": "A current-carrying motor with a length of 12 cm and a cross-sectional area of 5 cm^2 experiences a magnetic field of 0.5 T when a current of 4 A flows through the motor. Calculate the magnitude of the magnetic field experienced by the motor when the current is increased to 8 A.",
+    "message_2": "The magnetic field experienced by the motor is directly proportional to the current flowing through it. Therefore, if the current is doubled, the magnetic field will also double.\n\nInitial magnetic field (B1) = 0.5 T\nInitial current (I1) = 4 A\n\nFinal current (I2) = 8 A\n\nTo find the final magnetic field (B2), we can use the proportionality relationship:\n\nB1 / I1 = B2 / I2\n\nRearranging the equation to solve for B2:\n\nB2 = (B1 * I2) / I1\n\nSubstituting the given values:\n\nB2 = (0.5 T * 8 A) / 4 A\n\nB2 = 4 T / 4\n\nB2 = 1 T\n\nSo, the magnitude of the magnetic field experienced by the motor when the current is increased to 8 A is 1 Tesla."
+}

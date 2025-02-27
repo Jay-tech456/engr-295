@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Special relativity",
+    "sub_topic": "Relativistic mass increase",
+    "message_1": "A spaceship travels towards a star at a speed of 0.9c. If the rest mass of the spaceship is 1000 kg, what is the relativistic mass of the spaceship?",
+    "message_2": "To find the relativistic mass of the spaceship, we can use the following formula:\n\nm_rel = m_0 / sqrt(1 - v^2 / c^2)\n\nwhere m_rel is the relativistic mass, m_0 is the rest mass, v is the velocity of the spaceship, and c is the speed of light.\n\nGiven the rest mass m_0 = 1000 kg and the velocity v = 0.9c, we can plug these values into the formula:\n\nm_rel = 1000 kg / sqrt(1 - (0.9c)^2 / c^2)\n\nm_rel = 1000 kg / sqrt(1 - 0.81)\n\nm_rel = 1000 kg / sqrt(0.19)\n\nm_rel ≈ 1000 kg / 0.43589\n\nm_rel ≈ 2293.16 kg\n\nThe relativistic mass of the spaceship is approximately 2293.16 kg."
+}

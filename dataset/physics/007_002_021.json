@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Nuclear physics",
+    "sub_topic": "Radioactive decay and half-life calculations",
+    "message_1": "What is the half-life of a radioactive isotope that decays from 45% to 8.4375% of its original amount in 32 years?",
+    "message_2": "To solve this problem, we can use the half-life formula:\n\nN(t) = N0 * (1/2)^(t/T)\n\nwhere N(t) is the amount of the substance at time t, N0 is the initial amount, t is the time elapsed, and T is the half-life.\n\nWe are given that the isotope decays from 45% to 8.4375% of its original amount in 32 years. Let's set up two equations using this information:\n\n1) 0.45 * N0 = N0 * (1/2)^(t1/T)\n2) 0.084375 * N0 = N0 * (1/2)^(t2/T)\n\nWe know that t2 = t1 + 32 years. We can divide equation 2 by equation 1 to eliminate N0:\n\n(0.084375 * N0) / (0.45 * N0) = (1/2)^(t2/T) / (1/2)^(t1/T)\n\n0.1875 = (1/2)^((t1+32)/T) / (1/2)^(t1/T)\n\nNow we can simplify the equation by using the property a^(x-y) = a^x / a^y:\n\n0.1875 = (1/2)^((t1+32)/T - t1/T)\n\n0.1875 = (1/2)^(32/T)\n\nTo solve for T, we can take the logarithm of both sides:\n\nlog2(0.1875) = 32/T\n\nT = 32 / log2(0.1875)\n\nT ≈ 32 / (-2.415)\n\nT ≈ 13.25 years\n\nThe half-life of the radioactive isotope is approximately 13.25 years."
+}

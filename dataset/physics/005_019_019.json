@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Special relativity",
+    "sub_topic": "Relativistic wave interference",
+    "message_1": "What is the phase difference between two light waves of equal intensity and frequency, traveling in opposite directions, that interfere destructively? Assume the speed of light in vacuum is 299,792,458 m/s.",
+    "message_2": "In order to interfere destructively, the two light waves must be out of phase by half a wavelength (180 degrees or π radians). This is because the crest of one wave will coincide with the trough of the other wave, resulting in a net amplitude of zero at the point of interference.\n\nSo, the phase difference between the two light waves for destructive interference is 180 degrees or π radians."
+}

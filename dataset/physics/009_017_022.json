@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Single Slit Diffraction",
+    "message_1": "A laser with a wavelength of 650 nm is directed at a single slit with a width of 0.02 mm. How wide is the central maximum of the diffraction pattern formed by the slit at a distance of 1 m from the slit?",
+    "message_2": "To find the width of the central maximum of the diffraction pattern, we can use the formula for the angular width of the central maximum in a single-slit diffraction pattern:\n\nθ = 2 * (λ / a)\n\nwhere θ is the angular width of the central maximum, λ is the wavelength of the light, and a is the width of the slit.\n\nFirst, we need to convert the given values to meters:\n\nλ = 650 nm = 650 * 10^(-9) m\na = 0.02 mm = 0.02 * 10^(-3) m\n\nNow, we can plug these values into the formula:\n\nθ = 2 * (650 * 10^(-9) m / 0.02 * 10^(-3) m)\nθ ≈ 6.5 * 10^(-5) radians\n\nTo find the width of the central maximum at a distance of 1 m from the slit, we can use the formula:\n\nwidth = L * tan(θ)\n\nwhere L is the distance from the slit to the screen (1 m in this case), and θ is the angular width of the central maximum.\n\nwidth = 1 m * tan(6.5 * 10^(-5) radians)\nwidth ≈ 6.5 * 10^(-5) m\n\nThe width of the central maximum of the diffraction pattern formed by the slit at a distance of 1 m from the slit is approximately 6.5 * 10^(-5) meters or 6.5 * 10^(-2) cm."
+}

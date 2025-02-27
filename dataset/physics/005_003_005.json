@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Special relativity",
+    "sub_topic": "Relativistic velocity addition",
+    "message_1": "A spaceship travels towards a planet with a velocity of 0.8c, where c is the speed of light. A second spaceship travels from the opposite direction with a velocity of 0.5c. What is the relative velocity between the two spaceships according to an observer on the planet?",
+    "message_2": "To find the relative velocity between the two spaceships according to an observer on the planet, we need to use the relativistic velocity addition formula, which takes into account the effects of special relativity. The formula is:\n\nRelative velocity (v) = (v1 + v2) / (1 + (v1 * v2) / c^2)\n\nwhere v1 is the velocity of the first spaceship, v2 is the velocity of the second spaceship, and c is the speed of light.\n\nIn this case, v1 = 0.8c and v2 = -0.5c (negative because it's in the opposite direction).\n\nPlugging the values into the formula:\n\nv = (0.8c - 0.5c) / (1 + (0.8c * -0.5c) / c^2)\n\nv = (0.3c) / (1 - 0.4)\n\nv = (0.3c) / 0.6\n\nv = 0.5c\n\nSo the relative velocity between the two spaceships according to an observer on the planet is 0.5c."
+}

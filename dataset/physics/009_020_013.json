@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Diffraction Gratings",
+    "message_1": "A diffraction grating is used to separate spectral lines. A grating has 4000 lines per cm and a width of 2 cm. When light from a sodium lamp is incident normally on the grating, the third-order maximum occurs at an angle of 19.0 degrees. Calculate the wavelength of the light.",
+    "message_2": "To calculate the wavelength of the light, we can use the grating equation:\n\nd * sin(θ) = m * λ\n\nwhere d is the distance between the lines on the grating, θ is the angle of the diffracted light, m is the order of the maximum, and λ is the wavelength of the light.\n\nFirst, we need to find the distance between the lines on the grating (d). Since there are 4000 lines per cm, the distance between the lines is:\n\nd = 1 cm / 4000 lines = 1/4000 cm = 2.5 * 10^(-4) cm\n\nNow, we can plug the values into the grating equation:\n\n(2.5 * 10^(-4) cm) * sin(19.0 degrees) = 3 * λ\n\nTo solve for λ, we can use the sine function:\n\nsin(19.0 degrees) ≈ 0.32557\n\nNow, multiply the distance between the lines and the sine of the angle:\n\n(2.5 * 10^(-4) cm) * 0.32557 ≈ 8.13925 * 10^(-5) cm\n\nFinally, divide this value by the order of the maximum (m = 3) to find the wavelength:\n\nλ ≈ (8.13925 * 10^(-5) cm) / 3 ≈ 2.71308 * 10^(-5) cm\n\nTo convert the wavelength to nanometers (nm), multiply by 10^7:\n\nλ ≈ 2.71308 * 10^(-5) cm * 10^7 nm/cm ≈ 271.308 nm\n\nSo, the wavelength of the light is approximately 271.3 nm."
+}

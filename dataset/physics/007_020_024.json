@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Nuclear physics",
+    "sub_topic": "Nuclear radiation detection and measurement",
+    "message_1": "What is the total energy released in MeV when an alpha particle with an energy of 5 MeV is stopped in a detector with a thickness of 500 micrometers made of silicon? (Assume the detector is operated at room temperature and takes 100% of the energy of the alpha particle.)",
+    "message_2": "Since the detector is assumed to take 100% of the energy of the alpha particle, the total energy released in the detector when the alpha particle is stopped will be equal to the initial energy of the alpha particle. In this case, the alpha particle has an initial energy of 5 MeV. Therefore, the total energy released in the detector will be 5 MeV."
+}

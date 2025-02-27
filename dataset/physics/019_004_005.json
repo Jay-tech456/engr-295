@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Quantum field theory",
+    "sub_topic": "Calculation of cross-sections in quantum field theory.",
+    "message_1": "What is the cross-section calculated for the electron-electron scattering process in quantum electrodynamics at leading order?",
+    "message_2": "In quantum electrodynamics (QED), the leading-order cross-section for electron-electron scattering (also known as Møller scattering) is given by the Møller formula. The differential cross-section dσ/dΩ for this process can be expressed as:\n\ndσ/dΩ = (α^2 / 4π^2s) * (1 + cos^2(θ)) / (1 - cos^2(θ))\n\nwhere α is the fine-structure constant (approximately 1/137), s is the square of the center-of-mass energy, and θ is the scattering angle.\n\nTo find the total cross-section, you would integrate the differential cross-section over the full range of scattering angles:\n\nσ = ∫(dσ/dΩ) dΩ\n\nHowever, this integral diverges logarithmically as the scattering angle approaches 0 or π. In practice, this divergence is regulated by introducing a small-angle cutoff, which corresponds to the minimum resolvable angle in an experiment. The total cross-section will then depend on this cutoff and the specific experimental setup."
+}

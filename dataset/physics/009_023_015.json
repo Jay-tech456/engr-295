@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Malus' Law",
+    "message_1": "What is the intensity of transmitted light when a polarizer is aligned at 30° with the vertical and the incident intensity of light is 10 W/m²? Use Malus' Law to determine the numerical answer.",
+    "message_2": "Malus' Law states that the intensity of transmitted light through a polarizer is given by:\n\nI_transmitted = I_incident * cos²(θ)\n\nwhere I_incident is the incident intensity of light, θ is the angle between the polarizer's transmission axis and the plane of polarization of the incident light, and I_transmitted is the intensity of the transmitted light.\n\nIn this case, the incident intensity of light (I_incident) is 10 W/m², and the angle (θ) is 30°. First, we need to convert the angle from degrees to radians:\n\nθ = 30° * (π / 180°) ≈ 0.5236 radians\n\nNow, we can use Malus' Law to calculate the intensity of the transmitted light:\n\nI_transmitted = 10 W/m² * cos²(0.5236 radians)\nI_transmitted ≈ 10 W/m² * (0.866)²\nI_transmitted ≈ 10 W/m² * 0.75\nI_transmitted ≈ 7.5 W/m²\n\nSo, the intensity of the transmitted light when the polarizer is aligned at 30° with the vertical is approximately 7.5 W/m²."
+}

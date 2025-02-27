@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Diffraction",
+    "message_1": "A laser beam of 650 nm wavelength, passes through a single slit that is 0.1 mm wide. The distance from the slit to the wall is 2 meters. Determine the angle at which the first and second minima appear on the wall.",
+    "message_2": "To determine the angle at which the first and second minima appear on the wall, we can use the formula for single-slit diffraction minima:\n\nsin(θ) = (m * λ) / a\n\nwhere θ is the angle of the minima, m is the order of the minima (1 for the first minimum, 2 for the second minimum, etc.), λ is the wavelength of the light, and a is the width of the slit.\n\nGiven the problem, we have:\n\nλ = 650 nm = 650 * 10^(-9) m\na = 0.1 mm = 0.1 * 10^(-3) m\n\nFor the first minimum (m = 1):\n\nsin(θ1) = (1 * 650 * 10^(-9)) / (0.1 * 10^(-3))\nsin(θ1) = 6.5 * 10^(-6)\n\nθ1 = arcsin(6.5 * 10^(-6))\nθ1 ≈ 0.000373 rad\n\nFor the second minimum (m = 2):\n\nsin(θ2) = (2 * 650 * 10^(-9)) / (0.1 * 10^(-3))\nsin(θ2) = 13 * 10^(-6)\n\nθ2 = arcsin(13 * 10^(-6))\nθ2 ≈ 0.000746 rad\n\nSo, the angles at which the first and second minima appear on the wall are approximately 0.000373 radians and 0.000746 radians, respectively."
+}

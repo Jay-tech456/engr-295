@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Nuclear physics",
+    "sub_topic": "Nuclear medicine and medical imaging",
+    "message_1": "What is the half-life of Technetium-99m and how is it used in medical imaging?",
+    "message_2": "The half-life of Technetium-99m is approximately 6 hours.\n\nTechnetium-99m is used in medical imaging as a radiotracer, specifically in nuclear medicine procedures. It is a metastable isotope, meaning it emits gamma radiation as it decays to a more stable form, Technetium-99. The gamma radiation can be detected by a gamma camera, which creates an image of the distribution of the radiotracer within the body.\n\nTechnetium-99m is commonly used in procedures such as bone scans, heart imaging, and sentinel lymph node mapping. It can be combined with various molecules to target specific organs or tissues, allowing doctors to visualize and diagnose a variety of conditions, such as cancer, infections, and blood flow issues. The relatively short half-life of Technetium-99m ensures that patients are exposed to minimal radiation during the procedure."
+}

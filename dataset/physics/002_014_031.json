@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of efficiency of a refrigerator",
+    "message_1": "A refrigerator uses 1000 J of energy to remove 800 J of heat from the interior and exhaust 200 J of heat to the atmosphere. Find the efficiency of the refrigerator.",
+    "message_2": "The efficiency of a refrigerator is defined as the ratio of the heat removed from the interior (Q_cold) to the work input (W). In this case, the refrigerator uses 1000 J of energy (work input) to remove 800 J of heat from the interior.\n\nEfficiency = Q_cold / W\n\nEfficiency = 800 J / 1000 J\n\nEfficiency = 0.8 or 80%\n\nThe efficiency of the refrigerator is 80%."
+}

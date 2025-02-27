@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Nuclear physics",
+    "sub_topic": "Radioactive decay and half-life calculations",
+    "message_1": "What is the half-life of a radioactive isotope if 75% of the original amount of the isotope has decayed after 30 minutes?",
+    "message_2": "To solve this problem, we can use the half-life formula:\n\nN(t) = N0 * (1/2)^(t/T)\n\nwhere N(t) is the amount of the isotope remaining after time t, N0 is the initial amount of the isotope, T is the half-life, and t is the time elapsed.\n\nIn this case, 75% of the original amount has decayed, so 25% remains. Therefore, N(t) = 0.25 * N0. The time elapsed, t, is 30 minutes.\n\nWe can plug these values into the formula:\n\n0.25 * N0 = N0 * (1/2)^(30/T)\n\nNow, we can divide both sides by N0:\n\n0.25 = (1/2)^(30/T)\n\nTo solve for T, we can take the logarithm of both sides:\n\nlog(0.25) = log((1/2)^(30/T))\n\nUsing the properties of logarithms, we can rewrite this as:\n\nlog(0.25) = (30/T) * log(1/2)\n\nNow, we can solve for T:\n\nT = 30 * log(1/2) / log(0.25)\n\nUsing a calculator, we find:\n\nT ≈ 15 minutes\n\nSo, the half-life of the radioactive isotope is approximately 15 minutes."
+}

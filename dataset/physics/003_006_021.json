@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Electromagnetism",
+    "sub_topic": "Calculation of magnetic field due to a current-carrying coil",
+    "message_1": "What is the magnitude and direction of the magnetic field at a point which is located at the center of a circular coil of radius r carrying a current I? Give your answer in terms of r, I and any necessary constants.",
+    "message_2": "The magnetic field at the center of a circular coil of radius r carrying a current I can be calculated using Ampere's law. The formula for the magnetic field at the center of the coil is:\n\nB = (μ₀ * I) / (2 * r)\n\nwhere B is the magnetic field, μ₀ is the permeability of free space (4π × 10^(-7) Tm/A), I is the current, and r is the radius of the coil.\n\nThe direction of the magnetic field can be determined using the right-hand rule. If you curl the fingers of your right hand in the direction of the current flow around the coil, your thumb will point in the direction of the magnetic field. In this case, the magnetic field will be perpendicular to the plane of the coil, either pointing upwards or downwards depending on the direction of the current."
+}

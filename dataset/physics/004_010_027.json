@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "General relativity",
+    "sub_topic": "The Schwarzschild metric and non-rotating black holes",
+    "message_1": "Calculate the Schwarzschild radius for a non-rotating black hole with a mass equal to that of the sun ($M_{\\odot} = 1.989 × 10^{30}$ kg).",
+    "message_2": "The Schwarzschild radius (r_s) is the radius of a sphere such that, if all the mass of an object were to be compressed within that sphere, the escape speed from the surface of the sphere would equal the speed of light. It is given by the formula:\n\n$r_s = \\frac{2GM}{c^2}$\n\nwhere G is the gravitational constant ($6.674 × 10^{-11} m^3 kg^{-1} s^{-2}$), M is the mass of the object, and c is the speed of light ($2.998 × 10^8 m/s$).\n\nFor a black hole with a mass equal to that of the sun ($M_{\\odot} = 1.989 × 10^{30}$ kg), we can plug in the values into the formula:\n\n$r_s = \\frac{2(6.674 × 10^{-11} m^3 kg^{-1} s^{-2})(1.989 × 10^{30} kg)}{(2.998 × 10^8 m/s)^2}$\n\n$r_s = \\frac{(1.327 × 10^{20} m^3 s^{-2})}{(8.987 × 10^{16} m^2 s^{-2})}$\n\n$r_s = 1.477 × 10^3 m$\n\nSo, the Schwarzschild radius for a non-rotating black hole with a mass equal to that of the sun is approximately 1,477 meters or 1.477 kilometers."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Aberrations in Lenses",
+    "message_1": "A convex lens of focal length 20 cm is placed in front of an object. Due to the presence of spherical aberration, the image produced by the lens is found to be blurred. Calculate the distance between the object and the lens, if the image formed is at a distance of 25 cm from the lens.",
+    "message_2": "To calculate the distance between the object and the lens, we can use the lens formula:\n\n1/f = 1/v - 1/u\n\nwhere f is the focal length of the lens, v is the distance between the lens and the image, and u is the distance between the object and the lens.\n\nGiven the focal length (f) is 20 cm and the distance between the lens and the image (v) is 25 cm, we can plug these values into the formula:\n\n1/20 = 1/25 - 1/u\n\nNow, we need to solve for u:\n\n1/u = 1/20 - 1/25\n1/u = (25 - 20) / (20 * 25)\n1/u = 5 / 500\n1/u = 1/100\n\nu = 100 cm\n\nSo, the distance between the object and the lens is 100 cm."
+}

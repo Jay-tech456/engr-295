@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "General relativity",
+    "sub_topic": "The Schwarzschild metric and non-rotating black holes",
+    "message_1": "What is the event horizon radius of a non-rotating black hole with a mass of 10 solar masses, given the Schwarzschild metric?",
+    "message_2": "The event horizon radius of a non-rotating black hole can be calculated using the Schwarzschild radius formula:\n\nSchwarzschild radius (Rs) = 2 * G * M / c^2\n\nwhere G is the gravitational constant, M is the mass of the black hole, and c is the speed of light.\n\nGiven the mass of the black hole is 10 solar masses, we first need to convert this mass into kilograms. One solar mass is approximately 1.989 x 10^30 kg. Therefore, the mass of the black hole in kilograms is:\n\nM = 10 * 1.989 x 10^30 kg = 1.989 x 10^31 kg\n\nNow we can plug in the values into the Schwarzschild radius formula:\n\nG = 6.674 x 10^-11 m^3 kg^-1 s^-2 (gravitational constant)\nc = 2.998 x 10^8 m/s (speed of light)\n\nRs = 2 * (6.674 x 10^-11 m^3 kg^-1 s^-2) * (1.989 x 10^31 kg) / (2.998 x 10^8 m/s)^2\n\nRs ≈ 2.954 x 10^4 meters\n\nSo, the event horizon radius of a non-rotating black hole with a mass of 10 solar masses is approximately 29,540 meters or 29.54 kilometers."
+}

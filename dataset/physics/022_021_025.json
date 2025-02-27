@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Dark matter",
+    "sub_topic": "The possibility of dark matter being composed of extra-dimensional particles",
+    "message_1": "What is the possible mass range for extra-dimensional particles that could make up dark matter?",
+    "message_2": "The possible mass range for extra-dimensional particles that could make up dark matter is not well-defined, as it depends on the specific theoretical framework being considered. However, some popular candidates for extra-dimensional dark matter particles include Kaluza-Klein particles, WIMPs (Weakly Interacting Massive Particles), and axions.\n\nIn the context of Kaluza-Klein theories, the mass range could be from a few GeV (giga-electronvolts) to several TeV (tera-electronvolts). For WIMPs, the mass range is typically between 10 GeV and a few TeV. Axions, on the other hand, are much lighter, with a mass range between 10^-6 eV (micro-electronvolts) and 10^-3 eV (milli-electronvolts).\n\nIt is important to note that these mass ranges are based on current theoretical models and experimental constraints. As our understanding of extra-dimensional theories and dark matter improves, these mass ranges may be refined or expanded."
+}

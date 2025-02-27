@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Diffraction",
+    "message_1": "A laser beam of wavelength 500 nm is passing through a narrow slit of width 0.2 mm. Determine the angle at which the first minimum of the diffraction pattern appears on a screen placed 2 meters away from the slit.",
+    "message_2": "To determine the angle at which the first minimum of the diffraction pattern appears, we can use the single-slit diffraction formula:\n\nsin(θ) = (m * λ) / a\n\nwhere:\nθ = angle of the first minimum\nm = order of the minimum (m = 1 for the first minimum)\nλ = wavelength of the laser beam (500 nm = 500 * 10^(-9) m)\na = width of the slit (0.2 mm = 0.2 * 10^(-3) m)\n\nPlugging in the values:\n\nsin(θ) = (1 * 500 * 10^(-9)) / (0.2 * 10^(-3))\n\nsin(θ) = 2.5 * 10^(-6)\n\nNow, we can find the angle θ by taking the inverse sine (arcsin) of both sides:\n\nθ = arcsin(2.5 * 10^(-6))\n\nθ ≈ 1.43 * 10^(-4) radians\n\nTo convert this angle to degrees, we can use the conversion factor (180°/π):\n\nθ ≈ (1.43 * 10^(-4) * 180) / π\n\nθ ≈ 8.2 * 10^(-3) degrees\n\nSo, the angle at which the first minimum of the diffraction pattern appears is approximately 8.2 * 10^(-3) degrees."
+}

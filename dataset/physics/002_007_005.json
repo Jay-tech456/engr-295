@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of heat capacity of a substance",
+    "message_1": "Sure! Here's a specific question for a physics student to solve:\n\nA copper block weighing 500 grams absorbs 500 J of heat. If the temperature of the block increases from 25°C to 50°C, what is the specific heat capacity of copper in J/g°C?",
+    "message_2": "To find the specific heat capacity of copper, we can use the formula:\n\nQ = mcΔT\n\nwhere Q is the heat absorbed (500 J), m is the mass of the copper block (500 g), c is the specific heat capacity of copper (which we want to find), and ΔT is the change in temperature (50°C - 25°C = 25°C).\n\nRearranging the formula to solve for c, we get:\n\nc = Q / (mΔT)\n\nNow, we can plug in the values:\n\nc = 500 J / (500 g × 25°C)\n\nc = 500 J / 12500 g°C\n\nc = 0.04 J/g°C\n\nSo, the specific heat capacity of copper is 0.04 J/g°C."
+}

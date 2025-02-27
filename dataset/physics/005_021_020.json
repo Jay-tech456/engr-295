@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Special relativity",
+    "sub_topic": "Relativistic optics",
+    "message_1": "A laser beam is moving at a speed of 0.6c in a vacuum towards a piece of glass that has an index of refraction of 1.5. What will be the angle of refraction of the laser beam when it enters the glass?",
+    "message_2": "To find the angle of refraction, we can use Snell's Law, which states:\n\nn1 * sin(θ1) = n2 * sin(θ2)\n\nwhere n1 and n2 are the indices of refraction of the two media (in this case, vacuum and glass), θ1 is the angle of incidence, and θ2 is the angle of refraction.\n\nHowever, we need to know the angle of incidence (θ1) to solve for the angle of refraction (θ2). If you provide the angle of incidence, I can calculate the angle of refraction for you."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of enthalpy change in a reaction",
+    "message_1": "A student wants to calculate the enthalpy change for the combustion of methane (CH4) at constant pressure. The student knows the enthalpy of formation for methane and the products of the reaction (CO2 and H2O). Write an equation and provide the necessary enthalpy values for the student to calculate the enthalpy change for the combustion of one mole of methane.",
+    "message_2": "To calculate the enthalpy change (ΔH) for the combustion of one mole of methane at constant pressure, the student can use the following equation:\n\nΔH_combustion = Σ ΔH_f(products) - Σ ΔH_f(reactants)\n\nThe balanced chemical equation for the combustion of methane is:\n\nCH4(g) + 2 O2(g) → CO2(g) + 2 H2O(l)\n\nThe enthalpy of formation (ΔH_f) values needed for this calculation are:\n\nΔH_f(CH4) = -74.8 kJ/mol\nΔH_f(CO2) = -393.5 kJ/mol\nΔH_f(H2O) = -285.8 kJ/mol\n\nNow, plug these values into the equation:\n\nΔH_combustion = [1 × (-393.5 kJ/mol) + 2 × (-285.8 kJ/mol)] - [1 × (-74.8 kJ/mol)]\n\nCalculate the enthalpy change for the combustion of one mole of methane:\n\nΔH_combustion = (-393.5 - 2 × 285.8 + 74.8) kJ/mol = -802.3 kJ/mol\n\nSo, the enthalpy change for the combustion of one mole of methane is -802.3 kJ/mol."
+}

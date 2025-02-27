@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of efficiency of a refrigerator",
+    "message_1": "Calculate the coefficient of performance (COP) of a refrigerator that operates between temperatures of 0°C and 5°C, and consumes 500 J of work to remove 1000 J of heat from the food inside the refrigerator.",
+    "message_2": "The coefficient of performance (COP) of a refrigerator is defined as the ratio of the heat removed from the food (Q_c) to the work input (W) required to run the refrigerator. Mathematically, it can be expressed as:\n\nCOP = Q_c / W\n\nIn this problem, we are given the following values:\n\nQ_c = 1000 J (heat removed from the food)\nW = 500 J (work input)\n\nNow, we can calculate the COP:\n\nCOP = 1000 J / 500 J = 2\n\nThe coefficient of performance of the refrigerator is 2. This means that for every 1 Joule of work input, the refrigerator removes 2 Joules of heat from the food."
+}

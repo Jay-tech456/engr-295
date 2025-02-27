@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of heat capacity of a substance",
+    "message_1": "What is the heat capacity of 1 kg of liquid water at a temperature of 20°C if it requires 4,186 joules of heat energy to raise its temperature by 1°C?",
+    "message_2": "The heat capacity (C) of a substance is the amount of heat energy required to raise the temperature of a given mass (m) of the substance by 1°C. It can be calculated using the formula:\n\nC = mc\n\nwhere m is the mass of the substance and c is the specific heat capacity of the substance.\n\nIn this case, we are given the mass (m) of liquid water as 1 kg and the specific heat capacity (c) of water as 4,186 J/kg°C. We can now calculate the heat capacity (C) using the formula:\n\nC = (1 kg) × (4,186 J/kg°C)\n\nC = 4,186 J/°C\n\nSo, the heat capacity of 1 kg of liquid water at a temperature of 20°C is 4,186 J/°C."
+}

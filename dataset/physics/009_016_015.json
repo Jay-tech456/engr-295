@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Diffraction",
+    "message_1": "A laser beam with a wavelength of 632.8 nm passes through a single slit with a width of 0.025 mm. Determine the distance between the central maximum and the first-order maximum on a screen placed 2 m away from the slit.",
+    "message_2": "To determine the distance between the central maximum and the first-order maximum, we can use the formula for single-slit diffraction:\n\nsin(θ) = (m * λ) / a\n\nwhere θ is the angle between the central maximum and the first-order maximum, m is the order of the maximum (m = 1 for the first-order maximum), λ is the wavelength of the laser beam, and a is the width of the slit.\n\nFirst, we need to convert the given values to meters:\n\nλ = 632.8 nm = 632.8 * 10^(-9) m\na = 0.025 mm = 0.025 * 10^(-3) m\n\nNow, we can plug these values into the formula:\n\nsin(θ) = (1 * 632.8 * 10^(-9)) / (0.025 * 10^(-3))\n\nsin(θ) = 2.5312 * 10^(-5)\n\nNow, we can find the angle θ by taking the inverse sine of both sides:\n\nθ = arcsin(2.5312 * 10^(-5))\n\nθ ≈ 0.00145 radians\n\nNow that we have the angle, we can use the small angle approximation to find the distance y between the central maximum and the first-order maximum on the screen:\n\ny = L * tan(θ) ≈ L * θ\n\nwhere L is the distance between the slit and the screen (2 m in this case).\n\ny ≈ 2 * 0.00145\n\ny ≈ 0.0029 m\n\nSo, the distance between the central maximum and the first-order maximum on the screen is approximately 0.0029 meters or 2.9 mm."
+}

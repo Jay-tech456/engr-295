@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Fluid mechanics",
+    "sub_topic": "Astrophysical fluid dynamics and stellar evolution",
+    "message_1": "What is the minimum mass required for a protostar to ignite nuclear fusion and become a main sequence star, assuming it is composed of 75% hydrogen and 25% helium by mass?",
+    "message_2": "The minimum mass required for a protostar to ignite nuclear fusion and become a main sequence star is approximately 0.08 solar masses, or about 80 times the mass of Jupiter. This is the mass at which the core temperature and pressure are sufficient for hydrogen fusion to occur via the proton-proton chain reaction. Below this mass, the object is considered a brown dwarf, which does not sustain nuclear fusion in its core."
+}

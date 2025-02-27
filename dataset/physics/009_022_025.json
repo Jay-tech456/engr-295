@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Brewster's Law",
+    "message_1": "A light ray of wavelength 500 nm is incident on a glass block at an angle of incidence 60 degrees. Find the angle of refraction using Brewster's Law if the reflected light is completely polarized horizontally.",
+    "message_2": "Brewster's Law states that when light is incident on a surface at the Brewster angle, the reflected light is completely polarized horizontally. The Brewster angle (θ_B) is given by the formula:\n\nθ_B = arctan(n2/n1)\n\nwhere n1 and n2 are the refractive indices of the first and second media, respectively. In this case, n1 is the refractive index of air (approximately 1) and n2 is the refractive index of the glass block.\n\nSince the angle of incidence is 60 degrees, we can use Brewster's Law to find the refractive index of the glass block:\n\ntan(60°) = n2/1\nn2 = tan(60°) ≈ 1.73\n\nNow, we can use Snell's Law to find the angle of refraction (θ_r):\n\nn1 * sin(θ_i) = n2 * sin(θ_r)\n\nwhere θ_i is the angle of incidence (60 degrees) and θ_r is the angle of refraction. Plugging in the values:\n\n1 * sin(60°) = 1.73 * sin(θ_r)\n\nsin(θ_r) = sin(60°) / 1.73 ≈ 0.532\nθ_r = arcsin(0.532) ≈ 32.2°\n\nSo, the angle of refraction is approximately 32.2 degrees."
+}

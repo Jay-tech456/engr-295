@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of internal energy of a system",
+    "message_1": "A gas confined in a cylinder with a piston has a pressure of 2 bar and volume of 0.1 m3. The gas expands isothermally to a final pressure of 1 bar. If the internal energy of the gas is initially 4 kJ, what is the final internal energy of the gas?",
+    "message_2": "Since the process is isothermal, the temperature of the gas remains constant throughout the expansion. For an isothermal process, the internal energy of an ideal gas does not change. Therefore, the final internal energy of the gas will be the same as the initial internal energy, which is 4 kJ."
+}

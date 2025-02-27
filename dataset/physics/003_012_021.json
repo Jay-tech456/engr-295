@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Electromagnetism",
+    "sub_topic": "Calculation of magnetic field due to a current-carrying plane",
+    "message_1": "A rectangular coil with dimensions 2cm x 3cm is carrying a steady current of 5A. Determine the magnetic field at a point 4cm away from the coil along its central axis. The coil is positioned such that its longer sides are parallel to the ground.",
+    "message_2": "To calculate the magnetic field at a point along the central axis of a rectangular coil, we can use the formula derived from Biot-Savart Law for a rectangular loop:\n\nB = (μ₀ * I * a * b) / (4 * π * (a^2 + x^2)^(3/2))\n\nwhere:\nB is the magnetic field\nμ₀ is the permeability of free space (4π × 10^(-7) Tm/A)\nI is the current in the coil (5 A)\na is the half-length of the shorter side of the coil (1 cm = 0.01 m)\nb is the half-length of the longer side of the coil (1.5 cm = 0.015 m)\nx is the distance from the center of the coil along its central axis (4 cm = 0.04 m)\n\nNow, we can plug in the values and calculate the magnetic field:\n\nB = (4π × 10^(-7) Tm/A * 5 A * 0.01 m * 0.015 m) / (4 * π * (0.01^2 + 0.04^2)^(3/2))\nB = (20π × 10^(-7) Tm * 0.00015 m^2) / (4 * π * (0.0016)^(3/2))\nB = (3π × 10^(-6) T) / (4 * π * 0.0016^(3/2))\nB ≈ 2.98 × 10^(-6) T / 0.016\nB ≈ 1.86 × 10^(-4) T\n\nSo, the magnetic field at a point 4 cm away from the coil along its central axis is approximately 1.86 × 10^(-4) T."
+}

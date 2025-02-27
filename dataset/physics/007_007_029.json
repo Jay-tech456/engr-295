@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Nuclear physics",
+    "sub_topic": "Nuclear magnetic resonance (NMR) spectroscopy",
+    "message_1": "What is the frequency of the magnetic field required for an excited carbon-13 nucleus in a magnetic field of 9.4T, given that the gyromagnetic ratio for carbon-13 is 10.71 MHz/T?",
+    "message_2": "The frequency of the magnetic field required for an excited carbon-13 nucleus can be calculated using the Larmor equation:\n\nFrequency (f) = Gyromagnetic ratio (γ) × Magnetic field strength (B)\n\nGiven the gyromagnetic ratio (γ) for carbon-13 is 10.71 MHz/T and the magnetic field strength (B) is 9.4 T, we can calculate the frequency as follows:\n\nf = 10.71 MHz/T × 9.4 T\n\nf ≈ 100.674 MHz\n\nTherefore, the frequency of the magnetic field required for an excited carbon-13 nucleus in a magnetic field of 9.4T is approximately 100.674 MHz."
+}

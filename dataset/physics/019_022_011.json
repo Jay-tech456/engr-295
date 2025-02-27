@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Quantum field theory",
+    "sub_topic": "Calculation of holographic dualities in quantum field theory.",
+    "message_1": "\"What is the holographic dual of a strongly-coupled 2+1 dimensional conformal field theory with a U(1) global symmetry?\"",
+    "message_2": "The holographic dual of a strongly-coupled 2+1 dimensional conformal field theory (CFT) with a U(1) global symmetry is a 3+1 dimensional Anti-de Sitter (AdS) spacetime with a gauge field that is charged under the U(1) symmetry. This duality is based on the AdS/CFT correspondence, which is a powerful tool in theoretical physics that relates a gravitational theory in a higher-dimensional spacetime to a non-gravitational field theory in one lower dimension.\n\nIn this case, the 2+1 dimensional CFT is dual to a 3+1 dimensional AdS spacetime with a U(1) gauge field. The gauge field in the AdS spacetime is responsible for the U(1) global symmetry in the CFT, and the strong coupling in the CFT corresponds to the classical limit of the AdS spacetime. This duality allows us to study strongly-coupled field theories using the tools of classical gravity, which can be more tractable in certain cases."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Astrophysics",
+    "sub_topic": "Supernova explosions and their remnants",
+    "message_1": "What is the theoretical maximum energy that can be released in a supernova explosion and how does it compare to the energy released by typical supernovae such as SN 1987A?",
+    "message_2": "The theoretical maximum energy that can be released in a supernova explosion is determined by the binding energy of the progenitor star and the conversion efficiency of gravitational potential energy into kinetic energy and radiation. For a core-collapse supernova, which results from the collapse of a massive star, the maximum energy release is on the order of 10^46 to 10^47 joules (or 100 to 1000 foe, where 1 foe = 10^44 joules).\n\nSN 1987A, a core-collapse supernova, released an estimated energy of approximately 10^46 joules (or about 1 foe). This is within the range of typical supernovae, which release energies between 10^44 and 10^47 joules. Therefore, the energy released by SN 1987A is comparable to the energy released by other typical supernovae and is within the theoretical maximum energy that can be released in a supernova explosion."
+}

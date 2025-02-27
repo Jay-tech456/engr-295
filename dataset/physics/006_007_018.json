@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Atomic physics",
+    "sub_topic": "Study of the Franck-Hertz experiment",
+    "message_1": "What is the minimum required energy of the electrons used in the Franck-Hertz experiment to excite the mercury atoms present in the tube?",
+    "message_2": "The Franck-Hertz experiment is a classic experiment in physics that demonstrates the quantization of energy levels in atoms. In this experiment, electrons are accelerated through a low-pressure gas (in this case, mercury vapor) and collide with the mercury atoms. When the electrons have enough energy, they can excite the mercury atoms to a higher energy level. The minimum energy required for this excitation is the difference between the ground state and the first excited state of the mercury atom.\n\nFor mercury, the energy difference between the ground state and the first excited state is approximately 4.9 electron volts (eV). Therefore, the minimum required energy of the electrons used in the Franck-Hertz experiment to excite the mercury atoms present in the tube is 4.9 eV."
+}

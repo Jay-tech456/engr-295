@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Special relativity",
+    "sub_topic": "Relativistic mass increase",
+    "message_1": "A particle with a rest mass of 1 gram is accelerated to a velocity of 0.9c. Calculate its relativistic mass and compare it to its rest mass.",
+    "message_2": "To calculate the relativistic mass of a particle, we can use the following equation:\n\nm = m0 / sqrt(1 - v^2/c^2)\n\nwhere m is the relativistic mass, m0 is the rest mass, v is the velocity of the particle, and c is the speed of light.\n\nGiven:\nm0 = 1 gram\nv = 0.9c\nc = 3 x 10^8 m/s\n\nFirst, let's find the square of the velocity as a fraction of the speed of light:\n\n(v/c)^2 = (0.9c/c)^2 = 0.9^2 = 0.81\n\nNow, we can calculate the relativistic mass:\n\nm = m0 / sqrt(1 - v^2/c^2) = 1 gram / sqrt(1 - 0.81) = 1 gram / sqrt(0.19)\n\nm ≈ 1 gram / 0.43589 ≈ 2.294 grams\n\nThe relativistic mass of the particle is approximately 2.294 grams. Comparing this to its rest mass, the relativistic mass is about 2.294 times greater than the rest mass."
+}

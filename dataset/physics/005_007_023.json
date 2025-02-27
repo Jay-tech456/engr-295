@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Special relativity",
+    "sub_topic": "Twin paradox",
+    "message_1": "If two twin siblings separate, with one staying on Earth and the other traveling in a spacecraft at 90% of the speed of light for 10 years, how much younger will the traveling twin be when they return to Earth according to the Twin Paradox?",
+    "message_2": "The Twin Paradox is a thought experiment in special relativity that involves a pair of twins, one of whom makes a journey into space in a high-speed rocket and returns home to find that the twin who remained on Earth has aged more.\n\nIn this case, one twin is traveling at 90% of the speed of light (0.9c) for 10 years. To find out how much younger the traveling twin will be when they return to Earth, we need to use the time dilation formula:\n\nΔt' = Δt / √(1 - v²/c²)\n\nwhere Δt' is the time experienced by the traveling twin, Δt is the time experienced by the Earth-bound twin (10 years), v is the velocity of the traveling twin (0.9c), and c is the speed of light.\n\nΔt' = 10 years / √(1 - (0.9c)²/c²)\n\nΔt' = 10 years / √(1 - 0.81)\n\nΔt' = 10 years / √(0.19)\n\nΔt' ≈ 10 years / 0.43589\n\nΔt' ≈ 22.94 years\n\nThe traveling twin will have aged about 22.94 years during their 10-year journey at 0.9c. The difference in age between the twins when the traveling twin returns to Earth is:\n\nΔt - Δt' = 10 years - 22.94 years ≈ -12.94 years\n\nSo, the traveling twin will be approximately 12.94 years younger than their Earth-bound sibling when they return."
+}

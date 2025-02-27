@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Special relativity",
+    "sub_topic": "Relativistic wave Doppler effect",
+    "message_1": "A spaceship is emitting a light wave with a frequency of 5.0 x 10^14 Hz towards Earth, which is moving away from the spaceship at a speed of 0.80c. What is the frequency detected by an observer on Earth? (Assume the speed of light in vacuum is 3.00 x 10^8 m/s)",
+    "message_2": "To solve this problem, we can use the relativistic Doppler effect formula:\n\nf' = f * sqrt((1 - v/c) / (1 + v/c))\n\nwhere f' is the observed frequency on Earth, f is the emitted frequency from the spaceship, v is the relative speed between the Earth and the spaceship, and c is the speed of light in vacuum.\n\nGiven:\nf = 5.0 x 10^14 Hz\nv = 0.80c = 0.80 * 3.00 x 10^8 m/s = 2.40 x 10^8 m/s\nc = 3.00 x 10^8 m/s\n\nNow, we can plug these values into the Doppler effect formula:\n\nf' = (5.0 x 10^14 Hz) * sqrt((1 - (2.40 x 10^8 m/s) / (3.00 x 10^8 m/s)) / (1 + (2.40 x 10^8 m/s) / (3.00 x 10^8 m/s)))\n\nf' = (5.0 x 10^14 Hz) * sqrt((1 - 0.80) / (1 + 0.80))\n\nf' = (5.0 x 10^14 Hz) * sqrt(0.20 / 1.80)\n\nf' = (5.0 x 10^14 Hz) * sqrt(0.1111)\n\nf' = (5.0 x 10^14 Hz) * 0.3333\n\nf' ≈ 1.67 x 10^14 Hz\n\nSo, the frequency detected by an observer on Earth is approximately 1.67 x 10^14 Hz."
+}

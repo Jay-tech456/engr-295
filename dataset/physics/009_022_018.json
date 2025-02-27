@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Brewster's Law",
+    "message_1": "A physics student is trying to find the angle of incidence of light for which the reflected light is completely polarized when it passes through a glass-air interface. The refractive index of the glass is 1.5. Determine the angle of incidence of light that satisfies Brewster's law.",
+    "message_2": "To determine the angle of incidence that satisfies Brewster's law, we need to find the angle at which the reflected light is completely polarized. According to Brewster's law, this occurs when the angle of incidence (θi) and the angle of refraction (θr) are related such that:\n\ntan(θi) = n2 / n1\n\nwhere n1 and n2 are the refractive indices of the two media (air and glass in this case). Since the refractive index of air is approximately 1 and the refractive index of the glass is 1.5, we can write:\n\ntan(θi) = 1.5 / 1\n\nNow, we need to find the angle of incidence (θi) that satisfies this equation:\n\nθi = arctan(1.5)\n\nUsing a calculator, we find that:\n\nθi ≈ 56.3 degrees\n\nSo, the angle of incidence of light that satisfies Brewster's law for a glass-air interface with a refractive index of 1.5 is approximately 56.3 degrees."
+}

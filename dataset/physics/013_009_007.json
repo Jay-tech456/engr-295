@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Astrophysics",
+    "sub_topic": "Interstellar medium and star formation",
+    "message_1": "What is the expected lifetime of a molecular cloud with a mass of 10,000 solar masses assuming a constant star formation rate of 0.1 solar masses per year and an initial gas temperature of 10 Kelvin?",
+    "message_2": "To calculate the expected lifetime of a molecular cloud, we can use the following formula:\n\nLifetime = (Total mass of the molecular cloud) / (Star formation rate)\n\nGiven the mass of the molecular cloud is 10,000 solar masses and the star formation rate is 0.1 solar masses per year, we can plug these values into the formula:\n\nLifetime = (10,000 solar masses) / (0.1 solar masses per year)\n\nLifetime = 100,000 years\n\nSo, the expected lifetime of the molecular cloud is 100,000 years."
+}

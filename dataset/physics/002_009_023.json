@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of latent heat of fusion of a substance",
+    "message_1": "What is the amount of heat absorbed when 2 kg of ice at -10°C is converted completely to water at 10°C? Assuming the specific heat of ice is 2.05 J/g°C, the specific heat of water is 4.18 J/g°C, and the latent heat of fusion of ice is 335 J/g.",
+    "message_2": "To find the amount of heat absorbed, we need to consider three steps:\n\n1. Heating the ice from -10°C to 0°C\n2. Melting the ice at 0°C\n3. Heating the water from 0°C to 10°C\n\nStep 1: Heating the ice from -10°C to 0°C\nQ1 = mass x specific heat of ice x temperature change\nQ1 = (2 kg) x (2.05 J/g°C) x (10°C) x (1000 g/kg)\nQ1 = 41000 J\n\nStep 2: Melting the ice at 0°C\nQ2 = mass x latent heat of fusion of ice\nQ2 = (2 kg) x (335 J/g) x (1000 g/kg)\nQ2 = 670000 J\n\nStep 3: Heating the water from 0°C to 10°C\nQ3 = mass x specific heat of water x temperature change\nQ3 = (2 kg) x (4.18 J/g°C) x (10°C) x (1000 g/kg)\nQ3 = 83600 J\n\nNow, we add the heat absorbed in all three steps:\nTotal heat absorbed (Q) = Q1 + Q2 + Q3\nQ = 41000 J + 670000 J + 83600 J\nQ = 794600 J\n\nSo, the amount of heat absorbed when 2 kg of ice at -10°C is converted completely to water at 10°C is 794,600 J."
+}

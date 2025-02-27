@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Dark matter",
+    "sub_topic": "The possibility of dark matter being composed of axions",
+    "message_1": "\"What is the predicted mass range for axions if they were to make up the majority of dark matter in the universe based on current theoretical models and observations?\"",
+    "message_2": "The predicted mass range for axions, if they were to make up the majority of dark matter in the universe, is currently estimated to be between 10^-6 eV (micro-electronvolt) and 10^-3 eV (milli-electronvolt) based on theoretical models and observations. This range is derived from astrophysical and cosmological constraints, as well as from the original motivation for axions, which is the resolution of the strong CP problem in quantum chromodynamics. However, it is important to note that the exact mass of axions is still uncertain, and ongoing experiments are attempting to narrow down this range further."
+}

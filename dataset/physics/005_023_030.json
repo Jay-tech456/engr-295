@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Special relativity",
+    "sub_topic": "Relativistic black holes",
+    "message_1": "What is the maximum mass that a black hole can attain according to the theory of special relativity? How does this maximum mass relate to the radius of the event horizon of the black hole?",
+    "message_2": "The theory of special relativity does not impose a maximum mass limit on black holes. Special relativity, developed by Albert Einstein, deals with the behavior of objects moving at constant speeds close to the speed of light in a flat spacetime. However, black holes are described by the theory of general relativity, which is an extension of special relativity that includes gravity and the curvature of spacetime.\n\nIn general relativity, there is no theoretical upper limit to the mass of a black hole. Black holes can continue to grow by accreting mass from their surroundings or by merging with other black holes. The more mass a black hole has, the larger its event horizon becomes.\n\nThe radius of the event horizon, also known as the Schwarzschild radius (Rs), is directly proportional to the mass of the black hole (M). The relationship between the mass and the Schwarzschild radius is given by the formula:\n\nRs = 2GM/c^2\n\nwhere G is the gravitational constant, and c is the speed of light. As the mass of the black hole increases, so does the radius of its event horizon."
+}

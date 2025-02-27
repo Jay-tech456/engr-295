@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Solid state physics",
+    "sub_topic": "Study of electronic transport properties in a graphene sheet",
+    "message_1": "What is the electrical conductivity of a monolayer graphene sheet at room temperature?",
+    "message_2": "The electrical conductivity of a monolayer graphene sheet at room temperature is typically around 10^8 S/m (Siemens per meter). However, this value can vary depending on the quality of the graphene sheet, the presence of impurities, and other factors."
+}

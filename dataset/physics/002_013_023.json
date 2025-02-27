@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of Carnot efficiency of a heat engine",
+    "message_1": "A heat engine uses a source temperature of 650 K and a sink temperature of 300 K. Calculate the Carnot efficiency of the engine.",
+    "message_2": "The Carnot efficiency of a heat engine is given by the formula:\n\nEfficiency = 1 - (T_sink / T_source)\n\nwhere T_sink is the temperature of the sink and T_source is the temperature of the source. In this case, T_sink = 300 K and T_source = 650 K.\n\nEfficiency = 1 - (300 / 650)\nEfficiency = 1 - 0.4615\nEfficiency ≈ 0.5385\n\nThe Carnot efficiency of the engine is approximately 53.85%."
+}

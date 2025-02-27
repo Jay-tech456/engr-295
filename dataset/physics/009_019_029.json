@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Young's Double Slit Experiment",
+    "message_1": "What is the distance between two slits in Young's Double Slit Experiment if the first-order minimum of interference pattern appears at an angle of 30 degrees from the central maximum, and the wavelength of light used is 650 nm?",
+    "message_2": "In Young's Double Slit Experiment, the condition for the first-order minimum (destructive interference) is given by:\n\nd * sin(θ) = (m + 1/2) * λ\n\nwhere d is the distance between the two slits, θ is the angle from the central maximum to the first-order minimum, m is the order of the minimum (m = 0 for the first minimum), and λ is the wavelength of the light used.\n\nFor the first-order minimum (m = 0), the equation becomes:\n\nd * sin(θ) = (1/2) * λ\n\nWe are given the angle θ = 30 degrees and the wavelength λ = 650 nm. First, we need to convert the angle to radians:\n\nθ = 30 * (π / 180) = π / 6 radians\n\nNow, we can plug in the values and solve for d:\n\nd * sin(π / 6) = (1/2) * 650 nm\n\nd * (1/2) = 325 nm\n\nd = 650 nm\n\nSo, the distance between the two slits in Young's Double Slit Experiment is 650 nm."
+}

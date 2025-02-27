@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Nuclear physics",
+    "sub_topic": "Nuclear magnetic resonance (NMR) spectroscopy",
+    "message_1": "A physics student wants to study the molecular structure of a substance using NMR spectroscopy. They have access to a magnetic field with a strength of 10 tesla and a radio frequency transmitter with a frequency of 100 MHz. The substance contains carbon-13 with a natural abundance of 1.1%. Determine the frequency of the radiowaves required to excite the carbon-13 nuclei in the substance and produce an NMR signal. Round your answer to the nearest kilohertz.",
+    "message_2": "To determine the frequency of the radiowaves required to excite the carbon-13 nuclei in the substance, we need to use the Larmor equation:\n\nν = γ * B / (2 * π)\n\nwhere ν is the frequency of the radiowaves, γ is the gyromagnetic ratio of the nucleus, B is the magnetic field strength, and π is the mathematical constant pi (approximately 3.14159).\n\nFor carbon-13, the gyromagnetic ratio (γ) is 67.262 * 10^6 rad T^-1 s^-1.\n\nGiven the magnetic field strength (B) of 10 tesla, we can now calculate the frequency (ν):\n\nν = (67.262 * 10^6 rad T^-1 s^-1) * (10 T) / (2 * π)\n\nν ≈ 107.3 * 10^6 Hz\n\nRounding to the nearest kilohertz, the frequency of the radiowaves required to excite the carbon-13 nuclei in the substance is approximately 107,300 kHz."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of specific heat capacity of a substance",
+    "message_1": "What is the specific heat capacity of a block of iron with a mass of 200 grams that was heated from 25°C to 75°C using 100 Joules of energy?",
+    "message_2": "To find the specific heat capacity (c) of the iron block, we can use the formula:\n\nQ = mcΔT\n\nwhere Q is the heat energy (100 Joules), m is the mass of the iron block (200 grams), c is the specific heat capacity, and ΔT is the change in temperature (75°C - 25°C = 50°C).\n\nFirst, we need to rearrange the formula to solve for c:\n\nc = Q / (mΔT)\n\nNow, we can plug in the values:\n\nc = 100 J / (200 g × 50°C)\n\nc = 100 J / 10000 g°C\n\nc = 0.01 J/g°C\n\nThe specific heat capacity of the iron block is 0.01 J/g°C."
+}

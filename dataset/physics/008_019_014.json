@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Particle physics",
+    "sub_topic": "The investigation of the properties of the Higgs boson in different production modes",
+    "message_1": "What is the total cross-section of Higgs boson production through gluon-gluon fusion at a center-of-mass energy of 13 TeV at the Large Hadron Collider (LHC)?",
+    "message_2": "The total cross-section of Higgs boson production through gluon-gluon fusion at a center-of-mass energy of 13 TeV at the Large Hadron Collider (LHC) is approximately 49 pb (picobarns). This value is obtained from theoretical calculations and experimental measurements performed at the LHC. It is important to note that the cross-section depends on the specific Higgs boson mass, which is around 125 GeV, and the precise value may vary slightly depending on the details of the calculations and the input parameters used."
+}

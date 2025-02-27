@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Nuclear physics",
+    "sub_topic": "Nuclear radiation detection and measurement",
+    "message_1": "A nuclear physicist wants to measure the energy of the gamma radiation emitted by a radioactive source. The radiation is detected by a scintillation detector, which produces a voltage pulse every time a gamma ray is absorbed. The output pulse amplitude is proportional to the energy of the gamma ray. The physicist measures the height of the peak produced by the gamma ray in the detector's pulse height spectrum, but does not know the calibration of the detector. If the peak is at a voltage of 5.5 volts and the energy of the gamma ray is 662 keV, what is the calibration factor of the detector in volts per keV?",
+    "message_2": "To find the calibration factor of the detector, we need to divide the voltage of the peak by the energy of the gamma ray. \n\nCalibration factor (CF) = Voltage / Energy\n\nGiven:\nVoltage = 5.5 volts\nEnergy = 662 keV\n\nCF = 5.5 volts / 662 keV\n\nCF ≈ 0.00831 volts/keV\n\nSo, the calibration factor of the detector is approximately 0.00831 volts per keV."
+}

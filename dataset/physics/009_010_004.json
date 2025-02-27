@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Magnification",
+    "message_1": "A concave mirror with a focal length of -10 cm is used to form a virtual image of an object. If the object is 5 cm tall and located 20 cm in front of the mirror, what is the magnification of the image produced?",
+    "message_2": "To find the magnification of the image produced, we can use the mirror formula and the magnification formula.\n\nThe mirror formula is given by:\n1/f = 1/do + 1/di\n\nWhere f is the focal length, do is the object distance, and di is the image distance.\n\nGiven, f = -10 cm and do = 20 cm. We can now solve for di:\n\n1/-10 = 1/20 + 1/di\n\nMultiplying by -20di, we get:\n\n-2di = -di - 10\n\nSimplifying, we get:\n\ndi = 10 cm\n\nNow, we can find the magnification using the magnification formula:\n\nM = -di/do\n\nM = -10/20\n\nM = -0.5\n\nThe magnification of the image produced is -0.5, which means the image is reduced in size by a factor of 0.5 and is inverted."
+}

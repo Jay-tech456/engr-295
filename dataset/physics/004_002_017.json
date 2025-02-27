@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "General relativity",
+    "sub_topic": "Black holes and their properties",
+    "message_1": "\"What is the maximum mass of a black hole that can form from the collapse of a star with an initial mass of 50 solar masses, assuming no significant mass loss during the process of collapse?\"",
+    "message_2": "If we assume no significant mass loss during the process of collapse, the maximum mass of a black hole that can form from the collapse of a star with an initial mass of 50 solar masses would be approximately equal to the initial mass of the star itself. In this case, the maximum mass of the black hole would be around 50 solar masses. However, it is important to note that in reality, stars do experience mass loss during their lifetimes and especially during the final stages of their evolution, so the actual mass of the resulting black hole may be somewhat lower."
+}

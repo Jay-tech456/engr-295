@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of latent heat of fusion of a substance",
+    "message_1": "What is the amount of energy required to melt 50 grams of ice at 0℃, given that the latent heat of fusion of water is 334 J/g?",
+    "message_2": "To calculate the energy required to melt the ice, we can use the formula:\n\nEnergy (Q) = mass (m) × latent heat of fusion (L)\n\nwhere\nmass (m) = 50 grams\nlatent heat of fusion (L) = 334 J/g\n\nPlugging in the values, we get:\n\nQ = 50 g × 334 J/g\n\nQ = 16700 J\n\nSo, the amount of energy required to melt 50 grams of ice at 0℃ is 16,700 Joules."
+}

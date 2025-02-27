@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Special relativity",
+    "sub_topic": "Relativistic wave Doppler effect",
+    "message_1": "A spaceship is moving at a speed of 0.8c towards a radio source that emits waves with a frequency of 10 MHz. What is the frequency of the waves detected onboard the spaceship? (Assume the speed of light is 3x10^8 m/s)",
+    "message_2": "To solve this problem, we will use the relativistic Doppler effect formula for frequency:\n\nf' = f * sqrt((1 + β) / (1 - β))\n\nwhere f' is the observed frequency on the spaceship, f is the emitted frequency of the radio source (10 MHz), β is the ratio of the spaceship's speed (v) to the speed of light (c), and c is the speed of light (3x10^8 m/s).\n\nGiven that the spaceship is moving at a speed of 0.8c, we have:\n\nβ = v/c = 0.8\n\nNow, we can plug in the values into the Doppler effect formula:\n\nf' = 10 MHz * sqrt((1 + 0.8) / (1 - 0.8))\nf' = 10 MHz * sqrt(1.8 / 0.2)\nf' = 10 MHz * sqrt(9)\nf' = 10 MHz * 3\n\nf' = 30 MHz\n\nSo, the frequency of the waves detected onboard the spaceship is 30 MHz."
+}

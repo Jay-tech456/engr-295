@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Special relativity",
+    "sub_topic": "Relativistic Doppler effect",
+    "message_1": "A spaceship moves towards Earth at 0.6c. If the frequency of the radio waves emitted by the spaceship is 5.5 GHz, what is the frequency observed by an observer stationed on the Earth? (Assume the speed of light is 3 x 10^8 m/s)",
+    "message_2": "To solve this problem, we can use the Doppler effect formula for the frequency observed by an observer when the source is moving towards them. The formula is:\n\nf_observed = f_source * (c + v_observer) / (c - v_source)\n\nIn this case, the spaceship is moving towards Earth at 0.6c, so v_source = 0.6 * c. The observer on Earth is stationary, so v_observer = 0. The frequency of the radio waves emitted by the spaceship, f_source, is 5.5 GHz.\n\nPlugging these values into the formula, we get:\n\nf_observed = 5.5 GHz * (3 * 10^8 m/s + 0) / (3 * 10^8 m/s - 0.6 * 3 * 10^8 m/s)\n\nf_observed = 5.5 GHz * (3 * 10^8 m/s) / (1.8 * 10^8 m/s)\n\nf_observed ≈ 5.5 GHz * (3/1.8)\n\nf_observed ≈ 9.166 GHz\n\nSo, the frequency observed by an observer stationed on Earth is approximately 9.166 GHz."
+}

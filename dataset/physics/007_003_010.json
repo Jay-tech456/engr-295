@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Nuclear physics",
+    "sub_topic": "Nuclear energy production and efficiency",
+    "message_1": "What is the efficiency of a nuclear power plant that generates 1800 MW of electrical power if it consumes 2000 MW of thermal power?",
+    "message_2": "The efficiency of a power plant can be calculated using the following formula:\n\nEfficiency = (Output Power / Input Power) × 100%\n\nIn this case, the output power is the electrical power generated (1800 MW) and the input power is the thermal power consumed (2000 MW).\n\nEfficiency = (1800 MW / 2000 MW) × 100%\n\nEfficiency = 0.9 × 100%\n\nEfficiency = 90%\n\nSo, the efficiency of the nuclear power plant is 90%."
+}

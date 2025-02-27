@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of latent heat of fusion of a substance",
+    "message_1": "What is the latent heat of fusion of water at 0°C if 200 g of ice is melted using 5000 J of heat energy?",
+    "message_2": "The latent heat of fusion (L) is the amount of heat energy required to change a substance from solid to liquid (or vice versa) without changing its temperature. In this case, we are given the mass (m) of ice and the heat energy (Q) used to melt it. We can use the formula:\n\nQ = mL\n\nwhere Q is the heat energy, m is the mass of the substance, and L is the latent heat of fusion. We need to find L, so we can rearrange the formula to:\n\nL = Q / m\n\nNow, we can plug in the given values:\n\nL = 5000 J / 200 g\n\nL = 25 J/g\n\nSo, the latent heat of fusion of water at 0°C is 25 J/g."
+}

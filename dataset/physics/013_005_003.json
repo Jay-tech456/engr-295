@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Astrophysics",
+    "sub_topic": "Cosmic microwave background radiation and the early universe",
+    "message_1": "What was the temperature of the universe when it was only 380,000 years old, as indicated by the Cosmic Microwave Background Radiation observed by the Planck satellite? How does this temperature compare to the current temperature of the universe?",
+    "message_2": "When the universe was 380,000 years old, the temperature was approximately 3000 Kelvin, as indicated by the Cosmic Microwave Background (CMB) radiation observed by the Planck satellite. This was the time when the universe became transparent to radiation, allowing photons to travel freely.\n\nThe current temperature of the universe, as measured by the CMB, is about 2.725 Kelvin. This means that the universe has cooled significantly since it was 380,000 years old, by a factor of roughly 1100. This cooling is due to the expansion of the universe, which causes the wavelength of the CMB photons to stretch and their energy to decrease, resulting in a lower temperature."
+}

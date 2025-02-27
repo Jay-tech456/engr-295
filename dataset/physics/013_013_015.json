@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Astrophysics",
+    "sub_topic": "Neutron stars and pulsars",
+    "message_1": "What is the maximum mass that a neutron star can have before it collapses into a black hole?",
+    "message_2": "The maximum mass that a neutron star can have before it collapses into a black hole is known as the Tolman-Oppenheimer-Volkoff (TOV) limit. This limit is not a fixed value, as it depends on the equation of state of the neutron star's matter, which is still a subject of ongoing research. However, current estimates place the TOV limit at around 2 to 2.5 solar masses (where one solar mass is equal to the mass of our Sun). If a neutron star exceeds this mass, it will collapse under its own gravity and form a black hole."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Biophysics",
+    "sub_topic": "Analyzing the thermodynamics of metabolic pathways.",
+    "message_1": "Calculate the standard free energy change of the reaction ATP + H2O → ADP + Pi, given that the standard free energy changes of hydrolysis of ATP and ADP are -30.5 kJ/mol and -30.0 kJ/mol, respectively. Also, assume that the standard free energy change of Pi is negligible.",
+    "message_2": "To calculate the standard free energy change (ΔG°) of the reaction ATP + H2O → ADP + Pi, we can use the following equation:\n\nΔG°(reaction) = ΔG°(products) - ΔG°(reactants)\n\nGiven that the standard free energy changes of hydrolysis of ATP and ADP are -30.5 kJ/mol and -30.0 kJ/mol, respectively, and the standard free energy change of Pi is negligible, we can plug these values into the equation:\n\nΔG°(reaction) = (-30.0 kJ/mol) - (-30.5 kJ/mol)\n\nΔG°(reaction) = 0.5 kJ/mol\n\nSo, the standard free energy change of the reaction ATP + H2O → ADP + Pi is 0.5 kJ/mol."
+}

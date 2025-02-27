@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of latent heat of vaporization of a substance",
+    "message_1": "What is the latent heat of vaporization of water, given that 10 grams of water at its boiling point absorbs 2257 Joules of heat energy to completely vaporize?",
+    "message_2": "The latent heat of vaporization (L) can be calculated using the formula:\n\nL = Q / m\n\nwhere Q is the heat energy absorbed (2257 Joules) and m is the mass of the water (10 grams).\n\nL = 2257 J / 10 g = 225.7 J/g\n\nThe latent heat of vaporization of water is 225.7 Joules per gram."
+}

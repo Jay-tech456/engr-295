@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Special relativity",
+    "sub_topic": "Relativistic wave interference",
+    "message_1": "Consider two light waves of the same frequency traveling in opposite directions with velocities close to the speed of light. If the amplitude of one wave is twice that of the other wave, what is the resultant amplitude of the interference pattern when the waves meet?",
+    "message_2": "Let's denote the amplitudes of the two waves as A1 and A2, where A1 = 2A2. Since the waves have the same frequency and are traveling in opposite directions, they will interfere with each other, creating an interference pattern.\n\nThe resultant amplitude of the interference pattern can be found using the principle of superposition, which states that the total amplitude at any point is the sum of the amplitudes of the individual waves at that point.\n\nIn this case, the total amplitude (A_total) can be found using the formula:\n\nA_total = √((A1 + A2)^2)\n\nSince A1 = 2A2, we can substitute this into the formula:\n\nA_total = √((2A2 + A2)^2)\nA_total = √((3A2)^2)\n\nNow, we can simplify the expression:\n\nA_total = 3A2\n\nSo, the resultant amplitude of the interference pattern when the two waves meet is three times the amplitude of the smaller wave (A2)."
+}

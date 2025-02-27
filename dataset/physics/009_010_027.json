@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Magnification",
+    "message_1": "What is the magnification produced by a concave mirror when the object is placed at a distance of 10 cm from the mirror and the image is formed at a distance of 20 cm from the mirror?",
+    "message_2": "To find the magnification produced by a concave mirror, we can use the formula:\n\nMagnification (m) = - (image distance (v) / object distance (u))\n\nIn this case, the object distance (u) is -10 cm (negative because it's a real object in front of the mirror), and the image distance (v) is -20 cm (negative because it's a real image formed in front of the mirror).\n\nSo, the magnification is:\n\nm = - (-20 cm / -10 cm) = - (20/10) = -2\n\nThe magnification produced by the concave mirror is -2, which means the image is inverted and twice the size of the object."
+}

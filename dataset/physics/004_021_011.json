@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "General relativity",
+    "sub_topic": "The gravitational collapse of stars",
+    "message_1": "What is the maximum mass a white dwarf star can have before it undergoes a gravitational collapse and becomes a neutron star due to electron degeneracy pressure no longer able to counterbalance gravity?",
+    "message_2": "The maximum mass a white dwarf star can have before it undergoes gravitational collapse and becomes a neutron star is known as the Chandrasekhar limit. This limit is approximately 1.4 solar masses (1.4 times the mass of our Sun). Beyond this mass, electron degeneracy pressure is no longer sufficient to counterbalance gravity, leading to the collapse of the white dwarf and the formation of a neutron star or a supernova explosion."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Solid state physics",
+    "sub_topic": "Calculation of optical properties of a semiconductor material",
+    "message_1": "Consider a semiconductor material with a bandgap of 2.5 eV. Calculate the minimum energy of photon required to excite an electron from the valence band to the conduction band. Assume an effective mass of the electron in the conduction band to be 0.5 times the mass of the free electron.",
+    "message_2": "The minimum energy of a photon required to excite an electron from the valence band to the conduction band is equal to the bandgap energy. In this case, the bandgap energy is given as 2.5 eV. Therefore, the minimum energy of the photon required is 2.5 eV.\n\nNote: The effective mass of the electron in the conduction band does not affect the minimum energy required to excite an electron from the valence band to the conduction band. The effective mass is useful when calculating other properties of the semiconductor, such as the density of states or the mobility of the charge carriers."
+}

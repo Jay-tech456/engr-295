@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Atomic physics",
+    "sub_topic": "Study of the Franck-Hertz experiment",
+    "message_1": "What is the relation between the energy of the electrons and the applied voltage in the Franck-Hertz experiment?",
+    "message_2": "In the Franck-Hertz experiment, the relation between the energy of the electrons and the applied voltage can be described using the following equation:\n\nE = eV\n\nwhere:\n- E is the energy of the electrons (in electron volts, eV or in joules, J)\n- e is the elementary charge of an electron (approximately 1.6 × 10^(-19) coulombs)\n- V is the applied voltage (in volts)\n\nIn this experiment, electrons are accelerated through a gas-filled tube by an applied voltage. When the energy of the electrons is sufficient to excite the gas atoms, the electrons lose their energy through inelastic collisions. The energy lost by the electrons corresponds to the energy difference between the ground state and the excited state of the gas atoms. This energy difference can be determined by measuring the voltage at which these inelastic collisions occur."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of specific heat capacity of a substance",
+    "message_1": "A 50 g piece of aluminum is heated up from 20°C to 80°C with a heat input of 500 J. What is the specific heat capacity of aluminum?",
+    "message_2": "To find the specific heat capacity of aluminum, we can use the formula:\n\nQ = mcΔT\n\nwhere Q is the heat input (500 J), m is the mass of the aluminum (50 g), c is the specific heat capacity, and ΔT is the change in temperature (80°C - 20°C = 60°C).\n\nRearranging the formula to solve for c, we get:\n\nc = Q / (mΔT)\n\nPlugging in the values:\n\nc = 500 J / (50 g * 60°C)\n\nc = 500 J / 3000 g°C\n\nc = 0.1667 J/g°C\n\nThe specific heat capacity of aluminum is approximately 0.1667 J/g°C."
+}

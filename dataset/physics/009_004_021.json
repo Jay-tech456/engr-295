@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Critical Angle",
+    "message_1": "A light ray is travelling from glass to air. If the refractive index of the glass is 1.5, what is the critical angle at which the light ray will totally reflect back into the glass?",
+    "message_2": "To find the critical angle at which the light ray will totally reflect back into the glass, we can use Snell's Law. Snell's Law states that the ratio of the sine of the angle of incidence to the sine of the angle of refraction is equal to the ratio of the refractive indices of the two media. In this case, the refractive index of air is approximately 1.\n\nFor total internal reflection to occur, the angle of refraction must be 90 degrees. Therefore, we can set up the equation as follows:\n\nn1 * sin(θc) = n2 * sin(90)\n\nWhere n1 is the refractive index of glass (1.5), n2 is the refractive index of air (1), θc is the critical angle, and sin(90) is 1.\n\n1.5 * sin(θc) = 1\n\nNow, we can solve for the critical angle:\n\nsin(θc) = 1 / 1.5\nθc = arcsin(1 / 1.5)\n\nθc ≈ 41.81 degrees\n\nSo, the critical angle at which the light ray will totally reflect back into the glass is approximately 41.81 degrees."
+}

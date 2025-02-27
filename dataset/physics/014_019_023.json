@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Cosmology",
+    "sub_topic": "The study of cosmic rays and their effects on satellite operations",
+    "message_1": "What is the average energy of cosmic rays that are likely to cause operational problems for a satellite in geostationary orbit?",
+    "message_2": "The average energy of cosmic rays that can cause operational problems for a satellite in geostationary orbit is typically in the range of 10^8 to 10^10 electron volts (eV). Cosmic rays with energies in this range can penetrate the shielding of satellites and cause single event upsets (SEUs), which are temporary malfunctions in electronic systems, or even permanent damage to the satellite components. However, it is important to note that the energy of cosmic rays can vary greatly, and the specific energy threshold for causing operational problems depends on the satellite's design and shielding."
+}

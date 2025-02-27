@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of Gibbs free energy change in a reaction",
+    "message_1": "Calculate the change in Gibbs free energy when 2 moles of hydrogen gas react with 1 mole of oxygen gas at a constant temperature of 298 K and a pressure of 1 bar, given the standard Gibbs free energy of formation of water to be -237.1 kJ/mol.",
+    "message_2": "To calculate the change in Gibbs free energy for the reaction, we can use the following equation:\n\nΔG = ΔG(products) - ΔG(reactants)\n\nFor the reaction, 2 moles of hydrogen gas (H2) react with 1 mole of oxygen gas (O2) to form 2 moles of water (H2O):\n\n2H2(g) + O2(g) → 2H2O(l)\n\nThe standard Gibbs free energy of formation (ΔGf°) for the reactants and products are:\n\nΔGf°(H2) = 0 kJ/mol (since it's an element in its standard state)\nΔGf°(O2) = 0 kJ/mol (since it's an element in its standard state)\nΔGf°(H2O) = -237.1 kJ/mol (given)\n\nNow, we can calculate the change in Gibbs free energy for the reaction:\n\nΔG = [2 × ΔGf°(H2O)] - [2 × ΔGf°(H2) + 1 × ΔGf°(O2)]\n\nΔG = [2 × (-237.1 kJ/mol)] - [2 × (0 kJ/mol) + 1 × (0 kJ/mol)]\n\nΔG = -474.2 kJ/mol\n\nSo, the change in Gibbs free energy for the reaction is -474.2 kJ/mol."
+}

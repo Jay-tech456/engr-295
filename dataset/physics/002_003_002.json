@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of internal energy of a system",
+    "message_1": "A sample of gas is compressed isothermally from 4 L to 2 L with a pressure of 1.5 atm. The gas has a heat capacity of 5 J/K and its initial temperature is 300 K. Find the change in internal energy of the system.",
+    "message_2": "To find the change in internal energy of the system, we can use the first law of thermodynamics, which states that the change in internal energy (∆U) is equal to the heat added to the system (Q) minus the work done by the system (W).\n\n∆U = Q - W\n\nSince the process is isothermal, the temperature remains constant at 300 K. For an ideal gas, the internal energy depends only on its temperature. Therefore, the change in internal energy for an isothermal process is zero.\n\n∆U = 0 J"
+}

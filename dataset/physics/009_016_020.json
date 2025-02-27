@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Diffraction",
+    "message_1": "A monochromatic light falls normally on a circular aperture of diameter 10 cm. If the distance between aperture and screen is 2 meters, compute the distance between two consecutive bright fringes on the screen, given that the wavelength of light used is 600 nm.",
+    "message_2": "To solve this problem, we will use the formula for the angular separation of consecutive bright fringes in a single-slit diffraction pattern, which is given by:\n\nθ = 1.22 * (λ / D)\n\nwhere θ is the angular separation between consecutive bright fringes, λ is the wavelength of the light, and D is the diameter of the circular aperture.\n\nFirst, we need to convert the given values to the appropriate units:\n\nDiameter (D) = 10 cm = 0.1 m\nWavelength (λ) = 600 nm = 600 * 10^(-9) m\nDistance between aperture and screen (L) = 2 m\n\nNow, we can calculate the angular separation (θ):\n\nθ = 1.22 * (λ / D)\nθ = 1.22 * (600 * 10^(-9) m / 0.1 m)\nθ = 1.22 * (6 * 10^(-6))\nθ ≈ 7.32 * 10^(-6) radians\n\nNow, we can use the small angle approximation to find the distance (y) between two consecutive bright fringes on the screen:\n\ny = L * θ\ny = 2 m * 7.32 * 10^(-6) radians\ny ≈ 1.464 * 10^(-5) m\n\nTo express the result in millimeters, we can convert the distance:\n\ny ≈ 1.464 * 10^(-5) m * (10^3 mm/m)\ny ≈ 0.01464 mm\n\nSo, the distance between two consecutive bright fringes on the screen is approximately 0.01464 mm."
+}

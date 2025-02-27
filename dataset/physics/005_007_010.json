@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Special relativity",
+    "sub_topic": "Twin paradox",
+    "message_1": "A spaceship is flying at a speed of 0.95c relative to Earth. Onboard, a pair of twins are born at the same moment. One twin stays on the spaceship while the other twin stays on Earth. How much older (in years) will the twin on Earth be when they are both 30 years old according to the twin on the spaceship? (Assume they both have the same biological age when the spaceship leaves Earth.)",
+    "message_2": "To solve this problem, we need to use the concept of time dilation in special relativity. The equation for time dilation is:\n\nΔt' = Δt / √(1 - v^2/c^2)\n\nwhere Δt' is the time interval measured by the observer moving at speed v (the twin on the spaceship), Δt is the time interval measured by the stationary observer (the twin on Earth), v is the relative velocity between the observers (0.95c in this case), and c is the speed of light.\n\nWe are given that the twin on the spaceship measures a time interval of 30 years. We want to find the corresponding time interval Δt for the twin on Earth. Rearranging the time dilation equation to solve for Δt, we get:\n\nΔt = Δt' * √(1 - v^2/c^2)\n\nPlugging in the given values:\n\nΔt = 30 years * √(1 - (0.95c)^2/c^2)\nΔt = 30 years * √(1 - 0.95^2)\nΔt ≈ 30 years * √(1 - 0.9025)\nΔt ≈ 30 years * √(0.0975)\nΔt ≈ 30 years * 0.31225\nΔt ≈ 9.3675 years\n\nSo, the twin on Earth will be 9.3675 years older when the twin on the spaceship is 30 years old."
+}

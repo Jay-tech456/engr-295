@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of efficiency of a refrigerator",
+    "message_1": "A refrigerator uses 1 kW of power to remove 2.5 kJ of heat from its contents every second. Calculate the coefficient of performance of the refrigerator.",
+    "message_2": "The coefficient of performance (COP) of a refrigerator is defined as the ratio of the heat removed from the contents (Q_c) to the work input (W) required to remove that heat. Mathematically, it can be expressed as:\n\nCOP = Q_c / W\n\nIn this problem, the refrigerator removes 2.5 kJ of heat every second (Q_c = 2.5 kJ/s) and uses 1 kW of power (W = 1 kJ/s).\n\nNow, we can calculate the COP:\n\nCOP = (2.5 kJ/s) / (1 kJ/s) = 2.5\n\nThe coefficient of performance of the refrigerator is 2.5."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Polarizers",
+    "message_1": "A beam of unpolarized light is incident on a polarizing sheet. If the intensity of the transmitted light is 50% of the incident intensity, calculate the angle that the transmission axis of the sheet makes with the direction of the polarization of the incident beam.",
+    "message_2": "When unpolarized light passes through a polarizing sheet, the intensity of the transmitted light is given by Malus' Law:\n\nI_transmitted = I_incident * cos^2(theta)\n\nwhere I_transmitted is the intensity of the transmitted light, I_incident is the intensity of the incident light, and theta is the angle between the transmission axis of the polarizing sheet and the direction of the polarization of the incident beam.\n\nIn this case, the intensity of the transmitted light is 50% of the incident intensity, so we have:\n\n0.5 * I_incident = I_incident * cos^2(theta)\n\nDivide both sides by I_incident:\n\n0.5 = cos^2(theta)\n\nNow, take the square root of both sides:\n\nsqrt(0.5) = cos(theta)\n\ncos(theta) = 1/sqrt(2)\n\nNow, find the angle theta by taking the inverse cosine:\n\ntheta = arccos(1/sqrt(2))\n\ntheta ≈ 45 degrees\n\nSo, the angle that the transmission axis of the sheet makes with the direction of the polarization of the incident beam is approximately 45 degrees."
+}

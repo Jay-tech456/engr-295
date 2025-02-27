@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of thermodynamic properties of a mixture.",
+    "message_1": "A physics student needs to calculate the specific heat capacity of a gas mixture made up of 75% nitrogen and 25% oxygen at a pressure of 1 atm and a temperature of 300 K. Given that the specific heat capacity of pure nitrogen is 1.04 J/g.K and that of pure oxygen is 0.92 J/g.K, determine the specific heat capacity of the mixture in J/g.K.",
+    "message_2": "To calculate the specific heat capacity of the gas mixture, we can use a weighted average based on the percentages of each gas in the mixture. \n\nSpecific heat capacity of the mixture (C_mix) = (Percentage of Nitrogen × Specific heat capacity of Nitrogen) + (Percentage of Oxygen × Specific heat capacity of Oxygen)\n\nGiven:\nPercentage of Nitrogen = 75%\nPercentage of Oxygen = 25%\nSpecific heat capacity of Nitrogen (C_N2) = 1.04 J/g.K\nSpecific heat capacity of Oxygen (C_O2) = 0.92 J/g.K\n\nC_mix = (0.75 × C_N2) + (0.25 × C_O2)\nC_mix = (0.75 × 1.04 J/g.K) + (0.25 × 0.92 J/g.K)\nC_mix = (0.78 J/g.K) + (0.23 J/g.K)\nC_mix = 1.01 J/g.K\n\nThe specific heat capacity of the gas mixture is 1.01 J/g.K."
+}

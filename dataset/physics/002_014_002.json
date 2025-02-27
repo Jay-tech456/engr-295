@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of efficiency of a refrigerator",
+    "message_1": "A refrigerator is designed to operate between the temperatures of 5°C and -15°C. If the refrigerator consumes 800 J of work along with the heat absorbed from the surroundings, and removes heat at the rate of 1200 J per second, what is the coefficient of performance (COP) of the refrigerator?",
+    "message_2": "The coefficient of performance (COP) of a refrigerator is defined as the ratio of the heat removed from the cold reservoir (Q_c) to the work done on the system (W). In other words, it tells us how efficiently the refrigerator is operating.\n\nCOP = Q_c / W\n\nWe are given that the refrigerator consumes 800 J of work (W) and removes heat at the rate of 1200 J per second (Q_c).\n\nW = 800 J\nQ_c = 1200 J\n\nNow, we can calculate the COP of the refrigerator:\n\nCOP = Q_c / W\nCOP = 1200 J / 800 J\nCOP = 1.5\n\nThe coefficient of performance of the refrigerator is 1.5. This means that for every 1 Joule of work done on the system, the refrigerator removes 1.5 Joules of heat from the cold reservoir."
+}

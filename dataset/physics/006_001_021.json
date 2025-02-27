@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Atomic physics",
+    "sub_topic": "Calculation of energy levels and transitions in hydrogen atom",
+    "message_1": "What is the energy required to ionize a hydrogen atom from its ground state?",
+    "message_2": "The energy required to ionize a hydrogen atom from its ground state is known as the ionization energy. For a hydrogen atom, this is the energy required to remove the electron from the ground state (n=1) to a state where the electron is no longer bound to the nucleus (n → ∞).\n\nThe ionization energy of a hydrogen atom can be calculated using the Rydberg formula:\n\nE = -13.6 eV * (1/n² - 1/∞²)\n\nFor the ground state (n=1):\n\nE = -13.6 eV * (1/1² - 1/∞²) = -13.6 eV\n\nSince we are looking for the energy required to ionize the atom, we need the absolute value of this energy:\n\nIonization energy = 13.6 eV"
+}

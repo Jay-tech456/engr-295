@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Nuclear physics",
+    "sub_topic": "Radioactive decay and half-life calculations",
+    "message_1": "What is the half-life of a sample of Strontium-90 if it takes 28 years for the activity of a 10-gram sample to decay to 1.25 grams?",
+    "message_2": "The half-life of a radioactive substance is the time it takes for half of the substance to decay. We can use the radioactive decay formula to solve this problem:\n\nN(t) = N0 * (1/2)^(t/T)\n\nWhere:\nN(t) is the remaining amount of the substance at time t,\nN0 is the initial amount of the substance,\nt is the time that has passed,\nT is the half-life of the substance.\n\nIn this problem, we are given:\nN0 = 10 grams,\nN(t) = 1.25 grams,\nt = 28 years.\n\nWe need to find the half-life T. We can plug the given values into the formula and solve for T:\n\n1.25 = 10 * (1/2)^(28/T)\n\nDivide both sides by 10:\n\n0.125 = (1/2)^(28/T)\n\nNow, take the logarithm of both sides with base (1/2):\n\nlog_(1/2)(0.125) = log_(1/2)((1/2)^(28/T))\n\nThe logarithm property states that log_a(a^x) = x, so:\n\nlog_(1/2)(1/8) = 28/T\n\nSince 1/8 = (1/2)^3, we have:\n\n3 = 28/T\n\nNow, solve for T:\n\nT = 28/3\n\nT ≈ 9.33 years\n\nSo, the half-life of Strontium-90 is approximately 9.33 years."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of critical pressure of a substance",
+    "message_1": "What is the critical pressure of water at its critical temperature of 373.946°C (647.096°F)?",
+    "message_2": "The critical pressure of water at its critical temperature of 373.946°C (647.096 K) is approximately 22.064 MPa (megapascals) or 220.64 bar."
+}

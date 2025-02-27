@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Nuclear physics",
+    "sub_topic": "Nuclear fusion as a potential energy source",
+    "message_1": "What is the minimum temperature required for Hydrogen plasma to undergo nuclear fusion?",
+    "message_2": "The minimum temperature required for hydrogen plasma to undergo nuclear fusion is approximately 10 million Kelvin (10 MK or 10^7 K). At this temperature, hydrogen nuclei have enough kinetic energy to overcome the electrostatic repulsion between them, allowing them to come close enough for the strong nuclear force to bind them together and initiate the fusion process."
+}

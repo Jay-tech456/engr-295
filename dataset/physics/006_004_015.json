@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Atomic physics",
+    "sub_topic": "Study of the Stark effect in atomic spectra",
+    "message_1": "What is the formula for calculating the Stark effect in a hydrogen atom when subjected to an external electric field of a given strength and direction?",
+    "message_2": "The Stark effect refers to the splitting of energy levels in atoms or molecules due to the presence of an external electric field. In the case of a hydrogen atom, the Stark effect can be described using perturbation theory. The formula for calculating the first-order Stark shift in energy levels is given by:\n\nΔE = -e * F * ⟨ψ_nlm | z | ψ_nlm⟩\n\nwhere:\nΔE is the change in energy due to the Stark effect,\ne is the elementary charge (approximately 1.602 x 10^(-19) C),\nF is the strength of the external electric field,\nψ_nlm is the wavefunction of the hydrogen atom, characterized by the quantum numbers n, l, and m,\nz is the position coordinate along the direction of the electric field,\nand ⟨ψ_nlm | z | ψ_nlm⟩ is the expectation value of the z-coordinate for the given wavefunction.\n\nThe expectation value ⟨ψ_nlm | z | ψ_nlm⟩ can be calculated using the wavefunctions of the hydrogen atom, which are given by the product of a radial function R_nl(r) and a spherical harmonic function Y_lm(θ, φ). The expectation value depends on the quantum numbers n, l, and m, and it is generally non-zero only for states with non-zero magnetic quantum number m."
+}

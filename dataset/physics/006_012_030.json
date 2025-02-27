@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Atomic physics",
+    "sub_topic": "Calculation of the ionization energy of atoms",
+    "message_1": "What is the ionization energy of a helium atom in its ground state?",
+    "message_2": "The ionization energy of a helium atom in its ground state is approximately 24.6 electron volts (eV). This is the energy required to remove one electron from the helium atom, leaving behind a helium ion with a single electron."
+}

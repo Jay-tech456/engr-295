@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Cosmology",
+    "sub_topic": "The cosmic microwave background radiation and its implications",
+    "message_1": "What is the temperature of the universe when it was just 380,000 years old based on the cosmic microwave background radiation measurements? How does this relate to the Big Bang theory?",
+    "message_2": "The temperature of the universe when it was just 380,000 years old, based on the cosmic microwave background (CMB) radiation measurements, was approximately 3000 Kelvin (K). This is derived from the observed temperature of the CMB today, which is about 2.7 K, and the fact that the universe has expanded and cooled since that time.\n\nThis relates to the Big Bang theory because the CMB is considered one of the strongest pieces of evidence supporting this theory. The Big Bang theory posits that the universe began as a hot, dense state and has been expanding and cooling ever since. The CMB is the thermal radiation left over from this early hot phase, and its existence was predicted by the Big Bang theory before it was observed. The uniformity and specific temperature pattern of the CMB provide strong support for the idea that the universe began in a hot, dense state and has been expanding and cooling over time."
+}

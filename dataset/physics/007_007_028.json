@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Nuclear physics",
+    "sub_topic": "Nuclear magnetic resonance (NMR) spectroscopy",
+    "message_1": "What would be the resonant frequency of a proton with a magnetic moment of 1.41 x 10^-26 J/T in a magnetic field of 3.5 T in a standard NMR instrument?",
+    "message_2": "The resonant frequency of a proton in a magnetic field can be determined using the Larmor equation:\n\nf = (γ / 2π) * B\n\nwhere f is the resonant frequency, γ is the gyromagnetic ratio of the proton, and B is the magnetic field strength.\n\nFor a proton, the gyromagnetic ratio (γ) is approximately 2.675 x 10^8 rad T^-1 s^-1.\n\nGiven a magnetic field strength (B) of 3.5 T, we can now calculate the resonant frequency (f):\n\nf = (2.675 x 10^8 rad T^-1 s^-1 / 2π) * 3.5 T\n\nf ≈ (42.58 x 10^6 s^-1) * 3.5\n\nf ≈ 148.03 x 10^6 Hz\n\nThe resonant frequency of a proton with a magnetic moment of 1.41 x 10^-26 J/T in a magnetic field of 3.5 T in a standard NMR instrument is approximately 148.03 MHz."
+}

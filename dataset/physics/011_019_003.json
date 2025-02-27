@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Solid state physics",
+    "sub_topic": "Calculation of the thermal expansion coefficient of a crystal",
+    "message_1": "A crystal has a unit cell volume of 10 cm^3 at 20°C. Its coefficient of thermal expansion is 2.5 × 10^-5 /°C. Determine the unit cell volume of the crystal at a temperature of 80°C if it is held in a rigid container.",
+    "message_2": "If the crystal is held in a rigid container, its volume cannot change due to the constraints of the container. Therefore, the unit cell volume of the crystal at 80°C will remain the same as at 20°C, which is 10 cm^3."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "General relativity",
+    "sub_topic": "The Schwarzschild metric and non-rotating black holes",
+    "message_1": "What is the event horizon radius for a non-rotating black hole of mass M described by the Schwarzschild metric? How does the event horizon radius change as the mass of the black hole increases?",
+    "message_2": "The event horizon radius for a non-rotating black hole of mass M described by the Schwarzschild metric is given by the Schwarzschild radius (Rs), which can be calculated using the following formula:\n\nRs = 2GM/c^2\n\nwhere G is the gravitational constant (approximately 6.674 × 10^-11 m^3 kg^-1 s^-2), M is the mass of the black hole, and c is the speed of light in a vacuum (approximately 2.998 × 10^8 m/s).\n\nAs the mass of the black hole (M) increases, the event horizon radius (Rs) will also increase proportionally. This means that if the mass of the black hole doubles, the event horizon radius will also double."
+}

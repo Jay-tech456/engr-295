@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Diffraction",
+    "message_1": "A monochromatic light of wavelength 500 nm falls on a single slit of width 0.1 mm. At what angle does the first minimum of diffraction pattern appear?",
+    "message_2": "To find the angle at which the first minimum of the diffraction pattern appears, we can use the formula for single-slit diffraction:\n\nsin(θ) = (m * λ) / a\n\nwhere θ is the angle of the first minimum, m is the order of the minimum (m = 1 for the first minimum), λ is the wavelength of the light, and a is the width of the slit.\n\nGiven the wavelength λ = 500 nm = 500 * 10^(-9) m and the slit width a = 0.1 mm = 0.1 * 10^(-3) m, we can plug these values into the formula:\n\nsin(θ) = (1 * 500 * 10^(-9)) / (0.1 * 10^(-3))\n\nsin(θ) = 5 * 10^(-6)\n\nNow, we can find the angle θ by taking the inverse sine (arcsin) of both sides:\n\nθ = arcsin(5 * 10^(-6))\n\nθ ≈ 2.87 * 10^(-4) radians\n\nTo convert this angle to degrees, we can use the conversion factor (180°/π):\n\nθ ≈ (2.87 * 10^(-4) * 180) / π\n\nθ ≈ 0.0165°\n\nSo, the first minimum of the diffraction pattern appears at an angle of approximately 0.0165°."
+}

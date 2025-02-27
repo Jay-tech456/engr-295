@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "High-energy physics",
+    "sub_topic": "High-energy cosmic neutrinos",
+    "message_1": "What is the expected number of high-energy cosmic neutrinos that will be detected by a neutrino observatory each year based on current theoretical models and experimental data?",
+    "message_2": "The expected number of high-energy cosmic neutrinos detected by a neutrino observatory each year depends on several factors, including the sensitivity of the detector, the energy range of interest, and the specific theoretical model used to predict the neutrino flux.\n\nOne of the most well-known neutrino observatories is the IceCube Neutrino Observatory located at the South Pole. IceCube has been detecting high-energy cosmic neutrinos since 2010. Based on the experimental data collected by IceCube and current theoretical models, the observatory detects about 10-20 high-energy cosmic neutrinos per year with energies above 100 TeV (teraelectronvolts).\n\nIt is important to note that this number is an approximation and can vary depending on the specific theoretical model used to predict the neutrino flux. Additionally, improvements in detector technology and sensitivity could lead to an increase in the number of detected high-energy cosmic neutrinos in the future."
+}

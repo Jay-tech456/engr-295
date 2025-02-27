@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "General relativity",
+    "sub_topic": "The gravitational collapse of stars",
+    "message_1": "What is the maximum mass that a white dwarf star can have before it collapses into a neutron star, and how does this relate to the critical mass known as the Chandrasekhar limit?",
+    "message_2": "The maximum mass that a white dwarf star can have before it collapses into a neutron star is determined by the Chandrasekhar limit. The Chandrasekhar limit is a critical mass threshold, named after the Indian astrophysicist Subrahmanyan Chandrasekhar, who derived this value in 1930.\n\nThe Chandrasekhar limit is approximately 1.4 solar masses (M☉), which means that a white dwarf with a mass greater than this limit will be unable to support itself against its own gravitational pull. This is because the electron degeneracy pressure, which counteracts gravity and keeps the white dwarf stable, is no longer sufficient to prevent the collapse of the star.\n\nWhen a white dwarf exceeds the Chandrasekhar limit, it will undergo a process called core collapse, where the star's core contracts and its density increases. This leads to the formation of a neutron star, which is supported by neutron degeneracy pressure instead of electron degeneracy pressure.\n\nIn summary, the maximum mass a white dwarf star can have before it collapses into a neutron star is approximately 1.4 solar masses, which is the critical mass known as the Chandrasekhar limit."
+}

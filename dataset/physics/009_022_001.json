@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Brewster's Law",
+    "message_1": "What is the angle of incidence at which the reflected light becomes completely polarized when it is incident on a glass-air interface if the refractive index of glass is 1.5?",
+    "message_2": "To find the angle of incidence at which the reflected light becomes completely polarized, we need to use Brewster's Law. Brewster's Law states that when light is incident on a surface at an angle such that the reflected and refracted rays are perpendicular to each other, the reflected light becomes completely polarized. The Brewster's angle (θ_B) can be calculated using the following formula:\n\ntan(θ_B) = n2 / n1\n\nwhere n1 and n2 are the refractive indices of the two media (air and glass in this case).\n\nFor the given problem, n1 (air) = 1 and n2 (glass) = 1.5. Plugging these values into the formula, we get:\n\ntan(θ_B) = 1.5 / 1\ntan(θ_B) = 1.5\n\nNow, to find the angle of incidence (θ_B), we need to take the arctangent of both sides:\n\nθ_B = arctan(1.5)\n\nUsing a calculator, we find:\n\nθ_B ≈ 56.31°\n\nSo, the angle of incidence at which the reflected light becomes completely polarized when it is incident on a glass-air interface with a refractive index of 1.5 is approximately 56.31°."
+}

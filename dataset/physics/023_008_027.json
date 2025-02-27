@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Quantum computing",
+    "sub_topic": "Quantum teleportation",
+    "message_1": "A physics student wants to use quantum teleportation to send a qubit state to a friend located in a different city. The student needs to determine the maximum distance at which the quantum state can be successfully transmitted via quantum teleportation, given the current experimental limitations. Assuming that the qubit is in a known state, what is the maximum distance that the student can send the qubit state to?",
+    "message_2": "The maximum distance for quantum teleportation is primarily limited by the attenuation of the entangled photons used in the process. The current record for quantum teleportation distance, as of 2021, is about 44 kilometers (27 miles) through optical fibers and up to 1,400 kilometers (870 miles) via satellite-based experiments.\n\nIt's important to note that these distances are based on the current state of technology and experimental setups. As technology advances, it is possible that the maximum distance for quantum teleportation will increase. However, for the physics student in question, they can consider the current record of 44 kilometers through optical fibers or 1,400 kilometers via satellite-based experiments as the maximum distance they can send the qubit state to."
+}

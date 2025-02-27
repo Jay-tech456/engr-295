@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Special relativity",
+    "sub_topic": "Relativistic particle trajectories",
+    "message_1": "A particle with an initial velocity of 0.6c moves along the x-axis. What is the length of the particle's path according to an observer who is stationary relative to the particle? (Assuming special relativity and non-relativistic particle trajectory)",
+    "message_2": "If the observer is stationary relative to the particle, it means that the observer is moving along with the particle at the same velocity (0.6c). In this case, the observer will perceive the particle as being at rest relative to them. Since the particle is not moving relative to the observer, the length of the particle's path according to the observer will be zero."
+}

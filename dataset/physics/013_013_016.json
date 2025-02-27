@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Astrophysics",
+    "sub_topic": "Neutron stars and pulsars",
+    "message_1": "What is the maximum mass of a neutron star and what happens if it exceeds that limit?",
+    "message_2": "The maximum mass of a neutron star is approximately 2 to 2.5 solar masses (where 1 solar mass is the mass of our Sun). This limit is known as the Tolman-Oppenheimer-Volkoff (TOV) limit. If a neutron star exceeds this limit, the immense gravitational force overcomes the neutron degeneracy pressure, which is the force that prevents the star from collapsing further.\n\nWhen the mass of a neutron star exceeds the TOV limit, it will undergo gravitational collapse and transform into a black hole. A black hole is an object with such a strong gravitational pull that not even light can escape from it. The process of this transformation is not yet fully understood, but it is believed to involve the formation of an event horizon, which is the boundary beyond which nothing can escape the black hole's gravitational pull."
+}

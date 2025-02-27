@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Malus' Law",
+    "message_1": "What is the intensity of a polarized light beam that passes through an ideal polarizer with an angle of incidence of 30 degrees to the polarization axis, if the initial intensity of the beam is 10 W/m²? (Use Malus' Law to solve the problem)",
+    "message_2": "Malus' Law states that the intensity of polarized light passing through an ideal polarizer is given by:\n\nI = I₀ * cos²θ\n\nwhere I is the transmitted intensity, I₀ is the initial intensity, and θ is the angle between the polarization axis and the plane of incidence.\n\nIn this case, the initial intensity I₀ is 10 W/m² and the angle θ is 30 degrees. First, we need to convert the angle to radians:\n\nθ = 30 * (π/180) = π/6 radians\n\nNow, we can calculate the transmitted intensity using Malus' Law:\n\nI = 10 * cos²(π/6)\nI = 10 * (cos(π/6))^2\nI = 10 * (0.866)^2\nI ≈ 10 * 0.75\nI ≈ 7.5 W/m²\n\nSo, the intensity of the polarized light beam after passing through the ideal polarizer is approximately 7.5 W/m²."
+}

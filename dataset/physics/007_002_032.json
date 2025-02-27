@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Nuclear physics",
+    "sub_topic": "Radioactive decay and half-life calculations",
+    "message_1": "An isotope has an initial activity of 1440 Bq. After 30 days, its activity drops to 90 Bq. What is the half-life of the isotope?",
+    "message_2": "To find the half-life of the isotope, we can use the radioactive decay formula:\n\nA = A0 * (1/2)^(t/T)\n\nwhere A is the final activity, A0 is the initial activity, t is the time elapsed, and T is the half-life of the isotope.\n\nIn this case, A = 90 Bq, A0 = 1440 Bq, and t = 30 days. We need to find T.\n\n90 = 1440 * (1/2)^(30/T)\n\nDivide both sides by 1440:\n\n90/1440 = (1/2)^(30/T)\n\n0.0625 = (1/2)^(30/T)\n\nNow, take the logarithm of both sides:\n\nlog(0.0625) = log((1/2)^(30/T))\n\nlog(0.0625) = (30/T) * log(1/2)\n\nNow, divide by log(1/2):\n\nlog(0.0625) / log(1/2) = 30/T\n\nT = 30 / (log(0.0625) / log(1/2))\n\nT ≈ 9.96 days\n\nThe half-life of the isotope is approximately 9.96 days."
+}

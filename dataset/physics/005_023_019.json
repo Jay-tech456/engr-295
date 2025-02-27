@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Special relativity",
+    "sub_topic": "Relativistic black holes",
+    "message_1": "What is the equation for calculating the event horizon radius of a black hole with a mass M, given that the speed of light is c and the gravitational constant is G, according to the theory of Special Relativity?",
+    "message_2": "The equation for calculating the event horizon radius of a black hole, also known as the Schwarzschild radius, is not derived from the theory of Special Relativity but from the theory of General Relativity. The equation is:\n\nr_s = 2GM/c^2\n\nwhere r_s is the Schwarzschild radius (event horizon radius), G is the gravitational constant, M is the mass of the black hole, and c is the speed of light."
+}

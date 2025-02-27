@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Special relativity",
+    "sub_topic": "Relativistic wave Doppler effect",
+    "message_1": "A spaceship is traveling away from Earth at a velocity of 0.8c. A radio signal is sent from the Earth with a frequency of 100 MHz. What is the frequency of the signal received on the spaceship? (Assume the speed of light to be 3 x 10^8 m/s)",
+    "message_2": "To solve this problem, we need to use the Doppler effect formula for the frequency shift of electromagnetic waves. The formula is:\n\nf' = f * (1 - v/c) / sqrt(1 - v^2/c^2)\n\nwhere f' is the received frequency on the spaceship, f is the frequency of the signal sent from Earth (100 MHz), v is the velocity of the spaceship (0.8c), and c is the speed of light (3 x 10^8 m/s).\n\nLet's plug in the values:\n\nf' = (100 x 10^6) * (1 - 0.8) / sqrt(1 - 0.8^2)\n\nf' = (100 x 10^6) * 0.2 / sqrt(1 - 0.64)\n\nf' = (20 x 10^6) / sqrt(0.36)\n\nf' = (20 x 10^6) / 0.6\n\nf' = 33.33 x 10^6 Hz\n\nThe frequency of the signal received on the spaceship is approximately 33.33 MHz."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Nuclear physics",
+    "sub_topic": "Radioactive decay and half-life calculations",
+    "message_1": "What is the half-life of a radioactive isotope that decays by 50% after 10 years, and what fraction of the original radioactive material will remain after 30 years?",
+    "message_2": "The half-life of a radioactive isotope is the time it takes for half of the original material to decay. In this case, the isotope decays by 50% after 10 years, which means its half-life is 10 years.\n\nTo find the fraction of the original radioactive material remaining after 30 years, we can use the formula:\n\nRemaining fraction = (1/2)^(t / T)\n\nwhere t is the time elapsed (30 years) and T is the half-life (10 years).\n\nRemaining fraction = (1/2)^(30 / 10)\nRemaining fraction = (1/2)^3\nRemaining fraction = 1/8\n\nSo, after 30 years, 1/8 of the original radioactive material will remain."
+}

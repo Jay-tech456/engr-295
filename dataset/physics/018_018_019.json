@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "High-energy physics",
+    "sub_topic": "Heavy-ion collisions",
+    "message_1": "What is the maximum temperature reached and the lifetime of the Quark-Gluon Plasma, a state of matter created during heavy-ion collisions?",
+    "message_2": "The maximum temperature reached in the Quark-Gluon Plasma (QGP) during heavy-ion collisions is estimated to be around 4 trillion Kelvin (4 x 10^12 K) or higher. This temperature is significantly hotter than the core of the sun, which is around 15 million Kelvin (15 x 10^6 K).\n\nThe lifetime of the Quark-Gluon Plasma is extremely short, on the order of 10^-23 to 10^-22 seconds. This brief period is due to the rapid expansion and cooling of the QGP, which causes it to undergo a phase transition back into hadronic matter (protons, neutrons, and other hadrons)."
+}

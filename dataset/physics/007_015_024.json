@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Nuclear physics",
+    "sub_topic": "Nuclear forces and interactions",
+    "message_1": "What is the range of the residual strong nuclear force that holds the nucleus together, and how does it compare to the range of the electromagnetic force?",
+    "message_2": "The residual strong nuclear force, also known as the nuclear force or strong force, is the force that holds protons and neutrons together in the nucleus of an atom. The range of the residual strong nuclear force is approximately 1 to 3 femtometers (1 fm = 10^-15 meters). This force is attractive at short distances but becomes repulsive at even shorter distances, which helps to stabilize the nucleus.\n\nThe electromagnetic force, on the other hand, has an infinite range, but its strength decreases with the square of the distance between charged particles (according to Coulomb's law). In the context of atomic nuclei, the electromagnetic force is responsible for the repulsion between protons. The strong nuclear force is much stronger than the electromagnetic force at very short distances (within the nucleus), which is why it can overcome the repulsion between protons and hold the nucleus together.\n\nIn summary, the range of the residual strong nuclear force is much shorter (1 to 3 femtometers) compared to the infinite range of the electromagnetic force. However, the strong nuclear force is much stronger than the electromagnetic force at very short distances, allowing it to hold the nucleus together."
+}

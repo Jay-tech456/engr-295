@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of efficiency of a refrigerator",
+    "message_1": "What is the coefficient of performance of a refrigerator that operates between a cold reservoir at 10°C and a hot reservoir at 25°C, if it removes 4000 J of heat from the cold reservoir for every 12000 J of work done on it?",
+    "message_2": "To find the coefficient of performance (COP) of a refrigerator, we can use the following formula:\n\nCOP = Q_c / W\n\nwhere Q_c is the heat removed from the cold reservoir, and W is the work done on the refrigerator.\n\nIn this case, Q_c = 4000 J and W = 12000 J. Plugging these values into the formula, we get:\n\nCOP = 4000 J / 12000 J = 1/3 = 0.3333\n\nSo, the coefficient of performance of the refrigerator is approximately 0.3333 or 1/3."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Diffraction Gratings",
+    "message_1": "A diffraction grating has 1200 lines/mm. Determine the angle at which the third order maximum of a monochromatic light of wavelength 500 nm occurs.",
+    "message_2": "To determine the angle at which the third order maximum occurs, we can use the diffraction grating formula:\n\nn * λ = d * sin(θ)\n\nwhere n is the order of the maximum (in this case, n = 3), λ is the wavelength of the light (500 nm), d is the distance between the lines on the diffraction grating, and θ is the angle we want to find.\n\nFirst, we need to find the distance between the lines on the diffraction grating. Since there are 1200 lines per millimeter, we can calculate the distance between the lines as follows:\n\nd = 1 / 1200 lines/mm = 1/1200 mm/line\n\nTo convert this value to meters, we can multiply by 10^(-3):\n\nd = (1/1200) * 10^(-3) m/line = 8.33 * 10^(-7) m/line\n\nNow, we can plug the values into the diffraction grating formula:\n\n3 * (500 * 10^(-9) m) = (8.33 * 10^(-7) m) * sin(θ)\n\nSolving for sin(θ):\n\nsin(θ) = (3 * (500 * 10^(-9) m)) / (8.33 * 10^(-7) m) = 1.80 * 10^(-3) / 8.33 * 10^(-7) = 2.16\n\nSince the value of sin(θ) cannot be greater than 1, there must be an error in the problem statement or the calculations. However, assuming the problem statement is correct, we can conclude that there is no third order maximum for this diffraction grating and wavelength combination."
+}

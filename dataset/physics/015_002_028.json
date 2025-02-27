@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Gravitational waves",
+    "sub_topic": "Determining the frequency of gravitational waves emitted by a neutron star merger.",
+    "message_1": "What is the frequency of the gravitational waves emitted by the neutron star merger observed on August 17, 2017 (GW170817) that occurred about 130 million light-years away from Earth?",
+    "message_2": "The frequency of the gravitational waves emitted by the neutron star merger observed on August 17, 2017 (GW170817) varied over time as the neutron stars spiraled closer together and eventually merged. At the beginning of the observation, the frequency was around 24 Hz, and it increased to about 500 Hz just before the merger."
+}

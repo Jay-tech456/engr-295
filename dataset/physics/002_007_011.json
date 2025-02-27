@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of heat capacity of a substance",
+    "message_1": "What is the specific heat capacity of a copper rod with a mass of 100 grams and a temperature increase of 50 degrees Celsius when 500 joules of heat energy is added to it?",
+    "message_2": "To find the specific heat capacity (c) of the copper rod, we can use the formula:\n\nQ = mcΔT\n\nwhere Q is the heat energy added (500 J), m is the mass of the rod (100 g), c is the specific heat capacity we want to find, and ΔT is the temperature increase (50 °C).\n\nFirst, we need to rearrange the formula to solve for c:\n\nc = Q / (mΔT)\n\nNow, we can plug in the given values:\n\nc = 500 J / (100 g × 50 °C)\n\nc = 500 J / 5000 g°C\n\nc = 0.1 J/g°C\n\nSo, the specific heat capacity of the copper rod is 0.1 J/g°C."
+}

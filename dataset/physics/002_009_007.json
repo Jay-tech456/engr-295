@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of latent heat of fusion of a substance",
+    "message_1": "What is the latent heat of fusion of a substance if it requires 2000 Joules of energy to completely melt 50 grams of it, and the specific heat capacity of the substance is 0.5 J/g°C?",
+    "message_2": "The latent heat of fusion (Lf) is the amount of energy required to change a substance from the solid phase to the liquid phase without changing its temperature. To find the latent heat of fusion, we can use the formula:\n\nQ = m * Lf\n\nwhere Q is the energy required (in Joules), m is the mass of the substance (in grams), and Lf is the latent heat of fusion (in J/g).\n\nIn this problem, we are given the energy required (Q = 2000 J) and the mass of the substance (m = 50 g). We can rearrange the formula to solve for Lf:\n\nLf = Q / m\n\nNow, we can plug in the given values:\n\nLf = 2000 J / 50 g\n\nLf = 40 J/g\n\nSo, the latent heat of fusion of the substance is 40 J/g."
+}

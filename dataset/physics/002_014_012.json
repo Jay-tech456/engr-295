@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of efficiency of a refrigerator",
+    "message_1": "A refrigerator removes heat from its interior at a rate of 200 J/s and discharges it to the surroundings at a rate of 300 J/s. If the work required to operate the refrigerator is 150 J/s, what is the efficiency of the refrigerator?",
+    "message_2": "The efficiency of a refrigerator is given by the Coefficient of Performance (COP), which is the ratio of the heat removed from the interior (Q_c) to the work done by the refrigerator (W).\n\nCOP = Q_c / W\n\nIn this case, the heat removed from the interior (Q_c) is 200 J/s, and the work done by the refrigerator (W) is 150 J/s.\n\nCOP = 200 J/s / 150 J/s = 4/3 ≈ 1.33\n\nThe efficiency of the refrigerator is 1.33 or 133%."
+}

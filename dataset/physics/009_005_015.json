@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Mirrors and Lenses",
+    "message_1": "What is the minimum height of a plane mirror required for a person to see the full reflection of their body if they are standing 2 meters away from the mirror?",
+    "message_2": "To see the full reflection of their body in a plane mirror, the minimum height of the mirror should be half the height of the person. This is because the angle of incidence equals the angle of reflection, and the person's eyes are approximately at the halfway point of their height. So, if a person is H meters tall, the minimum height of the mirror should be H/2 meters."
+}

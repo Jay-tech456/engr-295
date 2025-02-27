@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Brewster's Law",
+    "message_1": "What is the angle of incidence for unpolarized light on a glass surface above which the reflected light has a polarization orientation of 90 degrees, according to Brewster's law?",
+    "message_2": "According to Brewster's law, the angle of incidence at which the reflected light has a polarization orientation of 90 degrees (p-polarized) can be calculated using the following formula:\n\nθ_B = arctan(n2/n1)\n\nwhere θ_B is the Brewster's angle, n1 is the refractive index of the first medium (air), and n2 is the refractive index of the second medium (glass).\n\nAssuming the refractive index of air is approximately 1 and the refractive index of glass is approximately 1.5, we can calculate the Brewster's angle as follows:\n\nθ_B = arctan(1.5/1) = arctan(1.5)\n\nθ_B ≈ 56.3 degrees\n\nSo, the angle of incidence for unpolarized light on a glass surface above which the reflected light has a polarization orientation of 90 degrees is approximately 56.3 degrees."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Special relativity",
+    "sub_topic": "Relativistic optics",
+    "message_1": "A photon with a wavelength of 500 nm is emitted from a star moving at 0.8c relative to Earth. What will be the wavelength of the photon as detected by an observer on Earth?",
+    "message_2": "To solve this problem, we can use the relativistic Doppler effect formula for the observed wavelength (λ') in terms of the emitted wavelength (λ) and the relative velocity (v) between the source and the observer:\n\nλ' = λ * sqrt((1 + (v/c))/(1 - (v/c)))\n\nwhere c is the speed of light.\n\nGiven the emitted wavelength λ = 500 nm and the relative velocity v = 0.8c, we can plug these values into the formula:\n\nλ' = 500 nm * sqrt((1 + (0.8c/c))/(1 - (0.8c/c)))\nλ' = 500 nm * sqrt((1 + 0.8)/(1 - 0.8))\nλ' = 500 nm * sqrt(1.8/0.2)\nλ' = 500 nm * sqrt(9)\nλ' = 500 nm * 3\n\nThe observed wavelength of the photon as detected by an observer on Earth will be:\n\nλ' = 1500 nm"
+}

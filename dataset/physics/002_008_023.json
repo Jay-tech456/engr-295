@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of specific heat capacity of a substance",
+    "message_1": "What is the specific heat capacity of a 50g iron rod if it takes 2500J of energy to increase its temperature by 20°C?",
+    "message_2": "To find the specific heat capacity (c) of the iron rod, we can use the formula:\n\nQ = mcΔT\n\nwhere Q is the heat energy absorbed or released, m is the mass of the substance, c is the specific heat capacity, and ΔT is the change in temperature.\n\nIn this problem, we are given the following values:\n\nQ = 2500 J (energy absorbed)\nm = 50 g (mass of the iron rod)\nΔT = 20°C (change in temperature)\n\nWe need to find the specific heat capacity (c). Rearranging the formula to solve for c, we get:\n\nc = Q / (mΔT)\n\nNow, we can plug in the given values:\n\nc = 2500 J / (50 g × 20°C)\n\nc = 2500 J / 1000 g°C\n\nc = 2.5 J/g°C\n\nSo, the specific heat capacity of the 50g iron rod is 2.5 J/g°C."
+}

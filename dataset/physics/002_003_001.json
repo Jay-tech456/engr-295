@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of internal energy of a system",
+    "message_1": "A 0.5 kg iron bar is heated from 20°C to 200°C. Calculate the change in internal energy of the iron bar given that the specific heat of iron is 450 J/kg°C.",
+    "message_2": "To calculate the change in internal energy of the iron bar, we can use the formula:\n\nΔE = mcΔT\n\nwhere ΔE is the change in internal energy, m is the mass of the iron bar, c is the specific heat of iron, and ΔT is the change in temperature.\n\nGiven:\nm = 0.5 kg\nc = 450 J/kg°C\nInitial temperature (T1) = 20°C\nFinal temperature (T2) = 200°C\n\nFirst, we need to find the change in temperature (ΔT):\n\nΔT = T2 - T1\nΔT = 200°C - 20°C\nΔT = 180°C\n\nNow, we can calculate the change in internal energy (ΔE):\n\nΔE = mcΔT\nΔE = (0.5 kg)(450 J/kg°C)(180°C)\n\nΔE = 40500 J\n\nThe change in internal energy of the iron bar is 40,500 Joules."
+}

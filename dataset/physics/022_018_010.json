@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Dark matter",
+    "sub_topic": "The possibility of dark matter being composed of MACHOs (Massive Compact Halo Objects)",
+    "message_1": "What is the theoretical lower limit for the mass of a MACHO (Massive Compact Halo Object) that can exist as a viable candidate for dark matter, based on current observations and constraints?",
+    "message_2": "The theoretical lower limit for the mass of a MACHO (Massive Compact Halo Object) as a viable candidate for dark matter depends on the type of object being considered. MACHOs are typically thought to be composed of baryonic matter, such as brown dwarfs, neutron stars, or black holes.\n\nMicrolensing surveys, which search for MACHOs by observing the gravitational lensing effect they have on background stars, have placed constraints on the mass range of MACHOs that could contribute significantly to dark matter. Based on these surveys, MACHOs with masses below approximately 10^(-7) solar masses are considered unlikely to account for a significant fraction of dark matter.\n\nHowever, it is important to note that MACHOs are not the leading candidate for dark matter. Most of the evidence points towards non-baryonic dark matter, such as Weakly Interacting Massive Particles (WIMPs) or axions, which would not have the same mass constraints as MACHOs."
+}

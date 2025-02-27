@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of Carnot efficiency of a heat engine",
+    "message_1": "A heat engine operates between two reservoirs at temperatures 500K and 300K. If the heat engine absorbs 900J of heat energy from the high-temperature reservoir, what is the amount of work done by the engine and what is its Carnot efficiency?",
+    "message_2": "To find the Carnot efficiency of the heat engine, we can use the formula:\n\nCarnot efficiency = 1 - (T_cold / T_hot)\n\nwhere T_cold is the temperature of the cold reservoir (300K) and T_hot is the temperature of the hot reservoir (500K).\n\nCarnot efficiency = 1 - (300K / 500K) = 1 - 0.6 = 0.4 or 40%\n\nNow, we know that the heat engine absorbs 900J of heat energy from the high-temperature reservoir. The work done by the engine can be found using the formula:\n\nWork done = Efficiency × Heat absorbed\n\nWork done = 0.4 × 900J = 360J\n\nSo, the amount of work done by the engine is 360J, and its Carnot efficiency is 40%."
+}

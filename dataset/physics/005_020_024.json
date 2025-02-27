@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Special relativity",
+    "sub_topic": "Relativistic wave Doppler effect",
+    "message_1": "A star emits light at a frequency of 6.8 × 10^14 Hz. A spaceship moves away from the star at a speed of 0.6c. What is the frequency of the light measured by an observer on the spaceship? (Assuming that c is the speed of light and using relativistic wave Doppler effect formula).",
+    "message_2": "To calculate the frequency of the light measured by an observer on the spaceship, we can use the relativistic Doppler effect formula:\n\nf' = f * sqrt((1 - β) / (1 + β))\n\nwhere:\nf' is the observed frequency on the spaceship\nf is the emitted frequency of the star (6.8 × 10^14 Hz)\nβ is the ratio of the spaceship's speed to the speed of light (0.6)\n\nFirst, let's calculate the values inside the square root:\n\n(1 - β) = (1 - 0.6) = 0.4\n(1 + β) = (1 + 0.6) = 1.6\n\nNow, we can calculate the square root:\n\nsqrt(0.4 / 1.6) = sqrt(0.25) = 0.5\n\nFinally, we can find the observed frequency on the spaceship:\n\nf' = f * 0.5 = (6.8 × 10^14 Hz) * 0.5 = 3.4 × 10^14 Hz\n\nSo, the frequency of the light measured by an observer on the spaceship is 3.4 × 10^14 Hz."
+}

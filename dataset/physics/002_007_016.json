@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of heat capacity of a substance",
+    "message_1": "What is the heat capacity of a substance with a mass of 50 grams and a temperature increase of 10 degrees Celsius, if the substance requires 500 Joules of heat energy to produce the temperature increase?",
+    "message_2": "To find the heat capacity (specific heat) of the substance, we can use the formula:\n\nq = mcΔT\n\nwhere q is the heat energy (in Joules), m is the mass of the substance (in grams), c is the specific heat capacity (in J/g°C), and ΔT is the temperature change (in degrees Celsius).\n\nWe are given the values for q (500 J), m (50 g), and ΔT (10°C). We need to solve for c:\n\n500 J = (50 g) × c × (10°C)\n\nNow, we can solve for c:\n\nc = 500 J / (50 g × 10°C)\nc = 500 J / 500 g°C\nc = 1 J/g°C\n\nThe heat capacity of the substance is 1 J/g°C."
+}

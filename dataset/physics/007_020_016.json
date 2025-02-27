@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Nuclear physics",
+    "sub_topic": "Nuclear radiation detection and measurement",
+    "message_1": "A nuclear radiation detector produces an output of 2.5V for every 100 counts of emitted particles. If the detector produces an output of 3.75V, how many particles per second are being emitted by the radiation source?",
+    "message_2": "To find the number of particles per second being emitted by the radiation source, we can first determine the relationship between the output voltage and the number of counts.\n\nGiven that a 2.5V output corresponds to 100 counts, we can set up a proportion:\n\n2.5V / 100 counts = 3.75V / x counts\n\nNow, we can solve for x:\n\nx counts = (3.75V * 100 counts) / 2.5V\nx counts = 375 counts\n\nSo, the radiation source is emitting 375 particles per second."
+}

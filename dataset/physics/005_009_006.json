@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Special relativity",
+    "sub_topic": "Relativistic Doppler effect",
+    "message_1": "What is the observed frequency of a sound wave emitted from a space vehicle traveling at 0.8 times the speed of light, as measured by a stationary observer on Earth, given that the emitted frequency was 500 Hz? (Assume the speed of sound is negligible compared to the speed of light)",
+    "message_2": "To solve this problem, we need to use the relativistic Doppler effect formula, which accounts for the effects of special relativity when dealing with objects moving at a significant fraction of the speed of light. The formula for the observed frequency (f_obs) is:\n\nf_obs = f_emitted * sqrt((1 - β) / (1 + β))\n\nwhere f_emitted is the emitted frequency, β is the ratio of the space vehicle's speed (v) to the speed of light (c), and sqrt denotes the square root. In this case, f_emitted = 500 Hz and β = 0.8.\n\nf_obs = 500 * sqrt((1 - 0.8) / (1 + 0.8))\nf_obs = 500 * sqrt(0.2 / 1.8)\nf_obs = 500 * sqrt(0.1111)\nf_obs ≈ 500 * 0.3333\n\nf_obs ≈ 166.65 Hz\n\nThe observed frequency of the sound wave as measured by a stationary observer on Earth is approximately 166.65 Hz."
+}

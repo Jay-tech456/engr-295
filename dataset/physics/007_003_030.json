@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Nuclear physics",
+    "sub_topic": "Nuclear energy production and efficiency",
+    "message_1": "What is the efficiency of a nuclear power plant that produces 500 megawatts of electricity using a reactor with a thermal power output of 1500 megawatts?",
+    "message_2": "The efficiency of a power plant can be calculated using the following formula:\n\nEfficiency = (Useful output power / Input power) × 100%\n\nIn this case, the useful output power is the electrical power produced, which is 500 megawatts, and the input power is the thermal power output of the reactor, which is 1500 megawatts.\n\nEfficiency = (500 MW / 1500 MW) × 100%\n\nEfficiency = (1/3) × 100%\n\nEfficiency = 33.33%\n\nSo, the efficiency of the nuclear power plant is 33.33%."
+}

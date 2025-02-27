@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Special relativity",
+    "sub_topic": "Relativistic quantum mechanics",
+    "message_1": "What is the energy of a particle with mass m and momentum p, according to the relativistic energy-momentum relation?",
+    "message_2": "The relativistic energy-momentum relation is given by the equation:\n\nE² = (mc²)² + (pc)²\n\nwhere E is the energy of the particle, m is its mass, p is its momentum, and c is the speed of light in a vacuum.\n\nTo find the energy E, we can take the square root of both sides of the equation:\n\nE = sqrt((mc²)² + (pc)²)"
+}

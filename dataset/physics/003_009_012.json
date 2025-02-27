@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Electromagnetism",
+    "sub_topic": "Calculation of magnetic field due to a current-carrying sphere",
+    "message_1": "What is the magnetic field strength at a distance of 10 cm from the center of a copper sphere with a radius of 5 cm, carrying a current of 2 A?",
+    "message_2": "A solid copper sphere carrying a current does not produce a magnetic field outside the sphere, as the current distribution is symmetric and the magnetic field produced by each current element cancels out the field produced by the opposite current element. Therefore, the magnetic field strength at a distance of 10 cm from the center of the copper sphere is 0 T (tesla)."
+}

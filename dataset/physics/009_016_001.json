@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Diffraction",
+    "message_1": "A parallel beam of light of wavelength 500 nm is incident upon a single slit of width 0.2 mm. What is the angle between the first and the third minima of the resulting diffraction pattern observed on a screen placed at a distance of 2 meters from the slit?",
+    "message_2": "To find the angle between the first and third minima of the diffraction pattern, we can use the formula for the angular position of the minima in a single-slit diffraction pattern:\n\nθ = arcsin(m * λ / a)\n\nwhere θ is the angular position of the minima, m is the order of the minima (1 for the first minima, 3 for the third minima), λ is the wavelength of light (500 nm), and a is the width of the slit (0.2 mm).\n\nFirst, let's convert the units to meters:\n\nλ = 500 nm = 500 * 10^(-9) m\na = 0.2 mm = 0.2 * 10^(-3) m\n\nNow, let's find the angular positions of the first and third minima:\n\nθ1 = arcsin(1 * 500 * 10^(-9) / 0.2 * 10^(-3))\nθ1 ≈ arcsin(0.0025)\nθ1 ≈ 0.0025 rad\n\nθ3 = arcsin(3 * 500 * 10^(-9) / 0.2 * 10^(-3))\nθ3 ≈ arcsin(0.0075)\nθ3 ≈ 0.0075 rad\n\nFinally, let's find the angle between the first and third minima:\n\nΔθ = θ3 - θ1\nΔθ = 0.0075 - 0.0025\nΔθ = 0.005 rad\n\nSo, the angle between the first and the third minima of the resulting diffraction pattern is approximately 0.005 radians."
+}

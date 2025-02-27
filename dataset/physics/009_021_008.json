@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Polarization of Light",
+    "message_1": "How much should the angle of incidence of unpolarized light be adjusted to achieve complete polarization at the Brewster's angle for a glass-air interface with a refractive index of 1.50?",
+    "message_2": "To achieve complete polarization at the Brewster's angle, the angle of incidence must be such that the reflected light is completely polarized. This occurs when the angle between the reflected and refracted rays is 90 degrees. The Brewster's angle (θ_B) can be calculated using the following formula:\n\ntan(θ_B) = n2 / n1\n\nwhere n1 and n2 are the refractive indices of the two media (in this case, air and glass). For air, the refractive index is approximately 1, and for glass, it is given as 1.50.\n\ntan(θ_B) = 1.50 / 1\nθ_B = arctan(1.50)\n\nUsing a calculator, we find:\n\nθ_B ≈ 56.31 degrees\n\nSo, the angle of incidence of unpolarized light should be adjusted to approximately 56.31 degrees to achieve complete polarization at the Brewster's angle for a glass-air interface with a refractive index of 1.50."
+}

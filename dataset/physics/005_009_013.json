@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Special relativity",
+    "sub_topic": "Relativistic Doppler effect",
+    "message_1": "A spaceship is moving towards the Earth at a velocity of 0.6c. The emitted frequency of a signal from the spaceship is 10 MHz. What is the frequency of the signal detected by an observer on Earth? (Assume the rest frequency of the signal is also 10 MHz.)",
+    "message_2": "To find the frequency detected by an observer on Earth, we need to use the relativistic Doppler effect formula:\n\nf_observed = f_emitted * sqrt((1 + v/c) / (1 - v/c))\n\nwhere:\nf_observed = frequency detected by the observer on Earth\nf_emitted = frequency emitted by the spaceship (10 MHz)\nv = velocity of the spaceship relative to the Earth (0.6c)\nc = speed of light\n\nPlugging in the values:\n\nf_observed = 10 MHz * sqrt((1 + 0.6) / (1 - 0.6))\n\nf_observed = 10 MHz * sqrt(1.6 / 0.4)\n\nf_observed = 10 MHz * sqrt(4)\n\nf_observed = 10 MHz * 2\n\nf_observed = 20 MHz\n\nSo, the frequency of the signal detected by an observer on Earth is 20 MHz."
+}

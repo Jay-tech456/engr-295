@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of specific heat capacity of a substance",
+    "message_1": "Consider a block of copper with mass 250 g at a temperature of 25 °C. When a heat of 1500 J is supplied to it, its temperature rises to 60 °C. Find the specific heat capacity of copper.",
+    "message_2": "To find the specific heat capacity of copper, we can use the formula:\n\nQ = mcΔT\n\nwhere Q is the heat supplied (1500 J), m is the mass of the copper block (250 g), c is the specific heat capacity of copper (which we need to find), and ΔT is the change in temperature (60 °C - 25 °C).\n\nFirst, let's find the change in temperature:\n\nΔT = 60 °C - 25 °C = 35 °C\n\nNow, we can plug the values into the formula and solve for the specific heat capacity (c):\n\n1500 J = (250 g) * c * (35 °C)\n\nTo isolate c, we can divide both sides of the equation by (250 g * 35 °C):\n\nc = 1500 J / (250 g * 35 °C)\n\nc = 1500 J / 8750 g°C\n\nc ≈ 0.171 J/(g°C)\n\nSo, the specific heat capacity of copper is approximately 0.171 J/(g°C)."
+}

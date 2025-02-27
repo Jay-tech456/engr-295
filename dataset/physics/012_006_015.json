@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Plasma physics",
+    "sub_topic": "Plasma thrusters for space propulsion",
+    "message_1": "Calculate the specific impulse and thrust of a Hall thruster used for space propulsion based on the provided input parameters such as the magnetic field strength, voltage, propellant mass flow rate, and exit velocity.",
+    "message_2": "To calculate the specific impulse and thrust of a Hall thruster, we need the following input parameters:\n\n1. Propellant mass flow rate (m_dot) in kg/s\n2. Exit velocity (V_e) in m/s\n\nPlease provide the values for these parameters. The magnetic field strength and voltage are important for the operation of the Hall thruster, but they are not directly used in the calculation of specific impulse and thrust."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Special relativity",
+    "sub_topic": "Relativistic optics",
+    "message_1": "A photon traveling in a vacuum has a frequency of 5.0 x 10^14 Hz. What is the frequency of the photon when it passes through a transparent material with an index of refraction of 1.5?",
+    "message_2": "When a photon passes through a transparent material, its speed changes due to the index of refraction of the material. However, the frequency of the photon remains constant. This is because the energy of the photon is determined by its frequency, and the energy is conserved when the photon enters the material.\n\nSo, the frequency of the photon when it passes through the transparent material with an index of refraction of 1.5 is still 5.0 x 10^14 Hz."
+}

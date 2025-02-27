@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Nuclear physics",
+    "sub_topic": "Nuclear fission and fusion reactions",
+    "message_1": "What is the minimum energy required to initiate the fusion reaction between two deuterium nuclei? Give your answer in MeV.",
+    "message_2": "The minimum energy required to initiate the fusion reaction between two deuterium nuclei, also known as the Coulomb barrier, is approximately 0.1 MeV. This energy is needed to overcome the electrostatic repulsion between the positively charged deuterium nuclei and bring them close enough for the strong nuclear force to take over and cause fusion."
+}

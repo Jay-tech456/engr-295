@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Thin Lens Equation",
+    "message_1": "A camera with a focal length of 50 mm is used to capture an image of an object located 2 meters away. Find the distance between the object and its image formed by the camera.",
+    "message_2": "To find the distance between the object and its image formed by the camera, we can use the lens formula:\n\n1/f = 1/u + 1/v\n\nwhere f is the focal length, u is the object distance, and v is the image distance.\n\nGiven:\nf = 50 mm = 0.05 m (converting to meters)\nu = 2 m\n\nWe need to find v.\n\nRearranging the lens formula to solve for v:\n\n1/v = 1/f - 1/u\n\nNow, plug in the given values:\n\n1/v = 1/0.05 - 1/2\n1/v = 20 - 0.5\n1/v = 19.5\n\nNow, find the value of v:\n\nv = 1/19.5\nv ≈ 0.0513 m\n\nThe distance between the object and its image formed by the camera is approximately 0.0513 meters or 51.3 mm."
+}

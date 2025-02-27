@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Special relativity",
+    "sub_topic": "Relativistic black holes",
+    "message_1": "What is the maximum mass of a non-rotating black hole that can be formed when a star of initial mass M undergoes gravitational collapse according to the laws of special relativity?",
+    "message_2": "The formation of a non-rotating black hole from a collapsing star is governed by the laws of general relativity, not special relativity. In general relativity, the critical mass for a star to form a black hole is determined by the Tolman-Oppenheimer-Volkoff (TOV) limit.\n\nThe TOV limit is the maximum mass that a non-rotating neutron star can have before it collapses into a black hole. This limit depends on the equation of state of the neutron star's matter, which is still an area of active research. However, the TOV limit is estimated to be around 2 to 3 solar masses.\n\nSo, if a star of initial mass M undergoes gravitational collapse, it can form a non-rotating black hole if its mass after shedding its outer layers (due to supernova explosion or other processes) is above the TOV limit, which is around 2 to 3 solar masses. The maximum mass of the resulting black hole will be close to the mass of the collapsed core, as long as it is above the TOV limit."
+}

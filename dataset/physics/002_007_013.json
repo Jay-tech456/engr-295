@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of heat capacity of a substance",
+    "message_1": "What is the heat capacity of a copper block weighing 500 g and having an initial temperature of 20°C if we supply 500 J of heat energy to it and the final temperature of the block becomes 40°C?",
+    "message_2": "To find the heat capacity of the copper block, we can use the formula:\n\nQ = mcΔT\n\nwhere Q is the heat energy supplied (500 J), m is the mass of the copper block (500 g), c is the specific heat capacity of copper, and ΔT is the change in temperature (final temperature - initial temperature).\n\nFirst, we need to find the specific heat capacity of copper, which is 0.385 J/g°C.\n\nNext, we need to find the change in temperature (ΔT):\n\nΔT = final temperature - initial temperature\nΔT = 40°C - 20°C\nΔT = 20°C\n\nNow, we can plug the values into the formula:\n\n500 J = (500 g)(0.385 J/g°C)(20°C)\n\nTo find the heat capacity (c), we can rearrange the formula:\n\nc = Q / (mΔT)\n\nc = 500 J / (500 g * 20°C)\nc = 500 J / 10000 g°C\nc = 0.05 J/g°C\n\nThe heat capacity of the copper block is 0.05 J/g°C."
+}

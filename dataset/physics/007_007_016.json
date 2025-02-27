@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Nuclear physics",
+    "sub_topic": "Nuclear magnetic resonance (NMR) spectroscopy",
+    "message_1": "A sample of ethyl acetate (C4H8O2) is subjected to Nuclear Magnetic Resonance (NMR) spectroscopy, and a signal is observed at a chemical shift of 1.23 ppm. The instrument's frequency is 300 MHz. What is the chemical shift of the signal in Hz?",
+    "message_2": "To find the chemical shift of the signal in Hz, we can use the following formula:\n\nChemical shift (Hz) = Chemical shift (ppm) × Operating frequency (MHz)\n\nGiven the chemical shift in ppm is 1.23 and the operating frequency is 300 MHz, we can calculate the chemical shift in Hz as follows:\n\nChemical shift (Hz) = 1.23 ppm × 300 MHz\n\nSince 1 MHz = 10^6 Hz, we can convert the operating frequency to Hz:\n\nChemical shift (Hz) = 1.23 × (300 × 10^6 Hz)\n\nChemical shift (Hz) = 1.23 × 300,000,000 Hz\n\nChemical shift (Hz) = 369,000,000 Hz\n\nTherefore, the chemical shift of the signal is 369,000 Hz or 369 kHz."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Special relativity",
+    "sub_topic": "Relativistic mass increase",
+    "message_1": "A spaceship travels at a speed of 90% of the speed of light, according to its own clock. If the rest mass of the spaceship is 50,000 kg, what is its relativistic mass at this speed?",
+    "message_2": "To find the relativistic mass of the spaceship, we need to use the following equation:\n\nm = m0 / sqrt(1 - v^2/c^2)\n\nwhere m is the relativistic mass, m0 is the rest mass, v is the velocity of the spaceship, and c is the speed of light.\n\nGiven:\nm0 = 50,000 kg\nv = 0.9c\n\nNow, we can plug these values into the equation:\n\nm = 50,000 / sqrt(1 - (0.9c)^2/c^2)\n\nm = 50,000 / sqrt(1 - 0.81)\n\nm = 50,000 / sqrt(0.19)\n\nm ≈ 50,000 / 0.43589\n\nm ≈ 114,707 kg\n\nSo, the relativistic mass of the spaceship at 90% of the speed of light is approximately 114,707 kg."
+}

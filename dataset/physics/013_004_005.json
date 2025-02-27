@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Astrophysics",
+    "sub_topic": "Gravitational lensing and dark matter",
+    "message_1": "Sure, here is a precise problem for the student to solve:\n\nA distant galaxy is observed through a gravitational lens, which has an observable mass of 5 × 10^14 solar masses. If the lensing galaxy is assumed to be composed entirely of dark matter, estimate the total mass of dark matter in the galaxy.",
+    "message_2": "In this problem, we are given the mass of the lensing galaxy as observed through the gravitational lens, and we are asked to estimate the total mass of dark matter in the galaxy, assuming it is composed entirely of dark matter.\n\nSince the lensing galaxy is assumed to be composed entirely of dark matter, the observable mass through the gravitational lens is equal to the total mass of dark matter in the galaxy.\n\nTherefore, the total mass of dark matter in the galaxy is 5 × 10^14 solar masses."
+}

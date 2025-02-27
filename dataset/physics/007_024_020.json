@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Nuclear physics",
+    "sub_topic": "Nuclear fusion plasma physics",
+    "message_1": "What is the minimum temperature required to initiate a nuclear fusion reaction in a deuterium-tritium plasma?",
+    "message_2": "To initiate a nuclear fusion reaction in a deuterium-tritium (D-T) plasma, the temperature must be high enough to overcome the electrostatic repulsion between the positively charged nuclei. The minimum temperature required for this is typically around 100 million Kelvin (100 MK or 100 x 10^6 K). At this temperature, the kinetic energy of the particles is sufficient to bring them close enough for the strong nuclear force to take over and cause the fusion reaction to occur."
+}

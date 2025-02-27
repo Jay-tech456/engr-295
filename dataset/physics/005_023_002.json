@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Special relativity",
+    "sub_topic": "Relativistic black holes",
+    "message_1": "A spaceship is flying towards a massive black hole at a velocity of 0.8c (80% of the speed of light). Calculate the time dilation factor for the spaceship relative to an observer on Earth. How much time will the observer on Earth measure to pass for every minute that passes on the spaceship?",
+    "message_2": "To calculate the time dilation factor, we can use the formula derived from the special theory of relativity:\n\ntime dilation factor (γ) = 1 / sqrt(1 - v^2/c^2)\n\nwhere v is the velocity of the spaceship (0.8c) and c is the speed of light.\n\nγ = 1 / sqrt(1 - (0.8c)^2/c^2)\nγ = 1 / sqrt(1 - 0.64)\nγ = 1 / sqrt(0.36)\nγ = 1 / 0.6\nγ ≈ 1.67\n\nThe time dilation factor is approximately 1.67. This means that for every minute that passes on the spaceship, the observer on Earth will measure approximately 1.67 minutes to have passed."
+}

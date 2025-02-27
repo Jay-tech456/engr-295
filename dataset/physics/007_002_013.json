@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Nuclear physics",
+    "sub_topic": "Radioactive decay and half-life calculations",
+    "message_1": "What is the half-life of a radioactive isotope if only 12.5 grams of a 100-gram sample remain after 75 years, given that the isotope has a decay constant of 0.012 per year?",
+    "message_2": "To find the half-life of a radioactive isotope, we can use the formula:\n\nN(t) = N0 * e^(-λt)\n\nwhere N(t) is the amount of the isotope remaining after time t, N0 is the initial amount of the isotope, λ is the decay constant, and t is the time elapsed.\n\nIn this case, we have N(t) = 12.5 grams, N0 = 100 grams, λ = 0.012 per year, and t = 75 years. We can plug these values into the formula:\n\n12.5 = 100 * e^(-0.012 * 75)\n\nNow, we can solve for the half-life (T½) using the decay constant:\n\nT½ = ln(2) / λ\n\nFirst, we need to find the decay constant λ. We can do this by solving the equation above:\n\n12.5 / 100 = e^(-0.012 * 75)\n0.125 = e^(-0.9)\nln(0.125) = -0.9\nλ = -0.9 / 75\nλ ≈ 0.012\n\nNow that we have the decay constant, we can find the half-life:\n\nT½ = ln(2) / 0.012\nT½ ≈ 57.76 years\n\nSo, the half-life of the radioactive isotope is approximately 57.76 years."
+}

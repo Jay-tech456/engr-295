@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Particle physics",
+    "sub_topic": "The search for supersymmetric particles",
+    "message_1": "What is the strength of the electromagnetic force between two supersymmetric particles if their charges and distances are known?",
+    "message_2": "To calculate the electromagnetic force between two supersymmetric particles, we can use Coulomb's Law. Coulomb's Law states that the force between two charged particles is directly proportional to the product of their charges and inversely proportional to the square of the distance between them. Mathematically, it can be represented as:\n\nF = k * (q1 * q2) / r^2\n\nwhere:\n- F is the electromagnetic force between the two particles\n- k is the electrostatic constant, approximately 8.9875 × 10^9 N m² C⁻²\n- q1 and q2 are the charges of the two supersymmetric particles (in Coulombs)\n- r is the distance between the two particles (in meters)\n\nGiven the charges (q1 and q2) and the distance (r) between the two supersymmetric particles, you can plug the values into the formula and calculate the strength of the electromagnetic force between them."
+}

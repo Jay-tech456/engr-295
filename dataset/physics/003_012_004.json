@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Electromagnetism",
+    "sub_topic": "Calculation of magnetic field due to a current-carrying plane",
+    "message_1": "What is the magnetic field strength at a point located 2 cm away from a plane carrying a current of 5 A, if the plane is perpendicular to the direction of current flow?",
+    "message_2": "To calculate the magnetic field strength at a point located 2 cm away from a plane carrying a current of 5 A, we can use the formula for the magnetic field due to an infinite current sheet:\n\nB = (μ₀ * I) / (2 * π * d)\n\nwhere B is the magnetic field strength, μ₀ is the permeability of free space (4π × 10⁻⁷ Tm/A), I is the current (5 A), and d is the distance from the plane (0.02 m).\n\nB = (4π × 10⁻⁷ Tm/A * 5 A) / (2 * π * 0.02 m)\n\nB = (20π × 10⁻⁷ Tm) / (0.04 m)\n\nB = 500π × 10⁻⁷ T\n\nB ≈ 1.57 × 10⁻⁶ T\n\nThe magnetic field strength at a point located 2 cm away from the plane carrying a current of 5 A is approximately 1.57 × 10⁻⁶ T."
+}

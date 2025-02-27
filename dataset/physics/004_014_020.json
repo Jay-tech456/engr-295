@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "General relativity",
+    "sub_topic": "The cosmic microwave background radiation",
+    "message_1": "What is the temperature of the universe when it was 380,000 years old, based on the measurements of cosmic microwave background radiation? How does this temperature relate to the expansion and cooling of the universe predicted by the theory of general relativity?",
+    "message_2": "The temperature of the universe when it was 380,000 years old, based on the measurements of cosmic microwave background (CMB) radiation, is approximately 3000 Kelvin (K). This is the time when the universe became transparent to radiation, as electrons and protons combined to form neutral hydrogen atoms, a process known as recombination.\n\nThis temperature is consistent with the predictions of the theory of general relativity and the Big Bang model. According to these theories, the universe has been expanding and cooling since its inception. As the universe expands, the energy density of radiation decreases, leading to a decrease in temperature. The relationship between the scale factor of the universe (a measure of its size) and the temperature is given by T ∝ 1/a, where T is the temperature and a is the scale factor.\n\nThe CMB temperature at 380,000 years old provides strong evidence for the expansion and cooling of the universe. Today, the CMB temperature has cooled down to approximately 2.7 K, further supporting the idea that the universe has been expanding and cooling over time."
+}

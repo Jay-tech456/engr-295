@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Solid state physics",
+    "sub_topic": "Calculation of the thermal expansion coefficient of a crystal",
+    "message_1": "A crystal lattice with a volume of 100 cm³ at 298 K has a thermal expansion coefficient of 3.5 x 10⁻⁶ K⁻¹. At what temperature will the volume of the crystal lattice increase to 102 cm³?",
+    "message_2": "To solve this problem, we can use the formula for the volume expansion of a solid:\n\nΔV = V₀ * α * ΔT\n\nwhere ΔV is the change in volume, V₀ is the initial volume, α is the thermal expansion coefficient, and ΔT is the change in temperature.\n\nWe are given the initial volume V₀ = 100 cm³, the thermal expansion coefficient α = 3.5 x 10⁻⁶ K⁻¹, and the final volume V = 102 cm³. We want to find the temperature at which the volume increases to 102 cm³.\n\nFirst, we need to find the change in volume:\n\nΔV = V - V₀ = 102 cm³ - 100 cm³ = 2 cm³\n\nNow we can rearrange the formula to solve for the change in temperature:\n\nΔT = ΔV / (V₀ * α)\n\nPlugging in the values:\n\nΔT = 2 cm³ / (100 cm³ * 3.5 x 10⁻⁶ K⁻¹) = 2 / (350 x 10⁻⁶) = 2 / 0.00035 ≈ 5714.29 K\n\nNow we can find the final temperature by adding the change in temperature to the initial temperature:\n\nT = T₀ + ΔT = 298 K + 5714.29 K ≈ 6012.29 K\n\nSo, the temperature at which the volume of the crystal lattice increases to 102 cm³ is approximately 6012.29 K."
+}

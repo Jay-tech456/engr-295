@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of Carnot efficiency of a heat engine",
+    "message_1": "A carnot engine absorbs heat at 1200K and rejects heat at 300K. Find the Carnot efficiency of the engine.",
+    "message_2": "The Carnot efficiency of an engine is given by the formula:\n\nEfficiency = 1 - (Tc/Th)\n\nwhere Tc is the temperature of the cold reservoir (in Kelvin) and Th is the temperature of the hot reservoir (in Kelvin).\n\nIn this case, the hot reservoir temperature Th is 1200K, and the cold reservoir temperature Tc is 300K. Plugging these values into the formula, we get:\n\nEfficiency = 1 - (300K/1200K)\n\nEfficiency = 1 - (1/4)\n\nEfficiency = 1 - 0.25\n\nEfficiency = 0.75\n\nSo, the Carnot efficiency of the engine is 75%."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Special relativity",
+    "sub_topic": "Relativistic velocity addition",
+    "message_1": "Here's a problem for the student to solve: \n\nTwo spaceships are traveling through space at speeds of 0.6c and 0.8c respectively, relative to an observer, in the same direction. What is the relative velocity between the two spaceships according to the observer? Assume that the observer is at rest and use the relativistic velocity addition formula.",
+    "message_2": "To solve this problem, we will use the relativistic velocity addition formula, which is given by:\n\nv_rel = (v1 - v2) / (1 - (v1 * v2) / c^2)\n\nwhere v_rel is the relative velocity between the two spaceships, v1 and v2 are their respective velocities relative to the observer, and c is the speed of light.\n\nIn this problem, v1 = 0.6c and v2 = 0.8c. Plugging these values into the formula, we get:\n\nv_rel = (0.6c - 0.8c) / (1 - (0.6c * 0.8c) / c^2)\n\nv_rel = (-0.2c) / (1 - 0.48c^2 / c^2)\n\nv_rel = (-0.2c) / (1 - 0.48)\n\nv_rel = (-0.2c) / 0.52\n\nv_rel = -0.3846c\n\nSince the relative velocity is negative, it means that the spaceship traveling at 0.6c is moving away from the spaceship traveling at 0.8c. The magnitude of the relative velocity between the two spaceships is approximately 0.3846c."
+}

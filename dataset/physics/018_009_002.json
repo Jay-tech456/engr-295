@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "High-energy physics",
+    "sub_topic": "Black holes and their thermodynamics",
+    "message_1": "How does the temperature of a black hole change as it gradually loses mass through Hawking radiation? Specifically, what is the rate of change of Hawking temperature with respect to the black hole's mass?",
+    "message_2": "The Hawking temperature (T_H) of a black hole is inversely proportional to its mass (M). The relationship between the two can be expressed using the following formula:\n\nT_H = (ħc^3) / (8πGMk_B)\n\nwhere ħ is the reduced Planck constant, c is the speed of light, G is the gravitational constant, and k_B is the Boltzmann constant.\n\nTo find the rate of change of Hawking temperature with respect to the black hole's mass, we need to differentiate the Hawking temperature with respect to mass (M). Using the formula above, we get:\n\ndT_H/dM = - (ħc^3) / (8πGk_B * M^2)\n\nThis equation shows that the rate of change of Hawking temperature with respect to the black hole's mass is inversely proportional to the square of the mass. As the black hole loses mass through Hawking radiation, its temperature increases. The rate of temperature increase becomes faster as the black hole becomes smaller."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Electromagnetism",
+    "sub_topic": "Calculation of magnetic field due to a current-carrying helix",
+    "message_1": "A current of 2 A flows through a helix having 10 turns per unit length. The radius of the helix is 5 cm. Determine the magnetic field at a point 3 cm away from the center of the helix.",
+    "message_2": "To determine the magnetic field at a point 3 cm away from the center of the helix, we can use Ampere's Law. The magnetic field due to a current-carrying wire can be given by the formula:\n\nB = (μ₀ * I * n) / (2 * π * r)\n\nwhere B is the magnetic field, μ₀ is the permeability of free space (4π × 10^(-7) Tm/A), I is the current, n is the number of turns per unit length, and r is the distance from the center of the helix to the point where we want to find the magnetic field.\n\nIn this case, we have:\n\nI = 2 A (current)\nn = 10 turns per unit length\nr = 3 cm = 0.03 m (distance from the center of the helix)\n\nNow, we can plug these values into the formula:\n\nB = (4π × 10^(-7) Tm/A * 2 A * 10 turns/m) / (2 * π * 0.03 m)\n\nThe π in the numerator and denominator cancels out, and we get:\n\nB = (4 × 10^(-7) Tm/A * 2 A * 10 turns/m) / (0.03 m)\n\nB = (8 × 10^(-6) T * 10 turns) / 0.03\n\nB ≈ 2.67 × 10^(-5) T\n\nThe magnetic field at a point 3 cm away from the center of the helix is approximately 2.67 × 10^(-5) Tesla."
+}

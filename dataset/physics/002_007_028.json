@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of heat capacity of a substance",
+    "message_1": "What is the specific heat capacity of a substance if it requires 5,000 Joules of heat to raise the temperature of 2 kg of the substance by 10 °C?",
+    "message_2": "The specific heat capacity (c) of a substance can be calculated using the formula:\n\nQ = mcΔT\n\nwhere Q is the heat energy (in Joules), m is the mass of the substance (in kg), c is the specific heat capacity (in J/kg°C), and ΔT is the change in temperature (in °C).\n\nWe are given the following information:\n\nQ = 5,000 J\nm = 2 kg\nΔT = 10 °C\n\nWe need to find the specific heat capacity (c). Rearranging the formula to solve for c, we get:\n\nc = Q / (mΔT)\n\nNow, plug in the given values:\n\nc = 5,000 J / (2 kg × 10 °C)\nc = 5,000 J / 20 kg°C\nc = 250 J/kg°C\n\nThe specific heat capacity of the substance is 250 J/kg°C."
+}

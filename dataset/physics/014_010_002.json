@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Cosmology",
+    "sub_topic": "The study of black holes and their properties",
+    "message_1": "What is the maximum mass of a non-rotating black hole, and what is the size of its event horizon?",
+    "message_2": "The maximum mass of a non-rotating black hole is not well-defined, as black holes can theoretically have an arbitrarily large mass. However, the largest observed black holes in the universe are supermassive black holes found at the centers of galaxies, with masses up to billions of solar masses.\n\nThe size of a black hole's event horizon, also known as the Schwarzschild radius, can be calculated using the following formula:\n\nSchwarzschild radius (Rs) = 2GM/c^2\n\nwhere G is the gravitational constant (approximately 6.674 × 10^-11 m^3 kg^-1 s^-2), M is the mass of the black hole, and c is the speed of light (approximately 3 × 10^8 m/s).\n\nFor a black hole with a mass of one solar mass (approximately 1.989 × 10^30 kg), the Schwarzschild radius would be:\n\nRs = 2 × (6.674 × 10^-11 m^3 kg^-1 s^-2) × (1.989 × 10^30 kg) / (3 × 10^8 m/s)^2\nRs ≈ 2.95 kilometers\n\nFor a black hole with a larger mass, the Schwarzschild radius would be proportionally larger. For example, a black hole with a mass of 10^9 solar masses would have a Schwarzschild radius of about 2.95 × 10^9 kilometers."
+}

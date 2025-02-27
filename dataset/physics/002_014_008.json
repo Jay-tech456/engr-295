@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of efficiency of a refrigerator",
+    "message_1": "A refrigerator functions between two temperatures of 5°C and 25°C. It uses 100 J of work to remove 50 J of heat from the food compartment. Determine the coefficient of performance and the efficiency of the refrigerator.",
+    "message_2": "The coefficient of performance (COP) of a refrigerator is defined as the ratio of the heat removed from the food compartment (Q_c) to the work done by the refrigerator (W). In this case, Q_c = 50 J and W = 100 J. Therefore, the COP can be calculated as follows:\n\nCOP = Q_c / W\nCOP = 50 J / 100 J\nCOP = 0.5\n\nThe efficiency of a refrigerator is defined as the ratio of the work done by the refrigerator (W) to the total energy input, which is the sum of the heat removed from the food compartment (Q_c) and the work done by the refrigerator (W). In this case, the total energy input is Q_c + W = 50 J + 100 J = 150 J. Therefore, the efficiency can be calculated as follows:\n\nEfficiency = W / (Q_c + W)\nEfficiency = 100 J / 150 J\nEfficiency = 2/3 or approximately 0.67 or 67%\n\nSo, the coefficient of performance of the refrigerator is 0.5, and its efficiency is 67%."
+}

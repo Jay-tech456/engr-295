@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Double Slit Interference",
+    "message_1": "What is the distance between the two slits in a double-slit experiment, if the third bright fringe is observed at 2.5 cm from the center of the central fringe on a screen located 1 meter from the double slit? The wavelength of the light used is 500 nm.",
+    "message_2": "In a double-slit experiment, the positions of the bright fringes on the screen can be calculated using the formula:\n\ny_n = (n * λ * L) / d\n\nwhere y_n is the distance from the central fringe to the nth bright fringe, n is the order of the fringe (n = 1 for the first bright fringe, n = 2 for the second, etc.), λ is the wavelength of the light, L is the distance from the double slit to the screen, and d is the distance between the two slits.\n\nIn this problem, we are given the following information:\n\n- The third bright fringe (n = 3) is observed at 2.5 cm (0.025 m) from the center of the central fringe (y_3 = 0.025 m).\n- The screen is located 1 meter (L = 1 m) from the double slit.\n- The wavelength of the light used is 500 nm (λ = 500 x 10^(-9) m).\n\nWe need to find the distance between the two slits (d). We can rearrange the formula to solve for d:\n\nd = (n * λ * L) / y_n\n\nPlugging in the given values:\n\nd = (3 * 500 x 10^(-9) m * 1 m) / 0.025 m\n\nd = (1500 x 10^(-9) m) / 0.025 m\n\nd = 6 x 10^(-5) m\n\nSo, the distance between the two slits in the double-slit experiment is 6 x 10^(-5) meters, or 60 micrometers."
+}

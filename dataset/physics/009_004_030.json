@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Critical Angle",
+    "message_1": "A rectangular glass slab with a refractive index of 1.5 is surrounded by air. What is the maximum angle of incidence in air for which a light ray can enter the slab from air without being refracted?",
+    "message_2": "To find the maximum angle of incidence for which a light ray can enter the slab without being refracted, we need to consider the critical angle. The critical angle is the angle of incidence at which the angle of refraction is 90 degrees. This is the point where the light ray will be refracted along the surface of the glass slab, and any angle greater than the critical angle will result in total internal reflection.\n\nWe can use Snell's Law to find the critical angle:\n\nn1 * sin(θ1) = n2 * sin(θ2)\n\nHere, n1 is the refractive index of air (approximately 1), θ1 is the angle of incidence (the critical angle), n2 is the refractive index of the glass slab (1.5), and θ2 is the angle of refraction (90 degrees).\n\n1 * sin(θ1) = 1.5 * sin(90)\n\nsin(θ1) = 1.5\n\nSince the sine function cannot have a value greater than 1, it is impossible for a light ray to enter the glass slab from air without being refracted."
+}

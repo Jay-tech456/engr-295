@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Double Slit Interference",
+    "message_1": "What is the distance between the first order dark fringe and the central bright fringe in a double-slit interference pattern formed by light of wavelength 500 nm, when the slit separation is 0.1 mm and the distance from the slits to the screen is 1 m?",
+    "message_2": "To find the distance between the first order dark fringe and the central bright fringe, we can use the formula for the position of dark fringes in a double-slit interference pattern:\n\ny_dark = (m + 1/2) * (λL) / d\n\nwhere:\n- y_dark is the distance from the central bright fringe to the m-th dark fringe\n- m is the order of the dark fringe (m = 0 for the first dark fringe)\n- λ is the wavelength of the light (500 nm = 5 * 10^(-7) m)\n- L is the distance from the slits to the screen (1 m)\n- d is the slit separation (0.1 mm = 1 * 10^(-4) m)\n\nFor the first order dark fringe (m = 0), the formula becomes:\n\ny_dark = (1/2) * (λL) / d\n\nPlugging in the given values:\n\ny_dark = (1/2) * (5 * 10^(-7) m * 1 m) / (1 * 10^(-4) m)\n\ny_dark = (1/2) * (5 * 10^(-3))\n\ny_dark = 2.5 * 10^(-3) m\n\nSo, the distance between the first order dark fringe and the central bright fringe is 2.5 * 10^(-3) m, or 2.5 mm."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Nuclear physics",
+    "sub_topic": "Nuclear medicine and medical imaging",
+    "message_1": "A nuclear medicine physician has prescribed a radioisotope, Technetium-99m (Tc-99m), to a patient for a medical imaging procedure. The half-life of Tc-99m is 6 hours. If the initial activity of the radioisotope was 8.0 mCi, how much radioactivity will remain after 24 hours?",
+    "message_2": "To solve this problem, we can use the radioactive decay formula:\n\nFinal activity (A) = Initial activity (A0) * (1/2)^(time elapsed / half-life)\n\nWhere:\n- A0 is the initial activity (8.0 mCi)\n- Time elapsed is 24 hours\n- Half-life is 6 hours\n\nFirst, we need to determine how many half-lives have passed in 24 hours:\n\nNumber of half-lives = Time elapsed / Half-life = 24 hours / 6 hours = 4\n\nNow, we can plug the values into the radioactive decay formula:\n\nA = 8.0 mCi * (1/2)^(4)\nA = 8.0 mCi * (1/16)\nA = 0.5 mCi\n\nSo, after 24 hours, 0.5 mCi of radioactivity will remain."
+}

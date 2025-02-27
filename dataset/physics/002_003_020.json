@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of internal energy of a system",
+    "message_1": "A gas in a sealed container has a volume of 0.5 m³ at a pressure of 2.5×10⁵ Pa. The heat added to the gas is 500 J and the work done by the gas is 300 J. Calculate the change in internal energy of the gas.",
+    "message_2": "To calculate the change in internal energy of the gas, we can use the first law of thermodynamics, which states that the change in internal energy (ΔU) is equal to the heat added to the system (Q) minus the work done by the system (W).\n\nΔU = Q - W\n\nWe are given the heat added to the gas (Q) as 500 J and the work done by the gas (W) as 300 J. Plugging these values into the equation, we get:\n\nΔU = 500 J - 300 J\n\nΔU = 200 J\n\nTherefore, the change in internal energy of the gas is 200 Joules."
+}

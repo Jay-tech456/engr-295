@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Electromagnetism",
+    "sub_topic": "Calculation of magnetic field due to a current-carrying motor",
+    "message_1": "A wire of length 0.5 meters is carrying a current of 2.5 A. Calculate the magnetic field at a distance of 4 cm from the wire.",
+    "message_2": "To calculate the magnetic field at a distance of 4 cm from the wire, we can use the Biot-Savart Law. The formula for the magnetic field (B) due to a straight wire carrying a current (I) at a distance (r) from the wire is given by:\n\nB = (μ₀ * I) / (2 * π * r)\n\nwhere μ₀ is the permeability of free space, which is approximately 4π × 10^(-7) Tm/A.\n\nGiven the values:\nI = 2.5 A (current)\nr = 4 cm = 0.04 m (distance from the wire)\n\nNow, we can plug these values into the formula:\n\nB = (4π × 10^(-7) Tm/A * 2.5 A) / (2 * π * 0.04 m)\n\nThe π in the numerator and denominator cancels out:\n\nB = (4 × 10^(-7) Tm/A * 2.5 A) / (2 * 0.04 m)\n\nNow, we can simplify the expression:\n\nB = (10^(-6) T * 2.5) / 0.08\n\nB = 2.5 × 10^(-6) T / 0.08\n\nB ≈ 3.125 × 10^(-5) T\n\nSo, the magnetic field at a distance of 4 cm from the wire is approximately 3.125 × 10^(-5) Tesla."
+}

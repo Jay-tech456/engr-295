@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of specific heat capacity of a substance",
+    "message_1": "What is the specific heat capacity of a piece of copper with a mass of 150 grams, which is heated from 20°C to 80°C with a heat input of 750 joules?",
+    "message_2": "To find the specific heat capacity (c) of the copper, we can use the formula:\n\nQ = mcΔT\n\nwhere Q is the heat input (750 J), m is the mass (150 g), c is the specific heat capacity, and ΔT is the change in temperature (80°C - 20°C = 60°C).\n\nRearranging the formula to solve for c:\n\nc = Q / (mΔT)\n\nPlugging in the values:\n\nc = 750 J / (150 g × 60°C)\n\nc = 750 J / 9000 g°C\n\nc ≈ 0.0833 J/g°C\n\nThe specific heat capacity of the piece of copper is approximately 0.0833 J/g°C."
+}

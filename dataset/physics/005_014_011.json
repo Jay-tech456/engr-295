@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Special relativity",
+    "sub_topic": "Relativistic particle decay",
+    "message_1": "What is the maximum kinetic energy released in the decay of a muon with a rest mass of 105.66 MeV/c², which decays at rest into an electron and two neutrinos? (Assuming the rest mass of each neutrino is negligible)",
+    "message_2": "In the decay of a muon at rest into an electron and two neutrinos, the maximum kinetic energy released can be determined by considering the conservation of energy and momentum. Since the rest mass of the neutrinos is negligible, we can assume that their kinetic energy is also negligible.\n\nThe initial energy of the system is the rest mass energy of the muon, which can be calculated using the famous equation E=mc². In this case, the mass of the muon (m) is given in MeV/c², so we can directly use this value as the initial energy:\n\nE_initial = 105.66 MeV\n\nAfter the decay, the final energy of the system consists of the rest mass energy of the electron and its kinetic energy. The rest mass of the electron is approximately 0.511 MeV/c². Therefore, the maximum kinetic energy (K_max) released in the decay can be calculated by conserving the total energy:\n\nE_initial = E_final\n105.66 MeV = 0.511 MeV + K_max\n\nNow, we can solve for K_max:\n\nK_max = 105.66 MeV - 0.511 MeV\nK_max ≈ 105.15 MeV\n\nSo, the maximum kinetic energy released in the decay of a muon at rest into an electron and two neutrinos is approximately 105.15 MeV."
+}

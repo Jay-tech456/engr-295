@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of efficiency of a refrigerator",
+    "message_1": "A refrigerator works by transferring heat from its interior to the outside environment, requiring energy input to do so. If a refrigerator has an input power of 500 Watts and a cooling power of 250 Watts, what is its efficiency?",
+    "message_2": "The efficiency of a refrigerator can be calculated using the formula:\n\nEfficiency = (Cooling Power) / (Input Power)\n\nIn this case, the cooling power is 250 Watts and the input power is 500 Watts. So the efficiency can be calculated as:\n\nEfficiency = 250 Watts / 500 Watts = 0.5\n\nTo express the efficiency as a percentage, multiply by 100:\n\nEfficiency = 0.5 * 100 = 50%\n\nSo, the efficiency of the refrigerator is 50%."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Reflection and Refraction of Light",
+    "message_1": "A beam of light is incident on a plane mirror at an angle of 30 degrees with the normal. Determine the angle between the reflected beam and the incident beam. Assume the angle of incidence and angle of reflection are measured with respect to the normal.",
+    "message_2": "According to the law of reflection, the angle of incidence is equal to the angle of reflection. In this case, the angle of incidence is 30 degrees, so the angle of reflection is also 30 degrees.\n\nTo find the angle between the incident beam and the reflected beam, we can use the following formula:\n\nAngle between incident and reflected beams = 2 * Angle of incidence\n\nSo, the angle between the incident and reflected beams is:\n\n2 * 30 degrees = 60 degrees\n\nTherefore, the angle between the incident and reflected beams is 60 degrees."
+}

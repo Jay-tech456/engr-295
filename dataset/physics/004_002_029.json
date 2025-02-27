@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "General relativity",
+    "sub_topic": "Black holes and their properties",
+    "message_1": "\"How does the mass of a black hole affect the size of its event horizon according to general relativity?\"",
+    "message_2": "The size of a black hole's event horizon is directly related to its mass according to general relativity. The event horizon is the boundary around a black hole beyond which nothing, not even light, can escape its gravitational pull. The size of the event horizon is determined by the black hole's Schwarzschild radius (Rs), which is given by the formula:\n\nRs = 2GM/c^2\n\nwhere G is the gravitational constant, M is the mass of the black hole, and c is the speed of light.\n\nAs the mass of the black hole increases, the Schwarzschild radius (and thus the size of the event horizon) also increases. This means that a more massive black hole will have a larger event horizon, making it more difficult for objects to escape its gravitational pull once they cross that boundary. Conversely, a less massive black hole will have a smaller event horizon."
+}

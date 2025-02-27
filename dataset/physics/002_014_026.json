@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of efficiency of a refrigerator",
+    "message_1": "A refrigerator operates with a power input of 1000 watts and removes heat from the refrigerator cabinet at a rate of 500 watts. Calculate the coefficient of performance of the refrigerator.",
+    "message_2": "The coefficient of performance (COP) of a refrigerator is a measure of its efficiency, defined as the ratio of the heat removed from the refrigerator cabinet to the work input (power input) required to run the refrigerator. In this case, the heat removed is 500 watts, and the power input is 1000 watts.\n\nCOP = (Heat removed from the refrigerator cabinet) / (Power input)\n\nCOP = (500 watts) / (1000 watts)\n\nCOP = 0.5\n\nThe coefficient of performance of the refrigerator is 0.5."
+}

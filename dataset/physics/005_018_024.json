@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Special relativity",
+    "sub_topic": "Relativistic wave equations",
+    "message_1": "What is the relativistic wave equation for a free particle with zero rest mass?",
+    "message_2": "The relativistic wave equation for a free particle with zero rest mass is known as the massless Klein-Gordon equation or the massless wave equation. It is given by:\n\n∇²ψ - (1/c²) ∂²ψ/∂t² = 0\n\nwhere ψ is the wave function of the particle, c is the speed of light, and ∇² is the Laplacian operator. This equation describes the propagation of massless particles, such as photons, in a relativistic framework."
+}

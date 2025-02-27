@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Nuclear physics",
+    "sub_topic": "Nuclear forensics and safeguards",
+    "message_1": "What is the maximum amount of plutonium-239 that can be safely stored in a nuclear power plant while still adhering to international safeguards regulations?",
+    "message_2": "The International Atomic Energy Agency (IAEA) is the organization responsible for establishing and enforcing international safeguards regulations for nuclear materials, including plutonium-239. The IAEA does not specify a maximum amount of plutonium-239 that can be safely stored in a nuclear power plant, as the regulations focus on the control, monitoring, and accounting of nuclear materials to prevent diversion for non-peaceful purposes.\n\nHowever, the safe storage of plutonium-239 in a nuclear power plant depends on various factors such as the design of the storage facility, security measures, and the form in which the plutonium is stored. The IAEA provides guidelines and recommendations for the safe handling, storage, and transport of nuclear materials, which must be followed by the nuclear power plant operators.\n\nIn summary, there is no specific maximum amount of plutonium-239 that can be safely stored in a nuclear power plant according to international safeguards regulations. The focus is on ensuring that the storage and handling of the material are done in a safe and secure manner, following the guidelines and recommendations provided by the IAEA."
+}

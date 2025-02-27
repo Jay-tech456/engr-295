@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Special relativity",
+    "sub_topic": "Relativistic optics",
+    "message_1": "A physics student wants to investigate the effect of velocity on the wavelength and frequency of light. They are given a setup with a light source emitting monochromatic light and a detector that can measure the wavelength and frequency of the light. The setup can also be moved at varying velocities. Write an equation or mathematical expression that the student can use to calculate the observed wavelength and frequency of the light at different velocities.",
+    "message_2": "The student can use the Doppler effect equation for light to calculate the observed wavelength and frequency of the light at different velocities. The Doppler effect equation for light is:\n\n1. Observed wavelength (λ_observed) equation:\nλ_observed = λ_source * (1 + (v/c))\n\n2. Observed frequency (f_observed) equation:\nf_observed = f_source / (1 + (v/c))\n\nwhere:\n- λ_observed is the observed wavelength of the light\n- λ_source is the wavelength of the light emitted by the source\n- f_observed is the observed frequency of the light\n- f_source is the frequency of the light emitted by the source\n- v is the velocity of the detector relative to the source (positive if moving away from the source, negative if moving towards the source)\n- c is the speed of light in a vacuum (approximately 3.0 x 10^8 m/s)\n\nThe student can use these equations to calculate the observed wavelength and frequency of the light at different velocities."
+}

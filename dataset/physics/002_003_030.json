@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of internal energy of a system",
+    "message_1": "A container has 2 moles of gas at a pressure of 3 atm, a volume of 8 liters, and an initial temperature of 27°C. If the gas is allowed to expand isothermally to a final volume of 12 liters, calculate the change in internal energy of the system.",
+    "message_2": "To solve this problem, we can use the first law of thermodynamics, which states that the change in internal energy (ΔU) of a system is equal to the heat added to the system (Q) minus the work done by the system (W):\n\nΔU = Q - W\n\nSince the process is isothermal (constant temperature), the change in internal energy of an ideal gas is zero. This is because the internal energy of an ideal gas depends only on its temperature, and since the temperature remains constant, there is no change in internal energy.\n\nΔU = 0\n\nSo, the change in internal energy of the system is 0."
+}

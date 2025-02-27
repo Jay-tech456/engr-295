@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Dark matter",
+    "sub_topic": "The possibility of dark matter being composed of gravitinos",
+    "message_1": "What is the predicted range of mass for a gravitino, given that it could potentially be a component of dark matter in the universe?",
+    "message_2": "The gravitino is a hypothetical particle predicted by supersymmetry, a theoretical extension of the Standard Model of particle physics. As a potential component of dark matter, the mass of the gravitino can vary significantly depending on the specific supersymmetric model and the assumptions made.\n\nIn general, the predicted mass range for gravitinos spans from sub-eV (electronvolt) scales up to several TeV (teraelectronvolt) scales. For instance, in some scenarios, gravitinos could have masses as low as 10^-5 eV, while in others, they could be as massive as 1-10 TeV.\n\nIt is important to note that these mass ranges are based on theoretical predictions and assumptions, and experimental evidence for the existence of gravitinos has not yet been found. Further research and experiments, such as those conducted at the Large Hadron Collider (LHC), may help to constrain the possible mass range of gravitinos and provide more insight into their role in dark matter."
+}

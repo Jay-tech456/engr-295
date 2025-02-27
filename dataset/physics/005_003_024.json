@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Special relativity",
+    "sub_topic": "Relativistic velocity addition",
+    "message_1": "Sure, here's a question for the student: \n\nA spaceship is moving away from the earth in the positive x direction at 0.8c relative to the earth. A second spaceship is moving towards the earth in the negative x direction at 0.6c relative to the earth. What is the velocity of the second spaceship as observed by the crew of the first spaceship?",
+    "message_2": "To solve this problem, we will use the relativistic velocity addition formula, which is given by:\n\nv = (v1 + v2) / (1 + (v1 * v2) / c^2)\n\nwhere v is the relative velocity of the second spaceship as observed by the crew of the first spaceship, v1 is the velocity of the first spaceship relative to Earth (0.8c), v2 is the velocity of the second spaceship relative to Earth (-0.6c), and c is the speed of light.\n\nPlugging in the values, we get:\n\nv = (0.8c - 0.6c) / (1 + (0.8c * -0.6c) / c^2)\n\nv = (0.2c) / (1 - 0.48)\n\nv = (0.2c) / 0.52\n\nv ≈ 0.3846c\n\nSo, the velocity of the second spaceship as observed by the crew of the first spaceship is approximately 0.3846 times the speed of light, in the negative x direction (towards the Earth)."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "High-energy physics",
+    "sub_topic": "Quantum chromodynamics (QCD)",
+    "message_1": "What is the strong coupling constant value at an energy scale of 1 GeV in Quantum chromodynamics (QCD)?",
+    "message_2": "The strong coupling constant, αs, is a fundamental parameter in Quantum Chromodynamics (QCD) that describes the strength of the strong force between quarks and gluons. Its value depends on the energy scale at which it is measured, due to a phenomenon called asymptotic freedom.\n\nAt an energy scale of 1 GeV, the strong coupling constant αs is approximately 0.5. However, it's important to note that this value is subject to some uncertainty and may vary slightly depending on the specific method used to calculate it."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Special relativity",
+    "sub_topic": "Time dilation in a moving frame of reference",
+    "message_1": "A spaceship travels from Earth to a nearby star at a speed of 0.8c (where c is the speed of light). According to special relativity theory, how much time would have passed on the spaceship’s clock compared to the time passed on Earth during the trip?",
+    "message_2": "To determine the time dilation experienced by the spaceship traveling at 0.8c, we can use the time dilation formula from special relativity:\n\nΔt' = Δt / √(1 - v²/c²)\n\nwhere Δt' is the time experienced by the spaceship, Δt is the time experienced on Earth, v is the spaceship's velocity (0.8c), and c is the speed of light.\n\nPlugging in the values:\n\nΔt' = Δt / √(1 - (0.8c)²/c²)\n\nΔt' = Δt / √(1 - 0.64)\n\nΔt' = Δt / √(0.36)\n\nΔt' = Δt / 0.6\n\nSo, the time experienced by the spaceship (Δt') is equal to the time experienced on Earth (Δt) divided by 0.6. This means that the spaceship's clock will show a shorter time compared to the time passed on Earth during the trip. For example, if 10 years passed on Earth, the spaceship's clock would show 10 / 0.6 = 16.67 years."
+}

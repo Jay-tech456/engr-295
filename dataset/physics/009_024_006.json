@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Polarizers",
+    "message_1": "A physics student is trying to investigate the properties of polarized light by using a stretched string as a polarizer. The student shines unpolarized light through the polarizer and measures the intensity of the transmitted light. At what angle should the string be stretched with respect to the plane of incidence for maximum polarization?",
+    "message_2": "The stretched string in this case acts as a wire-grid polarizer. For maximum polarization, the plane of the wires (or the plane of the stretched string) should be parallel to the plane of incidence. In other words, the angle between the stretched string and the plane of incidence should be 0 degrees. This is because the electric field component of the light parallel to the wires will be absorbed, while the component perpendicular to the wires will be transmitted, resulting in polarized light."
+}

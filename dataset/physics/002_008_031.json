@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of specific heat capacity of a substance",
+    "message_1": "What is the specific heat capacity of copper if 500 Joules of heat is required to raise the temperature of 200 grams of copper by 15 degrees Celsius?",
+    "message_2": "The specific heat capacity (c) of a substance can be calculated using the formula:\n\nQ = mcΔT\n\nwhere Q is the heat energy (in Joules), m is the mass (in grams), c is the specific heat capacity (in J/g°C), and ΔT is the change in temperature (in °C).\n\nWe are given the following values:\n\nQ = 500 J\nm = 200 g\nΔT = 15 °C\n\nWe need to find the specific heat capacity (c) of copper. Rearranging the formula to solve for c, we get:\n\nc = Q / (mΔT)\n\nNow, we can plug in the given values:\n\nc = 500 J / (200 g × 15 °C)\nc = 500 J / 3000 g°C\nc = 0.1667 J/g°C\n\nTherefore, the specific heat capacity of copper is approximately 0.1667 J/g°C."
+}

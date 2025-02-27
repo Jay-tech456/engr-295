@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "General relativity",
+    "sub_topic": "The gravitational collapse of stars",
+    "message_1": "\"What is the maximum mass a star can have before collapsing into a black hole, according to the theory of general relativity?\"",
+    "message_2": "The maximum mass a star can have before collapsing into a black hole, according to the theory of general relativity, is determined by the Tolman-Oppenheimer-Volkoff (TOV) limit. The TOV limit is the maximum mass that a stable, non-rotating neutron star can have before it collapses under its own gravity to form a black hole. \n\nThe exact value of the TOV limit is still uncertain and depends on the equation of state (EOS) of neutron star matter, which describes the relationship between pressure, density, and temperature inside the star. The current estimates for the TOV limit range from around 2 to 3 solar masses (where 1 solar mass is the mass of our Sun, approximately 1.989 x 10^30 kg). \n\nIt is important to note that the TOV limit applies to neutron stars, which are the remnants of massive stars after they have undergone a supernova explosion. Stars with initial masses below this limit can still end their lives as white dwarfs or neutron stars without collapsing into a black hole."
+}

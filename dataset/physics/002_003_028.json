@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of internal energy of a system",
+    "message_1": "A gas in a cylinder expands from a volume of 0.05 m³ to 0.17 m³ while absorbing 780 J of heat and performing 500 J of work. Calculate the change in internal energy of the gas.",
+    "message_2": "To calculate the change in internal energy of the gas, we can use the first law of thermodynamics, which states that the change in internal energy (ΔU) is equal to the heat absorbed (Q) minus the work done by the gas (W).\n\nΔU = Q - W\n\nIn this problem, the gas absorbs 780 J of heat (Q = 780 J) and performs 500 J of work (W = 500 J). Plugging these values into the equation, we get:\n\nΔU = 780 J - 500 J\n\nΔU = 280 J\n\nThe change in internal energy of the gas is 280 J."
+}

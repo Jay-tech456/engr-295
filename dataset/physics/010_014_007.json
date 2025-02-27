@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Fluid mechanics",
+    "sub_topic": "Shock waves and supersonic flow",
+    "message_1": "What is the Mach number of a supersonic flow if the local speed of sound is 340 m/s and the fluid velocity is 680 m/s?",
+    "message_2": "The Mach number is defined as the ratio of the fluid velocity to the local speed of sound. In this case, the fluid velocity is 680 m/s and the local speed of sound is 340 m/s. To find the Mach number, simply divide the fluid velocity by the local speed of sound:\n\nMach number = (fluid velocity) / (local speed of sound)\nMach number = 680 m/s / 340 m/s\nMach number = 2\n\nSo, the Mach number of the supersonic flow is 2."
+}

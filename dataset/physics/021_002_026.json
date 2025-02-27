@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Black holes",
+    "sub_topic": "The structure and properties of event horizons",
+    "message_1": "What is the mathematical representation or formula for the radius of a black hole's event horizon based on its mass and how does this radius depend on the mass of the black hole?",
+    "message_2": "The mathematical representation or formula for the radius of a black hole's event horizon is called the Schwarzschild radius (Rs). It is calculated using the following formula:\n\nRs = 2GM/c^2\n\nwhere:\n- Rs is the Schwarzschild radius (the radius of the event horizon)\n- G is the gravitational constant (approximately 6.674 × 10^-11 m^3 kg^-1 s^-2)\n- M is the mass of the black hole\n- c is the speed of light in a vacuum (approximately 2.998 × 10^8 m/s)\n\nThe radius of the event horizon (Schwarzschild radius) is directly proportional to the mass of the black hole. As the mass of the black hole increases, the Schwarzschild radius also increases."
+}

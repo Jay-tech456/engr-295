@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Nuclear physics",
+    "sub_topic": "Nuclear energy production and efficiency",
+    "message_1": "What is the efficiency of a nuclear power plant that produces 1000 MW of electricity from a reactor that releases 2000 MW of thermal energy through nuclear fission?",
+    "message_2": "The efficiency of a power plant can be calculated using the following formula:\n\nEfficiency = (Output power / Input power) × 100%\n\nIn this case, the output power is the electricity produced, which is 1000 MW, and the input power is the thermal energy released by the reactor, which is 2000 MW.\n\nEfficiency = (1000 MW / 2000 MW) × 100%\n\nEfficiency = 0.5 × 100%\n\nEfficiency = 50%\n\nSo, the efficiency of the nuclear power plant is 50%."
+}

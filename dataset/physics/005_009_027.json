@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Special relativity",
+    "sub_topic": "Relativistic Doppler effect",
+    "message_1": "A spaceship with a velocity of 0.6c is moving away from the Earth. A communication signal is sent from the Earth at a frequency of 100 MHz. What is the frequency of the signal received by the spaceship? (Assume the speed of light to be 3x10^8 m/s and the velocity of the spaceship is parallel to the direction of the signal.)",
+    "message_2": "To solve this problem, we need to use the Doppler effect formula for relativistic velocities. The Doppler effect is the change in frequency of a wave in relation to an observer who is moving relative to the source of the wave. In this case, the spaceship is moving away from the Earth, so the frequency of the signal received by the spaceship will be lower than the frequency sent from the Earth.\n\nThe relativistic Doppler effect formula is:\n\nf' = f * sqrt((1 - β) / (1 + β))\n\nwhere f' is the received frequency, f is the emitted frequency, and β is the ratio of the spaceship's velocity (v) to the speed of light (c).\n\nGiven the spaceship's velocity is 0.6c, we have:\n\nβ = v/c = 0.6\n\nThe emitted frequency (f) is 100 MHz, which is equal to 100 x 10^6 Hz.\n\nNow we can plug these values into the Doppler effect formula:\n\nf' = (100 x 10^6) * sqrt((1 - 0.6) / (1 + 0.6))\nf' = (100 x 10^6) * sqrt(0.4 / 1.6)\nf' = (100 x 10^6) * sqrt(0.25)\nf' = (100 x 10^6) * 0.5\n\nf' = 50 x 10^6 Hz\n\nSo, the frequency of the signal received by the spaceship is 50 MHz."
+}

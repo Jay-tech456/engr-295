@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of heat capacity of a substance",
+    "message_1": "What is the specific heat capacity of copper in Joules per gram Kelvin if 100 grams of copper absorbs 500 Joules of heat energy and its temperature increases by 10 Kelvin?",
+    "message_2": "To find the specific heat capacity (c) of copper, we can use the formula:\n\nq = mcΔT\n\nwhere q is the heat energy absorbed (500 Joules), m is the mass of copper (100 grams), c is the specific heat capacity, and ΔT is the change in temperature (10 Kelvin).\n\nRearranging the formula to solve for c, we get:\n\nc = q / (mΔT)\n\nPlugging in the values, we have:\n\nc = 500 J / (100 g × 10 K)\n\nc = 500 J / 1000 gK\n\nc = 0.5 J/gK\n\nSo, the specific heat capacity of copper is 0.5 Joules per gram Kelvin."
+}

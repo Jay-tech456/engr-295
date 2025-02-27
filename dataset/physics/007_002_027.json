@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Nuclear physics",
+    "sub_topic": "Radioactive decay and half-life calculations",
+    "message_1": "A sample of radioactive material has a half-life of 10 days. If the initial activity of the sample was 1000 Bq, determine its activity after 30 days.",
+    "message_2": "To determine the activity of the radioactive material after 30 days, we can use the formula for radioactive decay:\n\nActivity_final = Activity_initial * (1/2)^(time_elapsed / half_life)\n\nwhere Activity_final is the activity after 30 days, Activity_initial is the initial activity (1000 Bq), time_elapsed is the time that has passed (30 days), and half_life is the half-life of the material (10 days).\n\nActivity_final = 1000 Bq * (1/2)^(30 days / 10 days)\n\nActivity_final = 1000 Bq * (1/2)^3\n\nActivity_final = 1000 Bq * (1/8)\n\nActivity_final = 125 Bq\n\nSo, the activity of the radioactive material after 30 days is 125 Bq."
+}

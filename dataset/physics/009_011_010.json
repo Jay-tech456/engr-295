@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Lensmaker's Equation",
+    "message_1": "A converging lens with a focal length of 15cm is made from a material with an index of refraction of 1.5. If the radius of curvature of one of the surfaces of the lens is 30cm, and the other surface is flat, what is the radius of curvature of the flat surface?",
+    "message_2": "Since the other surface is flat, its radius of curvature is considered to be infinite."
+}

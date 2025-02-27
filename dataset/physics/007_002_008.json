@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Nuclear physics",
+    "sub_topic": "Radioactive decay and half-life calculations",
+    "message_1": "What is the half-life of a radioactive sample that has decayed to 25% of its original activity after 12 days, if its initial activity was 8000 Bq?",
+    "message_2": "To solve this problem, we can use the radioactive decay formula:\n\nN(t) = N0 * (1/2)^(t/T)\n\nwhere:\n- N(t) is the remaining activity at time t\n- N0 is the initial activity\n- t is the time that has passed\n- T is the half-life of the radioactive sample\n\nWe are given that the sample has decayed to 25% of its original activity after 12 days, so N(t) = 0.25 * N0. We are also given that the initial activity, N0, is 8000 Bq. We can plug these values into the formula and solve for the half-life, T:\n\n0.25 * 8000 = 8000 * (1/2)^(12/T)\n\nDivide both sides by 8000:\n\n0.25 = (1/2)^(12/T)\n\nNow, we can take the logarithm of both sides to solve for T:\n\nlog(0.25) = log((1/2)^(12/T))\n\nUsing the logarithm property log(a^b) = b * log(a), we can simplify the equation:\n\nlog(0.25) = (12/T) * log(1/2)\n\nNow, we can solve for T:\n\nT = (12 * log(1/2)) / log(0.25)\n\nUsing a calculator, we find:\n\nT ≈ 6 days\n\nSo, the half-life of the radioactive sample is approximately 6 days."
+}

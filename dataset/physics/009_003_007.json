@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Total Internal Reflection",
+    "message_1": "What is the critical angle of incidence when a beam of light from air passes through a glass prism with a refractive index of 1.5 and undergoes total internal reflection?",
+    "message_2": "The critical angle of incidence (θc) occurs when the angle of refraction is 90 degrees. To find the critical angle, we can use Snell's Law, which states:\n\nn1 * sin(θ1) = n2 * sin(θ2)\n\nwhere n1 and n2 are the refractive indices of the two media (air and glass in this case), and θ1 and θ2 are the angles of incidence and refraction, respectively.\n\nIn this case, n1 = 1 (refractive index of air), n2 = 1.5 (refractive index of glass), and θ2 = 90 degrees (angle of refraction for total internal reflection).\n\nSo, we have:\n\n1 * sin(θc) = 1.5 * sin(90)\n\nsin(θc) = 1.5\n\nSince the sine function cannot be greater than 1, this scenario is not possible. Total internal reflection cannot occur when light passes from air to glass, as the refractive index of glass is higher than that of air. Total internal reflection can only occur when light passes from a medium with a higher refractive index to a medium with a lower refractive index."
+}

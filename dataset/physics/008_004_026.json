@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Particle physics",
+    "sub_topic": "The measurement of the top quark mass",
+    "message_1": "What is the numeric value of the top quark mass in GeV/c² as measured in proton-antiproton collisions at a center-of-mass energy of 1.96 TeV by the DZero experiment at the Fermilab Tevatron collider?",
+    "message_2": "The numeric value of the top quark mass in GeV/c² as measured in proton-antiproton collisions at a center-of-mass energy of 1.96 TeV by the DZero experiment at the Fermilab Tevatron collider is approximately 173.3 GeV/c². This value is based on the combined analysis of various decay channels and has an uncertainty of around 1.1 GeV/c²."
+}

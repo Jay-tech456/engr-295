@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Atomic physics",
+    "sub_topic": "Study of the Franck-Hertz experiment",
+    "message_1": "What is the minimum energy required to excite a mercury atom from ground state to its first excited state in the Franck-Hertz experiment?",
+    "message_2": "The minimum energy required to excite a mercury atom from its ground state to its first excited state in the Franck-Hertz experiment is approximately 4.9 electron volts (eV)."
+}

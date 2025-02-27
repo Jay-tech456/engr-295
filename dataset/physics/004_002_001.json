@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "General relativity",
+    "sub_topic": "Black holes and their properties",
+    "message_1": "What is the minimum mass that a star must have in order to eventually become a black hole based on the predictions of General Relativity?",
+    "message_2": "The minimum mass a star must have in order to eventually become a black hole, according to the predictions of General Relativity, is roughly 3 times the mass of our Sun. This value is known as the Tolman-Oppenheimer-Volkoff (TOV) limit. However, it is important to note that not all stars with masses above this limit will become black holes. Some may end up as neutron stars or other compact objects, depending on the details of their evolution and the physics involved."
+}

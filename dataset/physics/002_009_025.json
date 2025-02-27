@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of latent heat of fusion of a substance",
+    "message_1": "A sample of ice at 0°C is heated and completely melted to form liquid water at the same temperature. The mass of the ice is 50 grams. Calculate the amount of heat energy required to melt the ice and determine the latent heat of fusion of water.",
+    "message_2": "To calculate the amount of heat energy required to melt the ice, we can use the formula:\n\nQ = mL\n\nwhere Q is the heat energy, m is the mass of the ice, and L is the latent heat of fusion of water.\n\nThe latent heat of fusion of water is a known constant, which is approximately 334 J/g.\n\nNow, we can plug in the values:\n\nm = 50 g (mass of ice)\nL = 334 J/g (latent heat of fusion of water)\n\nQ = (50 g) * (334 J/g)\n\nQ = 16700 J\n\nSo, the amount of heat energy required to melt the 50 grams of ice is 16,700 Joules. The latent heat of fusion of water is 334 J/g."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Nuclear physics",
+    "sub_topic": "Nuclear radiation shielding and protection",
+    "message_1": "A radiation-control technician has to shield a laboratory wall with a mass of 850 kg from gamma radiation emitted by a 140 GBq Cobalt-60 (Co-60) source, which has an initial activity of 37 MBq. What is the thickness of lead required to reduce the exposure rate by a factor of 1000?",
+    "message_2": "To determine the thickness of lead required to reduce the exposure rate by a factor of 1000, we can use the concept of half-value layer (HVL). HVL is the thickness of a material required to reduce the intensity of radiation to half of its initial value. For gamma radiation from Co-60, the HVL of lead is approximately 1 cm.\n\nTo reduce the exposure rate by a factor of 1000, we need to determine how many HVLs are required. Since 1000 is equal to 2^10 (2 raised to the power of 10), we need 10 HVLs to achieve the desired reduction factor.\n\nTherefore, the thickness of lead required is 10 HVLs multiplied by the HVL of lead for Co-60 gamma radiation:\n\nThickness = 10 HVLs × 1 cm/HVL = 10 cm\n\nSo, a 10 cm thick layer of lead is required to reduce the exposure rate by a factor of 1000 for the given Co-60 source."
+}

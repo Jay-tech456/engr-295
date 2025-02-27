@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Critical Angle",
+    "message_1": "Sure! Here's a question based on the topic of critical angle:\n\n\"A light ray travels from glass to air at an angle of incidence of 45 degrees. If the critical angle for this particular glass is 42 degrees, will the light ray undergo total internal reflection or will it refract through the interface? Calculate the angle of refraction or reflection.\"",
+    "message_2": "Since the angle of incidence (45 degrees) is greater than the critical angle for this particular glass (42 degrees), the light ray will undergo total internal reflection. In this case, the angle of reflection will be equal to the angle of incidence.\n\nAngle of reflection = 45 degrees"
+}

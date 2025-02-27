@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of Carnot efficiency of a heat engine",
+    "message_1": "A heat engine operates between two temperature reservoirs at temperatures 400 K and 100 K. Calculate the maximum efficiency of the heat engine using the Carnot cycle.",
+    "message_2": "The maximum efficiency of a heat engine operating between two temperature reservoirs can be determined using the Carnot efficiency formula:\n\nEfficiency (η) = 1 - (T_cold / T_hot)\n\nwhere T_cold is the temperature of the cold reservoir and T_hot is the temperature of the hot reservoir. The temperatures must be in Kelvin.\n\nIn this case, T_cold = 100 K and T_hot = 400 K.\n\nEfficiency (η) = 1 - (100 K / 400 K) = 1 - 0.25 = 0.75\n\nThe maximum efficiency of the heat engine using the Carnot cycle is 75%."
+}

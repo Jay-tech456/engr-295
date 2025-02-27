@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Special relativity",
+    "sub_topic": "Length contraction in a moving frame of reference",
+    "message_1": "A spaceship travels towards a planet at a speed of 0.8c where c is the speed of light. The spaceship is 50 meters long according to observers on Earth. What is the length of the spaceship according to the astronauts on board the spaceship? How much shorter does the spaceship appear to be as it moves towards the planet?",
+    "message_2": "According to the astronauts on board the spaceship, the spaceship is at rest relative to them. Therefore, they will measure the proper length of the spaceship, which is 50 meters.\n\nHowever, for observers on the planet, the spaceship is moving at a significant fraction of the speed of light (0.8c). Due to the effects of special relativity, the length of the spaceship will appear to be contracted along the direction of motion. This phenomenon is known as length contraction.\n\nThe length contraction formula is given by:\n\nL = L0 * sqrt(1 - v^2/c^2)\n\nwhere L is the contracted length, L0 is the proper length (50 meters), v is the relative velocity (0.8c), and c is the speed of light.\n\nL = 50 * sqrt(1 - (0.8c)^2/c^2)\nL = 50 * sqrt(1 - 0.64)\nL = 50 * sqrt(0.36)\nL = 50 * 0.6\nL = 30 meters\n\nSo, the spaceship appears to be 30 meters long as it moves towards the planet. This means it appears to be 20 meters shorter (50 meters - 30 meters) than its proper length according to the observers on the planet."
+}

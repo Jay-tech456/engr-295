@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Particle physics",
+    "sub_topic": "The measurement of the top quark mass",
+    "message_1": "What is the current most precise experimental measurement of the mass of the top quark in proton-proton collisions at the Large Hadron Collider (LHC) and what is the uncertainty associated with that measurement?",
+    "message_2": "As of September 2021, the current most precise experimental measurement of the mass of the top quark in proton-proton collisions at the Large Hadron Collider (LHC) is 172.22 ± 0.07 (stat) ± 0.65 (syst) GeV/c². This result was obtained by the CMS (Compact Muon Solenoid) collaboration in 2019. The uncertainty associated with this measurement is 0.07 GeV/c² from statistical uncertainty and 0.65 GeV/c² from systematic uncertainty. Please note that these values may be updated as new experimental results become available."
+}

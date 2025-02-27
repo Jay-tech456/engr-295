@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Special relativity",
+    "sub_topic": "Relativistic wave Doppler effect",
+    "message_1": "A spaceship is moving towards Earth at a velocity of 0.6c. The spaceship emits a 2000 Hz signal towards Earth. What frequency will be detected by an observer on Earth?",
+    "message_2": "To solve this problem, we will use the relativistic Doppler effect formula, which takes into account the effects of special relativity. The formula is:\n\nf_observed = f_emitted * sqrt((1 + v/c) / (1 - v/c))\n\nwhere f_observed is the frequency detected by the observer on Earth, f_emitted is the frequency emitted by the spaceship, v is the velocity of the spaceship relative to the observer, and c is the speed of light.\n\nIn this case, f_emitted = 2000 Hz and v = 0.6c. Plugging these values into the formula, we get:\n\nf_observed = 2000 * sqrt((1 + 0.6) / (1 - 0.6))\n\nf_observed = 2000 * sqrt(1.6 / 0.4)\n\nf_observed = 2000 * sqrt(4)\n\nf_observed = 2000 * 2\n\nf_observed = 4000 Hz\n\nSo, the frequency detected by an observer on Earth will be 4000 Hz."
+}

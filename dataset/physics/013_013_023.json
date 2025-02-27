@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Astrophysics",
+    "sub_topic": "Neutron stars and pulsars",
+    "message_1": "What is the maximum mass of a neutron star that can be supported by the neutron degeneracy pressure and what happens when this limit is exceeded?",
+    "message_2": "The maximum mass of a neutron star that can be supported by the neutron degeneracy pressure is known as the Tolman-Oppenheimer-Volkoff (TOV) limit. The exact value of the TOV limit depends on the equation of state for neutron star matter, which is still an area of active research. However, it is generally estimated to be around 2 to 2.5 solar masses (where one solar mass is the mass of our Sun).\n\nWhen the mass of a neutron star exceeds the TOV limit, the neutron degeneracy pressure is no longer sufficient to counterbalance the gravitational force. As a result, the neutron star collapses under its own gravity. Depending on the mass and other factors, this can lead to the formation of a black hole or the triggering of a supernova explosion, which can then result in the formation of a black hole or a more massive neutron star."
+}

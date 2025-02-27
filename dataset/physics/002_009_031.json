@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of latent heat of fusion of a substance",
+    "message_1": "What will be the amount of heat required to convert 1 kg of ice at -10°C into water at 20°C if the latent heat of fusion of ice is 334 kJ/kg and the specific heat capacity of ice and water are 2.09 J/g°C and 4.18 J/g°C respectively?",
+    "message_2": "To find the total amount of heat required, we need to consider three steps:\n\n1. Heating the ice from -10°C to 0°C\n2. Melting the ice at 0°C\n3. Heating the water from 0°C to 20°C\n\nStep 1: Heating the ice from -10°C to 0°C\nQ1 = mass x specific heat capacity of ice x temperature change\nQ1 = 1 kg x 2.09 J/g°C x (0 - (-10))°C\nQ1 = 1000 g x 2.09 J/g°C x 10°C\nQ1 = 20,900 J\n\nStep 2: Melting the ice at 0°C\nQ2 = mass x latent heat of fusion of ice\nQ2 = 1 kg x 334 kJ/kg\nQ2 = 334,000 J\n\nStep 3: Heating the water from 0°C to 20°C\nQ3 = mass x specific heat capacity of water x temperature change\nQ3 = 1 kg x 4.18 J/g°C x (20 - 0)°C\nQ3 = 1000 g x 4.18 J/g°C x 20°C\nQ3 = 83,600 J\n\nNow, we add the heat required for all three steps:\nTotal heat required (Q) = Q1 + Q2 + Q3\nQ = 20,900 J + 334,000 J + 83,600 J\nQ = 438,500 J\n\nSo, the amount of heat required to convert 1 kg of ice at -10°C into water at 20°C is 438,500 Joules."
+}

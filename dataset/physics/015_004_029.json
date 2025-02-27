@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Gravitational waves",
+    "sub_topic": "Estimating the energy emitted in gravitational waves by a supernova explosion.",
+    "message_1": "What is the order of magnitude of the energy emitted in gravitational waves by a supernova explosion, assuming the explosion releases 10^44 Joules of energy in all directions?",
+    "message_2": "The energy emitted in gravitational waves by a supernova explosion is typically a small fraction of the total energy released. It is estimated that around 1% or less of the total energy is emitted in gravitational waves. \n\nAssuming the explosion releases 10^44 Joules of energy in all directions, the order of magnitude of the energy emitted in gravitational waves would be:\n\n(10^44 Joules) * (0.01) ≈ 10^42 Joules\n\nSo, the order of magnitude of the energy emitted in gravitational waves by a supernova explosion is approximately 10^42 Joules."
+}

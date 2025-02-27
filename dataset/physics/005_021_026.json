@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Special relativity",
+    "sub_topic": "Relativistic optics",
+    "message_1": "A particle moves toward a stationary mirror with a speed of 0.6c. Calculate the speed of the reflected particle in terms of c.",
+    "message_2": "To solve this problem, we need to consider the principle of relativity and the conservation of momentum. We will use the relativistic velocity addition formula to find the velocity of the reflected particle.\n\nLet's denote the velocity of the particle as u (0.6c) and the velocity of the mirror as v (0c). The velocity of the particle in the mirror's frame (u') can be calculated using the relativistic velocity addition formula:\n\nu' = (u - v) / (1 - (u * v) / c^2)\n\nSince the mirror is stationary, v = 0, so the equation simplifies to:\n\nu' = u / (1 - (u * 0) / c^2) = 0.6c\n\nNow, we need to find the velocity of the reflected particle in the mirror's frame. Since the particle is reflected, its velocity will be the negative of its incoming velocity in the mirror's frame:\n\nu_reflected' = -u' = -0.6c\n\nFinally, we need to transform the reflected velocity back to the original frame using the relativistic velocity addition formula:\n\nu_reflected = (u_reflected' + v) / (1 + (u_reflected' * v) / c^2)\n\nAgain, since the mirror is stationary, v = 0, so the equation simplifies to:\n\nu_reflected = u_reflected' / (1 + (u_reflected' * 0) / c^2) = -0.6c\n\nSo, the speed of the reflected particle is 0.6c in the opposite direction."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Special relativity",
+    "sub_topic": "Relativistic wave Doppler effect",
+    "message_1": "What is the formula for the relativistic Doppler effect when an observer is stationary and the wavelength of the wave remains constant? Given the velocity of a wave source moving at 0.8 c (c being the speed of light) in the direction of an observer who is stationary, what will be the observed wavelength of the wave?",
+    "message_2": "The formula for the relativistic Doppler effect when an observer is stationary and the source is moving is given by:\n\nλ_observed = λ_emitted * sqrt((1 + β) / (1 - β))\n\nwhere λ_observed is the observed wavelength, λ_emitted is the emitted wavelength, and β is the ratio of the source's velocity (v) to the speed of light (c), i.e., β = v/c.\n\nIn this case, the source is moving at 0.8c, so β = 0.8. To find the observed wavelength, we need to know the emitted wavelength (λ_emitted). Let's assume the emitted wavelength is λ_emitted. Then, the observed wavelength can be calculated as:\n\nλ_observed = λ_emitted * sqrt((1 + 0.8) / (1 - 0.8))\nλ_observed = λ_emitted * sqrt(1.8 / 0.2)\nλ_observed = λ_emitted * sqrt(9)\nλ_observed = 3 * λ_emitted\n\nSo, the observed wavelength will be three times the emitted wavelength."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Optical Fibers",
+    "message_1": "A physics student wants to design an optical fiber that would transmit light of wavelength 650 nm with minimal attenuation. The core of the fiber has a refractive index of 1.5, while the cladding has a refractive index of 1.48. Determine the maximum angle of incidence of light that can enter the core without being reflected back into the cladding.",
+    "message_2": "To determine the maximum angle of incidence of light that can enter the core without being reflected back into the cladding, we need to find the critical angle at which total internal reflection occurs.\n\nThe critical angle (θc) can be found using Snell's Law:\n\nn1 * sin(θ1) = n2 * sin(θ2)\n\nFor total internal reflection, θ2 = 90°, and sin(θ2) = 1.\n\nRearranging Snell's Law to solve for the critical angle:\n\nθc = arcsin(n2 / n1)\n\nWhere n1 is the refractive index of the core (1.5) and n2 is the refractive index of the cladding (1.48).\n\nθc = arcsin(1.48 / 1.5)\nθc ≈ 80.4°\n\nThe maximum angle of incidence of light that can enter the core without being reflected back into the cladding is approximately 80.4°."
+}

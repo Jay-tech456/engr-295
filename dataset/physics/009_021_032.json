@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Polarization of Light",
+    "message_1": "What is the minimum angle of incidence required for unpolarized light incident on a glass-air interface to undergo complete polarization?",
+    "message_2": "The minimum angle of incidence required for unpolarized light incident on a glass-air interface to undergo complete polarization is known as the Brewster's angle. At this angle, the reflected light becomes completely polarized parallel to the interface.\n\nBrewster's angle (θ_B) can be calculated using the following formula:\n\nθ_B = arctan(n2/n1)\n\nwhere n1 is the refractive index of the first medium (air) and n2 is the refractive index of the second medium (glass).\n\nFor air, the refractive index is approximately 1, and for typical glass, the refractive index is around 1.5. Plugging these values into the formula, we get:\n\nθ_B = arctan(1.5/1)\n\nθ_B ≈ 56.3 degrees\n\nSo, the minimum angle of incidence required for complete polarization at a glass-air interface is approximately 56.3 degrees."
+}

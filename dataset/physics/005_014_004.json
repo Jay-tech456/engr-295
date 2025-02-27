@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Special relativity",
+    "sub_topic": "Relativistic particle decay",
+    "message_1": "A neutral pion at rest with a mass of 135 MeV decays into two photons in opposite directions. If one of the photons has an energy of 80 MeV, what is the energy and momentum of the other photon?",
+    "message_2": "Since the neutral pion is initially at rest, the total momentum before and after the decay must be conserved. This means that the momentum of the two photons must be equal and opposite. The energy of the photons is given by E = hf, where h is the Planck constant and f is the frequency of the photon. Since the energy of one photon is given as 80 MeV, we can find the energy of the other photon by conserving the total energy of the system.\n\nThe total energy of the pion is given by its mass-energy, which is 135 MeV. So, the energy of the other photon can be found by subtracting the energy of the first photon from the total energy:\n\nE2 = 135 MeV - 80 MeV = 55 MeV\n\nNow, we can find the momentum of the photons. The momentum of a photon is given by p = E/c, where c is the speed of light. Since the two photons have equal and opposite momenta, we can find the momentum of the second photon by using the energy we just found:\n\np2 = E2/c = (55 MeV)(1/c)\n\nSince we are working in natural units where c = 1, the momentum of the second photon is:\n\np2 = 55 MeV\n\nSo, the energy of the other photon is 55 MeV, and its momentum is 55 MeV/c in the opposite direction of the first photon."
+}

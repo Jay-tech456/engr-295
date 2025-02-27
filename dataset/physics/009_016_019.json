@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Diffraction",
+    "message_1": "A monochromatic laser beam (wavelength = 500 nm) passes through a single slit of width 0.2 mm. The diffraction pattern is observed on a screen placed 2 meters away from the slit. What is the distance between the first minima and the central maximum on the screen?",
+    "message_2": "To solve this problem, we will use the formula for the angular position of the first minima in a single-slit diffraction pattern:\n\nθ = (m * λ) / a\n\nwhere θ is the angular position of the minima, m is the order of the minima (m = 1 for the first minima), λ is the wavelength of the light, and a is the width of the slit.\n\nFirst, we need to convert the given values to meters:\n\nWavelength (λ) = 500 nm = 500 * 10^(-9) m\nSlit width (a) = 0.2 mm = 0.2 * 10^(-3) m\nDistance to the screen (L) = 2 m\n\nNow, we can find the angular position of the first minima:\n\nθ = (1 * 500 * 10^(-9)) / (0.2 * 10^(-3))\nθ = 2.5 * 10^(-6) rad\n\nTo find the distance between the first minima and the central maximum on the screen, we can use the small angle approximation:\n\nx = L * tan(θ) ≈ L * θ\n\nwhere x is the distance between the first minima and the central maximum, and L is the distance between the slit and the screen.\n\nx = 2 * 2.5 * 10^(-6)\nx = 5 * 10^(-6) m\n\nSo, the distance between the first minima and the central maximum on the screen is approximately 5 * 10^(-6) meters or 5 µm."
+}

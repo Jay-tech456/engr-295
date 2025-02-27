@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Gravitational waves",
+    "sub_topic": "Estimating the energy emitted in gravitational waves by a supernova explosion.",
+    "message_1": "What is the total energy that would be released by a supernova explosion in the form of gravitational waves if the explosion releases 10% of the energy in the form of gravitational waves and the rest in the form of light and matter? Assume the total energy released by the supernova is 1.2 x 10^44 Joules.",
+    "message_2": "To find the total energy released by the supernova explosion in the form of gravitational waves, we can use the given information:\n\nTotal energy released by the supernova = 1.2 x 10^44 Joules\nPercentage of energy released as gravitational waves = 10%\n\nNow, we can calculate the energy released as gravitational waves:\n\nEnergy released as gravitational waves = (Total energy released) x (Percentage of energy released as gravitational waves) / 100\n\nEnergy released as gravitational waves = (1.2 x 10^44 Joules) x (10 / 100)\n\nEnergy released as gravitational waves = 1.2 x 10^43 Joules\n\nSo, the total energy released by the supernova explosion in the form of gravitational waves is 1.2 x 10^43 Joules."
+}

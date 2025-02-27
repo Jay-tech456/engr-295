@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of heat capacity of a substance",
+    "message_1": "What is the specific heat capacity of a copper rod which absorbs 100 J of heat energy when the rod's temperature rises from 20°C to 30°C, if the mass of the copper rod is 200 g?",
+    "message_2": "To find the specific heat capacity of the copper rod, we can use the formula:\n\nQ = mcΔT\n\nwhere Q is the heat energy absorbed (100 J), m is the mass of the copper rod (200 g), c is the specific heat capacity, and ΔT is the change in temperature (30°C - 20°C = 10°C).\n\nFirst, we need to rearrange the formula to solve for c:\n\nc = Q / (mΔT)\n\nNow, we can plug in the values:\n\nc = 100 J / (200 g × 10°C)\n\nc = 100 J / 2000 g°C\n\nc = 0.05 J/g°C\n\nSo, the specific heat capacity of the copper rod is 0.05 J/g°C."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Special relativity",
+    "sub_topic": "Relativistic wave Doppler effect",
+    "message_1": "A spaceship is travelling away from Earth at a speed of 0.8c. The spaceship emits a radio signal at a frequency of 1 GHz. What frequency does the radio signal appear to have to a stationary observer on Earth? (Assume the speed of light is 3 x 10^8 m/s)",
+    "message_2": "To solve this problem, we will use the Doppler effect formula for relativistic speeds:\n\nf_observed = f_source * sqrt((1 - v/c) / (1 + v/c))\n\nwhere f_observed is the frequency observed on Earth, f_source is the frequency emitted by the spaceship (1 GHz), v is the speed of the spaceship (0.8c), and c is the speed of light (3 x 10^8 m/s).\n\nf_observed = (1 GHz) * sqrt((1 - 0.8) / (1 + 0.8))\n\nf_observed = (1 GHz) * sqrt(0.2 / 1.8)\n\nf_observed ≈ (1 GHz) * sqrt(0.1111)\n\nf_observed ≈ (1 GHz) * 0.3333\n\nf_observed ≈ 0.3333 GHz\n\nSo, the frequency of the radio signal observed on Earth is approximately 0.3333 GHz."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of efficiency of a refrigerator",
+    "message_1": "A refrigerator operates between a cold temperature of -10°C and a hot temperature of 30°C. If it consumes 1200 J of energy and removes 450 J of heat from the cold reservoir, what is the efficiency of the refrigerator?",
+    "message_2": "To calculate the efficiency of the refrigerator, we need to determine the coefficient of performance (COP). The COP is the ratio of the heat removed from the cold reservoir (Qc) to the work done by the refrigerator (W).\n\nCOP = Qc / W\n\nIn this case, the refrigerator removes 450 J of heat from the cold reservoir (Qc = 450 J) and consumes 1200 J of energy (W = 1200 J).\n\nCOP = 450 J / 1200 J = 0.375\n\nThe efficiency of the refrigerator is 37.5%."
+}

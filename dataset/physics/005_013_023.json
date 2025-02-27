@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Special relativity",
+    "sub_topic": "Relativistic particle collisions",
+    "message_1": "A particle of rest mass 2 GeV/c² collides head-on with an antiparticle of rest mass 2 GeV/c². They annihilate each other and form two photons of equal energy. What is the energy of each photon?",
+    "message_2": "When a particle and its corresponding antiparticle collide and annihilate each other, their rest mass energy is converted into the energy of the resulting photons. The total energy of the system is conserved.\n\nThe rest mass energy of each particle can be calculated using Einstein's famous equation:\n\nE = mc²\n\nwhere E is the energy, m is the mass, and c is the speed of light.\n\nFor each particle, the rest mass energy is:\n\nE = (2 GeV/c²) * c² = 2 GeV\n\nSince there are two particles (the particle and its antiparticle), the total energy of the system before the annihilation is:\n\nTotal energy = 2 * 2 GeV = 4 GeV\n\nAfter the annihilation, this energy is converted into the energy of two photons. Since the photons have equal energy, we can divide the total energy by 2 to find the energy of each photon:\n\nEnergy of each photon = (4 GeV) / 2 = 2 GeV\n\nSo, each photon has an energy of 2 GeV."
+}

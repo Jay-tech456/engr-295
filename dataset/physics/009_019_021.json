@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Young's Double Slit Experiment",
+    "message_1": "What is the distance between the two slits if the second order maximum in a Young's Double Slit Experiment is measured to be 4 cm from the center of the central maximum, and the distance from the slits to the screen is 1 meter, given that the wavelength of the light used is 600 nm?",
+    "message_2": "In a Young's Double Slit Experiment, the positions of the maxima on the screen can be calculated using the formula:\n\ny = (m * λ * L) / d\n\nwhere:\ny = distance from the central maximum to the m-th order maximum (in meters)\nm = order of the maximum (0 for central maximum, 1 for first order maximum, etc.)\nλ = wavelength of the light used (in meters)\nL = distance from the slits to the screen (in meters)\nd = distance between the two slits (in meters)\n\nWe are given:\ny = 4 cm = 0.04 m (distance to the second order maximum)\nm = 2 (second order maximum)\nλ = 600 nm = 600 * 10^(-9) m\nL = 1 m\n\nWe need to find d. Rearranging the formula to solve for d, we get:\n\nd = (m * λ * L) / y\n\nSubstituting the given values:\n\nd = (2 * 600 * 10^(-9) * 1) / 0.04\n\nd = 1.2 * 10^(-5) / 0.04\n\nd = 3 * 10^(-7) m\n\nSo, the distance between the two slits is 3 * 10^(-7) meters or 300 nm."
+}

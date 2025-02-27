@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "General relativity",
+    "sub_topic": "The Reissner-Nordström metric and charged black holes",
+    "message_1": "What is the electric potential at the event horizon of a Reissner-Nordström black hole with a charge Q and mass M?",
+    "message_2": "The Reissner-Nordström black hole is a charged, non-rotating black hole. Its metric is given by the following expression:\n\nds² = -(1 - 2M/r + Q²/r²)dt² + (1 - 2M/r + Q²/r²)⁻¹dr² + r²(dθ² + sin²θ dφ²)\n\nThe event horizon of a Reissner-Nordström black hole is located at the larger root of the equation:\n\n1 - 2M/r + Q²/r² = 0\n\nSolving for r, we get the radius of the event horizon:\n\nr_+ = M + sqrt(M² - Q²)\n\nNow, let's find the electric potential at the event horizon. The electric potential V(r) of a charged black hole is given by:\n\nV(r) = Q / r\n\nAt the event horizon (r = r_+), the electric potential is:\n\nV(r_+) = Q / (M + sqrt(M² - Q²))\n\nSo, the electric potential at the event horizon of a Reissner-Nordström black hole with charge Q and mass M is:\n\nV(r_+) = Q / (M + sqrt(M² - Q²))"
+}
