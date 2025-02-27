@@ -115,16 +115,3 @@ class PineconeUploader:
 
         tqdm.write("Vector upload completed.")
         return self.index
-
-# Example usage
-async def main():
-    uploader = PineconeUploader(
-        api_key="pcsk_34SVcY_3wqh89LJdtz85uT2cd2QHEw8nXMZVDwWhwnSzkFDT2gLca1ynRxKxQopji1D7Rj",
-        index_name="physics"
-    )
-    physics_directory = "physics"  # Replace with your physics data directory
-    await uploader.create_vectorstore(physics_directory)
-
-if __name__ == "__main__":
-    import asyncio
-    asyncio.run(main())
