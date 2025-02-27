@@ -7,6 +7,7 @@ import numpy as np
 import pickle
 from langchain_community.embeddings import OllamaEmbeddings
 from dotenv import load_dotenv
+import fickling
 
 load_dotenv()
 API_KEY = os.getenv("PINECONE_API_KEY")
@@ -69,7 +70,7 @@ class PineconeUploader:
         start_idx = 0
         if checkpoint_file.exists():
             with open(checkpoint_file, "rb") as f:
-                start_idx = pickle.load(f)
+                start_idx = fickling.load(f)
             tqdm.write(f"Resuming from checkpoint: {start_idx}")
 
         batch_size = 50
