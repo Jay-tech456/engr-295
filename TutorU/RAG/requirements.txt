@@ -1,0 +1,16 @@
+# 1) Install Conda
+# 2) Create a Conda Environment
+    # conda create -n physics_ai python=3.9 -y
+# 3) Activate Conda Environment 
+    # conda activate physics_ai
+# 4) Run pip install -r requirements.txt
+
+langchain_pinecone
+langchain_core
+langchain
+pinecone
+pydantic
+requests
+typing
+python-dotenv
+langgraph
