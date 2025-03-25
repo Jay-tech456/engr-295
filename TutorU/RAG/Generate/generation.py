@@ -9,6 +9,7 @@ from langchain_community.embeddings import OllamaEmbeddings
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 import sys
 import os
+from langchain_ollama import OllamaEmbeddings
 
 # Adjusting system path so that we can import Retriever and utils
 sys.path.append(os.path.abspath(os.path.join(os.getcwd(), '..')))
