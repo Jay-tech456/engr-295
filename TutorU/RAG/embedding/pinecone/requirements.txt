@@ -1,0 +1,6 @@
+tqdm==4.66.1
+# pinecone-client==2.2.4
+pinecone==6.0.0
+numpy==1.26.4
+ollama
+langchain==0.1.16
