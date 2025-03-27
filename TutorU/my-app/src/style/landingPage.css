@@ -1,0 +1,139 @@
+/* General Page Styling */
+.landing-container {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #333;
+    background: #fff;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 90%;
+    padding: 20px 0;
+    border-bottom: 1px solid #ccc;
+}
+
+.logo {
+    font-size: 30px;
+    font-weight: bold;
+    color: #000;
+}
+
+.nav-links a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: #000;
+    font-weight: 500;
+    transition: color 0.3s;
+}
+
+.nav-links a:hover {
+    color: #00abf0;
+}
+
+/* Main Content */
+.main-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 90%;
+    height: 100%;
+    margin-top: 40px;
+}
+
+/* Image Section */
+.image-section {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 45%;
+}
+
+.image-section img {
+    width: 100%;
+    max-width: auto;
+    height: auto;
+    object-fit: contain;
+    animation: fadeIn 1s ease-in-out;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+/* Text Section */
+.text-section {
+    flex: 1;
+    max-width: 50%;
+    line-height: 1.8;
+    padding-left: 40px;
+}
+
+.text-section h1 {
+    font-size: 50px;
+    color: #000;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.text-section p {
+    font-size: 20px;
+    font-weight: 400;;
+    margin-bottom: 30px;
+}
+
+/* Learn More Link Styling */
+.learn-more-link {
+    font-size: 30px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s, transform 0.3s;
+    display: inline-block;
+    margin-top: 20px;
+}
+
+.learn-more-link:hover {
+    color: #007bb5;
+    transform: translateX(5px);  /* Slight right movement */
+}
+
+/* Fade-in Animation */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Responsive Design */
+@media (max-width: 1024px) {
+    .main-content {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .image-section, .text-section {
+        max-width: 90%;
+        margin: 20px 0;
+    }
+
+    .text-section h1 {
+        font-size: 36px;
+    }
+    
+    .text-section p {
+        font-size: 16px;
+    }
+
+    .learn-more-link {
+        font-size: 18px;
+    }
+}
