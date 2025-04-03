@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Quantum mechanics",
+    "sub_topic": "Quantum entanglement and non-locality",
+    "message_1": "A photon is split into two entangled photons with opposite spin directions. One photon is sent to a laboratory on Earth while the other is sent to a laboratory orbiting the moon. What is the probability that measuring the spin of the photon on Earth will affect the spin of the photon orbiting the moon, and how does this demonstrate non-locality in quantum mechanics?",
+    "message_2": "In the case of entangled photons, the probability that measuring the spin of the photon on Earth will affect the spin of the photon orbiting the moon is 100%. This is because entangled particles are described by a single quantum state, and when you measure one of the entangled particles, the other particle's state is instantly determined, regardless of the distance between them.\n\nThis phenomenon demonstrates non-locality in quantum mechanics, as it implies that the information about the state of the entangled particles is shared instantaneously between them, even if they are separated by vast distances. This is in contrast to classical mechanics, where information cannot travel faster than the speed of light. The concept of non-locality challenges our understanding of space and time and is one of the key features that distinguishes quantum mechanics from classical mechanics."
+}
