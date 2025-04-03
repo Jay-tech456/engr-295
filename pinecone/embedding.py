@@ -2,7 +2,7 @@ import json
 import os
 from pathlib import Path
 from tqdm import tqdm
-from pinecone import Pinecone
+import pinecone
 import numpy as np
 import pickle
 from langchain_community.embeddings import OllamaEmbeddings
@@ -12,8 +12,8 @@ load_dotenv()
 API_KEY = os.getenv("PINECONE_API_KEY")
 
 class PineconeUploader:
-    def __init__(self, api_key, index_name, dimension=768):
-        if not API_KEY:
+    def __init__(self, api_key = API_KEY, index_name="Testing", dimension=768):
+        if not api_key:
             raise ValueError("API Key is missing. Make sure it's set in the .env file.")
         
         self.api_key = API_KEY
@@ -21,18 +21,19 @@ class PineconeUploader:
         self.dimension = dimension
         self.embeddings = OllamaEmbeddings(model="nomic-embed-text")
         
-        # Initialize Pinecone with new syntax
-        self.pc = Pinecone(api_key=self.api_key)
-        
+        # Initialize Pinecone
+        pinecone.init(api_key=self.api_key)  # Change region if needed
+
         # Check if index exists, if not create it
-        if self.index_name not in self.pc.list_indexes().names():
-            self.pc.create_index(
+        existing_indexes = pinecone.list_indexes()
+        if self.index_name not in existing_indexes:
+            pinecone.create_index(
                 name=self.index_name,
                 dimension=self.dimension,
-                metric='cosine'
+                metric="cosine"
             )
-        
-        self.index = self.pc.Index(self.index_name)
+
+        self.index = pinecone.Index(self.index_name)
 
     def load_and_process_documents(self, directory_path):
         documents = []
@@ -49,15 +50,15 @@ class PineconeUploader:
                 # Process the physics problem-solution pair
                 metadata = {
                     "role_1": data.get("role_1", "unknown"),
-                    "topic": data.get("topic;", "unknown"),
+                    "topic": data.get("topic", "unknown"),
                     "sub_topic": data.get("sub_topic", "unknown"),
                     "source": str(json_file.name)
                 }
                 
                 # Combine problem and solution for embedding
                 content = f"Problem: {data.get('message_1', '')}\nSolution: {data.get('message_2', '')}"
-                documents.append({"metadata": metadata, "content": content})
-                
+                documents.append({"metadata": metadata, "page_content": content})  # Ensure "page_content" is used
+        
         return documents
 
     async def create_vectorstore(self, physics_dir):
@@ -80,7 +81,7 @@ class PineconeUploader:
             for idx, doc in enumerate(batch_docs):
                 try:
                     # Generate embedding using OllamaEmbeddings
-                    embedding = self.embeddings.embed_query(doc["content"])
+                    embedding = self.embeddings.embed_query(doc["page_content"])  # ✅ FIXED
                     # Generate a unique vector ID
                     vector_id = f"{doc['metadata']['topic']}_{doc['metadata']['sub_topic']}_{i+idx}"
                     
@@ -89,7 +90,7 @@ class PineconeUploader:
                         "values": embedding,
                         "metadata": {
                             **doc["metadata"],
-                            "content": doc["content"]  # Store content in metadata for retrieval
+                            "page_content": doc["page_content"]  # ✅ Store "page_content" for retrieval
                         }
                     }
                     batch_vectors.append(vector)
