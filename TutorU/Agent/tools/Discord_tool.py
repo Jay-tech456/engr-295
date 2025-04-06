@@ -30,5 +30,5 @@ class Discord_tool:
 
 
 # if __name__ == "__main__": 
-#     testing = Discord_tool("https://discord.com/api/webhooks/1356111484244983859/MdKULHOwZ-bYFjhEORITJEUtA7QTEyOwOWhVDPT-ER5vZkzSQA16RyaEmAj5lB8hkI6Z")
+#     testing = Discord_tool("")
 #     testing.send("Niccy has no Rizz")

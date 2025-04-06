@@ -34,5 +34,5 @@ class Retrive_tool:
 
 # if __name__ == "__main__":
 #     embeddings = OllamaEmbeddings(model="nomic-embed-text")
-#     Retrive_tool = Retrive_tool("physics", embeddings, "pcsk_4JbxFQ_ER3PXrERZ8MZCFnuCVVvSSyMvwwbY12TNjS9v3mvhArhqRBKSL3ybBVRxyRFUge")
+#     Retrive_tool = Retrive_tool("physics", embeddings, "")
 #     li = Retrive_tool.retrieve("Quantumn Theory")
