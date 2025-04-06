@@ -1,0 +1,15 @@
+tavily-python
+flask
+python-dotenv
+langchain_pinecone
+langchain_core
+langchain
+pinecone
+pydantic
+requests
+typing
+python-dotenv
+langgraph
+langchain_ollama
+langchain-community
+langchain_mistralai
