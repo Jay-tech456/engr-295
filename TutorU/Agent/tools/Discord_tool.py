@@ -21,7 +21,7 @@ class Discord_tool:
         """
         data = {"content": message}
         try:
-            response = requests.post(self.discord_webhook, json=data)
+            response = requests.post(self.discord_webhook, json=data, timeout=60)
             if response.status_code == 204:
                 return {'message': 'success'}
             return {'message': f'Failed to send message. Status code: {response.status_code}'}
